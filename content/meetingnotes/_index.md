@@ -3,4 +3,4 @@ title: Meeting notes
 next: first-meeting
 ---
 
-Here we will keep all the meeting notes
+For both practical reasons and transparency, we will keep all the meeting notes here.

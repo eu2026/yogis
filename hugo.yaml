@@ -1,7 +1,6 @@
 # Hugo configuration file
 title: EU2026 - Yogis
 
-# import hextra as module
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -24,19 +23,15 @@ menu:
     - name: Meeting Notes
       pageRef: /meetingnotes
       weight: 2
-    - name: Register ↗
-      url: "https://github.com/imfing"
+    - name: Origins
+      pageRef: /origins
       weight: 3
+
 
 params:
   navbar:
     displayTitle: true
     displayLogo: false
-
-  theme:
-    # light | dark | system
-    default: light
-    displayToggle: true
 
   footer:
     displayCopyright: false
