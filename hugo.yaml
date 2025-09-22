@@ -26,7 +26,11 @@ menu:
     - name: Origins
       pageRef: /origins
       weight: 3
-
+    - name: Presentation
+      weight: 4
+      url: https://eu2026.github.io/presentation/
+      params:
+        icon: sparkles
 
 params:
   navbar:
