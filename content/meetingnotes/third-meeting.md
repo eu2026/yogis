@@ -2,7 +2,7 @@
 title: Third Meeting
 type: docs
 prev: second-meeting
-next: /
+next: fourth-meeting
 ---
 
 This was not a single meeting but in fact many meetings that took
