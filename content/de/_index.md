@@ -4,6 +4,10 @@ toc: false
 
 # Jai Shri Mataji ❤️
 
+{{< callout >}}
+  AI-generierte Übersetzung
+{{< /callout >}}
+
 Dies ist die Dokumentations-Website für das bevorstehende Euro-Tour-Projekt!
 
 Mit diesem Projekt hoffen wir, die willkürlichen Grenzen unserer einzelnen Nationen zu überschreiten und gemeinsam Sahaja Yoga und spirituelles Erwachen zu den Massen zu bringen!

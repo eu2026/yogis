@@ -4,6 +4,10 @@ toc: false
 
 # Jai Shri Mataji ❤️
 
+{{< callout >}}
+  Traducido por AI
+{{< /callout >}}
+
 ¡Este es el sitio web de documentación para el próximo proyecto de la gira europea.
 Con este proyecto, esperamos ir más allá de las fronteras arbitrarias de nuestras
 naciones individuales y trabajar juntos para llevar el Sahaja Yoga y

@@ -4,6 +4,10 @@ toc: false
 
 # Jai Shri Mataji ❤️
 
+{{< callout >}}
+  Traduction générée par AI
+{{< /callout >}}
+
 Bienvenue sur le site de documentation du projet de la tournée
 européenne à venir ! Avec ce projet, nous espérons dépasser
 les frontières arbitraires de nos nations individuelles et
