@@ -21,13 +21,10 @@ menu:
       pageRef: /routes
       weight: 1
     - name: Meeting Notes
-      pageRef: /meetingnotes
+      pageRef: /meetings
       weight: 2
-    - name: Origins
-      pageRef: /origins
-      weight: 3
     - name: Presentation
-      weight: 4
+      weight: 3
       url: https://www.canva.com/design/DAG0G2uM6s0/rSiMJH-yccbsfCBEDUSFxw/view?utm_content=DAG0G2uM6s0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c31d7f2fe
       params:
         icon: sparkles
