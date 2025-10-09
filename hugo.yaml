@@ -5,6 +5,26 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+  de:
+    languageName: Deutsch
+    weight: 2
+    contentDir: content/de
+  es:
+    languageName: Espanish
+    weight: 2
+    contentDir: content/es
+  fr:
+    languageName: Français
+    weight: 4
+    contentDir: content/fr
+
+
 markup:
   # allow raw html
   goldmark:
@@ -28,6 +48,12 @@ menu:
       url: https://www.canva.com/design/DAG0G2uM6s0/rSiMJH-yccbsfCBEDUSFxw/view?utm_content=DAG0G2uM6s0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c31d7f2fe
       params:
         icon: sparkles
+    - name: Cabella Presentation
+      weight: 4
+      url: https://www.youtube.com/live/LBA2kEM0LvI?si=hM827WYvUdK_rtfk&t=2027
+      params:
+        icon: youtube
+
 
 params:
   navbar:
