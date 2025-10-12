@@ -58,7 +58,7 @@ at some point meet with the primary route!
 
 We will use the Austrian Yuva bank account for collecting all donations, tour
 fees and processing all the refunds and payments. This is a shared bank account
-owned by 3 diligent Yogis (Lukas, Nandini and Sharmila) and has been used in many
+managed by 3 diligent Yogis (Lukas, Nandini and Sharmila) and has been used in many
 Sahaj tours and projects in the past 2 years. The project organizers have no
 access to this bank account.
 
