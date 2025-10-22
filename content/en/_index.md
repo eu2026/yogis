@@ -65,7 +65,7 @@ access to this bank account.
 The funds that are collected will be used for all the routes and will not be tied
 to a specific region. This is one of the more interesting aspects of the project.
 The relatively poorer
-countries such as Portugal and Greece, have fewer Yogis and fewer Sahaj
+countries such as Portugal, have fewer Yogis and fewer Sahaj
 resources. This means that tour in these regions will be more expensive
 (for example because there are no options for accommodation with the Yogis) and
 harder for local Yogis to financially cover (fewer Yogis and lower income).
@@ -96,9 +96,13 @@ different pitch than a standard public program! And a program in a
 kindergarten or a busy park doesn't really need to be advertised at all!
 It makes sense to share as much of the advertisement materials as possible,
 but again, we should always see if it makes sense for the given region.
-We are still early days in terms of marketing and many things need to be decided
-including how much new resources should we create and how much should we reuse
-the existing resources.
+
+As for our online presence, Instead of creating new website and social media
+outlets for the tour, we will reuse existing local resources. This has the
+immediate benefit of bringing traffic to existing online resources, is less
+effort on our side and involves the locals more! If the local yogis do not have
+these resources (website, social mediate etc.), we will work together and
+create these resources and hand them over to the local after the tour!
 
 ### The Team
 

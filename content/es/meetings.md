@@ -143,3 +143,63 @@ So there were many updates.
 - As things are now, it is most important to bring local collectives on board
   and start fixing the routes.
 {{% /details %}}
+
+{{% details title="First Portugal specific meeting" closed="true" %}}
+This was the first meeting where we went a bit deeper into logistics of Portugal
+specifically.
+
+- We mostly focused on Lisbon and areas were we can do programs.
+  There are few leads to follow but generally speaking, we need
+  to look into venues and parks or open spaces where we can do program.
+  Jardim da Estrela was a park candidate and nearby Casa do Jardim da Estrela
+  could potentially be rented for a program
+- Programs in parks and open spaces are good because we don't need to pay much
+  (or at all). In venues, we have to pay for venue and advertisement but we do
+  have people for longer and can work on them more. Look for smaller venues!
+  Maybe up to 50 people. Open space programs and street realization can also
+  be used for promoting the programs in the halls. It is perfectly fine to,
+  for example, do a program in a park on a Sunday morning and Sunday
+  evening go to hall and do another small program.  
+- Other possibilities for doing programs are work places (meditation for stress
+  reduction for example), schools, universities, etc. Realistically speaking,
+  only local yogis can look into these and see if any opportunities come up
+- As for accommodation, we do have to book something in Lisbon and/or Porto.
+  Things would be simpler if we could somehow make a base camp between the
+  two big cities in Leiria for example. But it seems just a bit too far...
+- It seems like Sahaja Yoga Portugal does not have a website ... If the local
+  yogis think this is useful, we could make one and hand it over to locals!
+  We should also try to translate https://wemeditate.com/ to Portuguese for
+  seekers!
+{{% /details %}}
+
+{{% details title="First marketing meeting" closed="true" %}}
+This was the first meeting where we talked specifically about
+marketing the tour - both to yogis and seekers.
+
+The most important topic that got discussed was how to approach the seekers.
+Should we have a unified front for the seekers under the same banner or not?
+Considering that we are passing through many countries and can potentially
+have many types of programs (from normal public programs to music programs,
+to school programs etc.), we decided that it makes the most sense to use
+the existing sahaj resources of each collective instead of creating new outlets.
+What this means is that we will not create social media accounts or websites
+for seekers to promote the tour and programs. Instead we will use the existing
+websites and social media platforms that local yogis have and promote the programs
+via those. This has the immediate benefit of bringing traffic to existing sahaj
+portals. Also less effort for us and efforts will not be wasted after the tour
+is finished!  We will still have to create various online and print advertising materials
+so nothing changes there... These materials have to be made in a way that
+makes sense for the region and type of program. If we can re-use a lot of designs
+and wordings, great! If not, we have to do something a bit more customized.
+
+- Durga will try make a video for the tour so that we can show in Diwali Puja weekend!
+- Padmini will contact Cabella regarding our stay. It is likely that touring Yogis
+  will stay a few days after Sahasrara Puja in Cabella and come a a few days before
+  Guru Puja. So we need to ask permission for this.
+- I will talk to UK people about the same topic... Coming earlier to Blossoms farm
+  and leaving a few days after Shri Adi Shakti Puja.
+- A few updates to be done on the yogis website to make the participating countries
+  more visible/explicit
+- Padmini can look into putting together the first drafts of a registration form
+- Durga can support with online advertising of the programs
+{{% /details %}}
