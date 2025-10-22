@@ -145,6 +145,9 @@ So there were many updates.
 {{% /details %}}
 
 {{% details title="First Portugal specific meeting" closed="true" %}}
+[link to recording](https://us06web.zoom.us/rec/share/XQ56tZQfvbE22YQ6U18BGv-Vx6T2-ivWR2UOXjZQpuA1L1LjYlYbk-666inIOoS8.A9csvGeK7UJCSB4h)
+Passcode: `k?0eJCZ6`
+
 This was the first meeting where we went a bit deeper into logistics of Portugal
 specifically.
 
@@ -173,6 +176,9 @@ specifically.
 {{% /details %}}
 
 {{% details title="First marketing meeting" closed="true" %}}
+[link to recording](https://us06web.zoom.us/rec/share/CIZD6lolinvvTS1m6UAdu5BJ4V6vbpfpyv36Y4t6NPVNJocoa2grxCojuhzgkr65._voRg4IUKsstWqeC)
+Passcode: `.Phzezc8`
+
 This was the first meeting where we talked specifically about
 marketing the tour - both to yogis and seekers.
 
