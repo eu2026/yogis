@@ -55,14 +55,14 @@ briefly explain here:
   if possible, talk about Sahaja Yoga and point seekers to the local programs and
   local Yogis. Which is also why it's important to do the tour in areas where follow-up
   programs are possible. As discussed in the marketing meeting, we will not create
-  dedicated social media outlets and websites for the tour. We will use whatever
+  dedicated social media outlets and websites for the seekers. We will use whatever
   resources that local Yogis have and if needed, we will help them build up their
   local resources. We will try to make some content and re-use as much as possible
   but in the end, the advertising materials must make sense for the local programs.
   We will NOT have a centralized marketing approach simply because the
   project is too big! The approach of having the same marketing content for the whole
   tour works when there is a central theme for the seekers (i.e. inner peace, yoga,
-  being in the moment etc.). For this project, coming with a single theme is neither
+  being in the moment etc.). For this project, coming up with a single theme is neither
   practical nor necessary.
 
 {{% /details %}}
