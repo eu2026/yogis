@@ -4,72 +4,107 @@ toc: false
 
 # Routes
 
+{{< callout type="warning" >}}
+  Remember that for entry to England, you most likely need an
+  Electronic Travel Authorisation (ETA).
+  [Click here to learn more](https://www.gov.uk/eta/apply)
+{{< /callout >}}
+
 {{% steps %}}
 
-### 09.05 to 27.05
-{{% details title="🇮🇹 🇫🇷 🇨🇭 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
+### 05.05 to 31.05
 
-**09.05 to 12.05 ->** Northern Italy (Milan, Genoa, Turin, etc.)
+{{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 
-**12.05 to 19.05 ->** South France, Switzerland and Andorra (Lyon, Geneva, Toulouse, Perpignan, etc.)
+**05.05 to 11.05 ->** Northern Italy and possibly ending up at the
+Mediterranean close to the border
 
-**19.05 to 27.05 ->** Spain
+**11.05 to 13.05 ->** Nice
 
-**27.05 ->** Lisbon
+**13.05 to 15.05 ->** Marseille
+
+**15.05 to 17.05 ->** Montpellier
+
+**17.05 to 19.05 ->** Toulouse
+
+**19.05 to 21.05 ->** Andorra
+
+**21.05 to 23.05 ->** Perpignan
+
+**23.05 to 25.05 ->** Barcelona
+
+**25.05 to 27.05 ->** Zaragoza
+
+**27.05 to 29.05 ->** Madrid
+
+**29.05 to 31.05 ->** Lisbon
 
 {{% /details %}}
 
-### 30.05 to 21.06
+### 05.06 to 25.06
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 
-**30.05 to 02.06 ->** Lisbon
+**05.06 to 08.06 ->** Lisbon
 
-**02.06 to 04.06 ->** Leiria
+**08.06 to 10.06 ->** Leiria
 
-**04.06 to 07.06 ->** Porto
+**10.06 to 12.06 ->** Porto
 
-**07.06 to 13.06 ->** Norther Spain
+**12.06 to 15.06 ->** Vigo and Santiago de Compostela
 
-**13.06 to 21.06 ->** France
+**15.06 to 18.06 ->** Donostia / San Sebastián
 
-**21.06 ->** Blossoms Farm
+**18.06 to 25.06 ->** France
+
+
+**25.06 ->** Blossoms Farm
 
 {{% /details %}}
 
-### 27.06 to 19.07
+### 29.06 to 05.07
+
+{{% details title="🇬🇧" closed="true" %}}
+
+**29.06 to 05.07 ->** England
+
+{{% /details %}}
+
+### 01.07 to 26.07
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 
-**27.06 to 30.06 ->** Finland
+**01.07 to 05.06 ->** Finland
 
-**30.06 to 03.07 ->** Estonia
+**05.07 to 09.06 ->** Estonia
 
-**03.07 to 06.07 ->** Latvia
+**09.07 to 13.07 ->** Latvia
 
-**06.07 to 09.07 ->** Lithuania
+**13.07 to 17.07 ->** Lithuania
 
-**09.07 to 13.07 ->** Poland
+**17.07 to 24.07 ->** Poland
 
-**13.07 to 15.07 ->** Berlin
-
-**15.07 to 19.07 ->** Frankfurt seminar!
+**24.07 to 26.07 ->** Berlin
 
 {{% /details %}}
 
-### 30.06 to 19.07
+### 01.07 to 26.07
 
-{{% details title="🇬🇧 🇧🇪 🇳🇱 🇩🇪" closed="true" %}}
+{{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
 
-**30.06 to 03.07 ->** Belgium
+**01.07 to 05.06 ->** Belgium
 
-**03.07 to 06.07 ->** Netherlands
+**05.07 to 09.07 ->** Netherlands
 
-**06.07 to 12.07 ->** Northern Germany and Luxembourg (Düsseldorf, Cologne, etc.)
+**09.07 to 14.07 ->** Düsseldorf / Cologne / Essen
 
-**12.07 to 15.07 ->** Frankfurt
+**14.07 to 17.07 ->** Frankfurt
 
-**15.07 to 19.07 ->** Frankfurt seminar!
+**17.07 to 20.07 ->** Nuremberg
+
+**20.07 to 23.07 ->** Stuttgart
+
+**23.07 to 26.07 ->** Zürich / Basel
 
 {{% /details %}}
 
@@ -88,20 +123,6 @@ toc: false
 **23.07 to 26.07 ->** Switzerland
 
 **26.07 ->** Cabella
-
-{{% /details %}}
-
-### 19.07 to 31.07
-
-{{% details title="🇩🇪 🇦🇹 🇨🇭 🇮🇹" closed="true" %}}
-
-**19.07 to 22.07 ->** Stuttgart
-
-**22.07 to 26.07 ->** Munich and Nuremberg
-
-**26.07 to 31.07 ->** Triborder of Austria, Germany and Switzerland
-
-**31.07 ->** Cabella
 
 {{% /details %}}
 

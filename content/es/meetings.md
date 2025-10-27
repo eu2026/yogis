@@ -209,3 +209,62 @@ and wordings, great! If not, we have to do something a bit more customized.
 - Padmini can look into putting together the first drafts of a registration form
 - Durga can support with online advertising of the programs
 {{% /details %}}
+
+{{% details title="Fifth general meeting" closed="true" %}}
+[link to recording](https://us06web.zoom.us/rec/share/M7KkudLLIITOa8-Sw4StPIeRAGnJ67BrjCcEWeK_ZvbRUH35p99LNRwN9zs-N7NH.VYQMbVfmLsh2Tc7d)
+Passcode: `ikNy7z^g`
+
+This was a big meeting with almost all representatives there! We had
+the single goal of clarifying the routes and dates. I dare
+say we managed!
+
+The result of discussions is relfected in the [routes](../routes) page.
+
+Besides the routes, some general questions came up which I'll try to
+briefly explain here:
+
+- Regarding the length of the tour, I personally prefer 3 weeks however
+  sometimes that is not possible and dates spill over a bit. For many working
+  professionals it is difficult to take 3 weeks of leave. Besides, longer tours
+  tend to be more expensive and harder to manage. To balance things out a bit,
+  we usually give people the option to join a part of the tour. In practice, this
+  can be executed a few different ways. For example, you could allow yogis to join
+  half the tour and pay half the amount. Or you could allow them to come at least
+  for a week, meaning that Yogis can decide when and where to join. You could even
+  put a daily price for the tour and allow Yogis to come for just a few days!
+  The more flexibility we give to Yogis, the more Yogis can join, but it makes
+  the organizing work harder. Also having people constantly rotating doesn't help
+  with creating a group dynamic. We have to consider all of these things and
+  come up with a solution that works for this project.
+- Regarding transport, we will mostly rely on cars. Some touring Yogis will bring
+  their own car to the tour, sometimes we can get cars from local Yogis and of course
+  sometimes we have to rent cars. We will try to use Yogis' cars as much as possible
+  to avoid dealing with car rental companies. But realistically we will most likely
+  end up renting a few cars. We can also use public transport to fill the gaps.
+  For example, if 2 or 3 people don't have a seat for just a day, they can potentially
+  take a train or a bus to the next city.
+- Regarding the number of attendees, I personally would cap it at max 30 people.
+  This means that realistically at any given time, there will be around 20 to
+  30 touring Yogis. If we see that a route is expensive or there is just not
+  enough programs to require 30 people, we could consider reducing the limit.
+  We could also go the other way and increase the limit but have to keep in
+  mind that all touring Yogis need something meaningful to do. Also more people
+  sometimes (but not always) makes the tour more expensive.
+- Regarding the programs, touring Yogis can usually do any type of program. It is
+  up to the local Yogis to see what program makes the most sense for them. For example,
+  in your city, do you want to do a music program? A good old normal public program?
+  Realization in the park? Or school? Etc. The end goal is to give realization and
+  if possible, talk about Sahaja Yoga and point seekers to the local programs and
+  local Yogis. Which is also why it's important to do the tour in areas where follow-up
+  programs are possible. As discussed in the marketing meeting, we will not create
+  dedicated social media outlets and websites for the tour. We will use whatever
+  resources that local Yogis have and if needed, we will help them build up their
+  local resources. We will try to make some content and re-use as much as possible
+  but in the end, the advertising materials must make sense for the local programs.
+  We will NOT have a centralized marketing approach simply because the
+  project is too big! The approach of having the same marketing content for the whole
+  tour works when there is a central theme for the seekers (i.e. inner peace, yoga,
+  being in the moment etc.). For this project, coming with a single theme is neither
+  practical nor necessary.
+
+{{% /details %}}
