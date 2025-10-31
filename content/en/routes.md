@@ -102,7 +102,7 @@ Mediterranean close to the border
 
 **17.07 to 20.07 ->** Nuremberg
 
-**20.07 to 23.07 ->** Stuttgart
+**20.07 to 23.07 ->** South-west Germany
 
 **23.07 to 26.07 ->** Zürich / Basel
 
