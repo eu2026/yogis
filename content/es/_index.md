@@ -8,6 +8,18 @@ toc: false
   Traducido por AI
 {{< /callout >}}
 
+> Europa, una miríada de idiomas, culturas y formas de ver el mundo.
+> Un desafío histórico para encontrar la unidad y un desafío actual para avanzar
+> con una sola voz.
+> 
+> Nuestra cultura trasciende y une todas las culturas; es la cultura Sahaj, la cultura del Espíritu. Nuestro lenguaje es universal; es el lenguaje de las vibraciones divinas que se sienten a través del despertar de nuestra Kundalini. Nuestro poder es el del Inocencia iluminada, que nos permite ver a los demás tal como son, más allá de todas las barreras, fronteras y diferencias. Nuestro arte es aquel que emana el aliento de la alegría.
+> 
+> El amor divino es lo que vivimos, hablamos y somos. La verdad es lo que buscamos. La disciplina y la rectitud son nuestra espada y nuestra armadura.
+> 
+> Unidad en la diversidad. Experimentar lo Divino al alcance de la mano a través de Sahaja Yoga. Únete a nosotros, conviértete en quien estás destinado a ser.
+> 
+> Nuestra eterna gratitud y reverencia a Shri Mataji Nirmala Devi. 🙏💖🤗
+
 ¡Este es el sitio web de documentación para el próximo proyecto de la gira europea.
 Con este proyecto, esperamos ir más allá de las fronteras arbitrarias de nuestras
 naciones individuales y trabajar juntos para llevar el Sahaja Yoga y

@@ -4,6 +4,25 @@ toc: false
 
 # Jai Shri Mataji ❤️
 
+> Europe, a myriad of languages, cultures, and ways of seeing the world.
+> A historic challenge to find unity and a current challenge to move forward
+> with one voice.
+> 
+> Our culture transcends and unites all cultures; it is the Sahaj culture,
+> the culture of the Spirit. Our language is universal; it is the language
+> of Divine vibrations felt through the awakening of our Kundalini. Our power
+> is that of enlightened Innocence, which allows us to see others as they
+> truly are, beyond all barriers, borders, and differences. Our art is that
+> which emits the breath of joy.
+> 
+> Divine love is what we live, speak and are. Truth is what we seek.
+> Discipline and righteousness are our swords and armor.
+> 
+> Unity through diversity. Experiencing the Divine at your fingertips
+> through Sahaja Yoga. Join us, become who you are meant to be.
+> 
+> Our eternal gratitude and reverence to Shri Mataji Nirmala Devi. 🙏💖🤗
+
 This is the documentation website for the upcoming Euro tour project!
 With this project, we hope to go beyond the arbitrary borders of our
 individual nations and work together in bringing Sahaja Yoga and

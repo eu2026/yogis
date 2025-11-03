@@ -8,6 +8,18 @@ toc: false
   Traduction générée par AI
 {{< /callout >}}
 
+> L'Europe, une myriade de langues, de cultures et de façons de voir le monde.
+> Un défi historique pour trouver l'unité et un défi actuel pour avancer
+> d'une seule voix.
+> 
+> Notre culture transcende et unit toutes les cultures ; c'est la culture Sahaj, la culture de l'Esprit. Notre langage est universel ; c'est le langage des vibrations divines ressenties through l'éveil de notre Kundalini. Notre pouvoir est celui de l'Innocence éclairée, qui nous permet de voir les autres tels qu'ils sont vraiment, au-delà de toutes les barrières, frontières et différences. Notre art est celui qui émet le souffle de la joie.
+> 
+> L'amour divin est ce que nous vivons, disons et sommes. La vérité est ce que nous recherchons. La discipline et la droiture sont notre épée et notre armure.
+> 
+> L'unité dans la diversité. Expérimentez le Divin au bout des doigts through le Sahaja Yoga. Rejoignez-nous, devenez qui vous êtes destiné à être.
+> 
+> Notre éternelle gratitude et révérence à Shri Mataji Nirmala Devi. 🙏💖🤗
+
 Bienvenue sur le site de documentation du projet de la tournée
 européenne à venir ! Avec ce projet, nous espérons dépasser
 les frontières arbitraires de nos nations individuelles et
