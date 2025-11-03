@@ -8,6 +8,25 @@ For both practical reasons and transparency, we will keep all the meeting notes 
 
 Ordered from newest to oldest.
 
+{{% details title="Second marketing meeting" closed="true" %}}
+The main goal of this meeting was to better align on how we want to approach
+the seekers. The conclusion was:
+
+- Possibly the most important thing when it comes to marketing is to
+  create events and situations that have good vibrations! Sahaj events
+  are not normal events and vibrations that Yogis bring really do play
+  a big part in attracting the seekers!
+- We will try to plan as many different types of programs as possible.
+  Seekers come from all walks of life. Some might be attracted to art and
+  music, some might be attracted to meditation etc. We will try our best
+  to do a variety of programs to capture as many seekers as possible.
+- Since we will have many different types of programs, we will also have
+  many different types of advertising. Depending on the region and the program
+  type. We should still try and create materials for seekers that express our message
+  of unification through spirituality. We can see if we can use these materials
+  for advertising, for followup or during programs.
+{{% /details %}}
+
 {{% details title="Fifth general meeting" closed="true" %}}
 [link to recording](https://us06web.zoom.us/rec/share/M7KkudLLIITOa8-Sw4StPIeRAGnJ67BrjCcEWeK_ZvbRUH35p99LNRwN9zs-N7NH.VYQMbVfmLsh2Tc7d)
 Passcode: `ikNy7z^g`
