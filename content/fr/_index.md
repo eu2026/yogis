@@ -18,7 +18,7 @@ toc: false
 > 
 > L'unité dans la diversité. Expérimentez le Divin au bout des doigts through le Sahaja Yoga. Rejoignez-nous, devenez qui vous êtes destiné à être.
 > 
-> Notre éternelle gratitude et révérence à Shri Mataji Nirmala Devi. 🙏💖🤗
+> Notre éternelle gratitude et révérence à Shri Mataji Nirmala Devi.
 
 Bienvenue sur le site de documentation du projet de la tournée
 européenne à venir ! Avec ce projet, nous espérons dépasser

@@ -21,7 +21,7 @@ toc: false
 > Unity through diversity. Experiencing the Divine at your fingertips
 > through Sahaja Yoga. Join us, become who you are meant to be.
 > 
-> Our eternal gratitude and reverence to Shri Mataji Nirmala Devi. 🙏💖🤗
+> Our eternal gratitude and reverence to Shri Mataji Nirmala Devi.
 
 This is the documentation website for the upcoming Euro tour project!
 With this project, we hope to go beyond the arbitrary borders of our
