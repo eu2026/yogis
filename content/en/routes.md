@@ -4,6 +4,10 @@ toc: false
 
 # Routes
 
+{{< callout type="info" >}}
+  The routes and dates here are still work-in-progress and might change!
+{{< /callout >}}
+
 {{< callout type="warning" >}}
   Remember that for entry to England, you most likely need an
   Electronic Travel Authorisation (ETA).
@@ -16,28 +20,29 @@ toc: false
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 
-**05.05 to 11.05 ->** Northern Italy and possibly ending up at the
-Mediterranean close to the border
+{{% details title="**05.05 to 11.05 ->** Italy" closed="true" %}}
+{{% /details %}}
 
-**11.05 to 13.05 ->** Nice
+{{% details title="**11.05 to 23.05 ->** France and Andorra" closed="true" %}}
 
-**13.05 to 15.05 ->** Marseille
+- **11.05 to 13.05 ->** Nice
+- **13.05 to 15.05 ->** Marseille
+- **15.05 to 17.05 ->** Montpellier
+- **17.05 to 19.05 ->** Toulouse
+- **19.05 to 21.05 ->** Andorra
+- **21.05 to 23.05 ->** Perpignan
 
-**15.05 to 17.05 ->** Montpellier
+{{% /details %}}
 
-**17.05 to 19.05 ->** Toulouse
+{{% details title="**23.05 to 25.05 ->** Spain" closed="true" %}}
 
-**19.05 to 21.05 ->** Andorra
+- **23.05 to 25.05 ->** Barcelona
+- **25.05 to 27.05 ->** Zaragoza
+- **27.05 to 29.05 ->** Madrid
 
-**21.05 to 23.05 ->** Perpignan
+{{% /details %}}
 
-**23.05 to 25.05 ->** Barcelona
-
-**25.05 to 27.05 ->** Zaragoza
-
-**27.05 to 29.05 ->** Madrid
-
-**29.05 to 31.05 ->** Lisbon
+- **29.05 to 31.05 ->** Lisbon
 
 {{% /details %}}
 
@@ -45,28 +50,25 @@ Mediterranean close to the border
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 
-**05.06 to 08.06 ->** Lisbon
+{{% details title="**05.07 to 12.06 ->** Portugal" closed="true" %}}
 
-**08.06 to 10.06 ->** Leiria
-
-**10.06 to 12.06 ->** Porto
-
-**12.06 to 15.06 ->** Vigo and Santiago de Compostela
-
-**15.06 to 18.06 ->** Donostia / San Sebastián
-
-**18.06 to 25.06 ->** France
-
-
-**25.06 ->** Blossoms Farm
+- **05.06 to 08.06 ->** Lisbon
+- **08.06 to 10.06 ->** Leiria
+- **10.06 to 12.06 ->** Porto
 
 {{% /details %}}
 
-### 29.06 to 05.07
+{{% details title="**12.07 to 18.06 ->** Spain" closed="true" %}}
 
-{{% details title="🇬🇧" closed="true" %}}
+- **12.06 to 15.06 ->** Vigo and Santiago de Compostela
+- **15.06 to 18.06 ->** Donostia / San Sebastián
 
-**29.06 to 05.07 ->** England
+{{% /details %}}
+
+{{% details title="**18.07 to 25.06 ->** France" closed="true" %}}
+{{% /details %}}
+
+**25.06 ->** Blossoms Farm
 
 {{% /details %}}
 
@@ -74,37 +76,72 @@ Mediterranean close to the border
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 
-**01.07 to 05.06 ->** Finland
+{{% details title="**01.07 to 05.06 ->** Finland" closed="true" %}}
 
-**05.07 to 09.06 ->** Estonia
-
-**09.07 to 13.07 ->** Latvia
-
-**13.07 to 17.07 ->** Lithuania
-
-**17.07 to 24.07 ->** Poland
-
-**24.07 to 26.07 ->** Berlin
+- Helsinki
 
 {{% /details %}}
 
-### 01.07 to 26.07
+{{% details title="**05.07 to 09.06 ->** Estonia" closed="true" %}}
+
+- Maardu
+- Tartu
+- Viljandi
+
+{{% /details %}}
+
+{{% details title="**09.07 to 13.07 ->** Latvia" closed="true" %}}
+
+- Riga
+- Ventspils
+- Liepāja
+
+{{% /details %}}
+
+{{% details title="**13.07 to 17.07 ->** Lithuania" closed="true" %}}
+
+- Liepāja
+- Palanga
+- Kaunas
+
+{{% /details %}}
+
+{{% details title="**17.07 to 24.07 ->** Poland" closed="true" %}}
+
+- Warsaw
+- Cracow
+- Tychy
+- Opole
+
+{{% /details %}}
+
+{{% details title="**24.07 to 26.07 ->** Germany" closed="true" %}}
+
+- Berlin
+
+{{% /details %}}
+
+{{% /details %}}
+
+### 03.07 to 26.07
 
 {{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
 
-**01.07 to 05.06 ->** Belgium
+{{% details title="**03.07 to 07.07 ->** Belgium" closed="true" %}}
+{{% /details %}}
 
-**05.07 to 09.07 ->** Netherlands
+{{% details title="**07.07 to 11.07 ->** Netherlands" closed="true" %}}
+{{% /details %}}
 
-**09.07 to 14.07 ->** Düsseldorf / Cologne / Essen
+{{% details title="**11.07 to 22.07 ->** Germany" closed="true" %}}
 
-**14.07 to 17.07 ->** Frankfurt
+- **16.07 to 19.07 ->** Düsseldorf / Essen / Cologne
+- **16.07 to 19.07 ->** Frankfurt
+- **19.07 to 22.07 ->** South-west Germany
 
-**17.07 to 20.07 ->** Nuremberg
+{{% /details %}}
 
-**20.07 to 23.07 ->** South-west Germany
-
-**23.07 to 26.07 ->** Zürich / Basel
+**22.07 to 25.07 ->** Zürich / Basel
 
 {{% /details %}}
 
@@ -112,17 +149,17 @@ Mediterranean close to the border
 
 {{% details title="🇭🇺 🇸🇰 🇨🇿 🇦🇹 🇨🇭 🇮🇹" closed="true" %}}
 
-**11.07 to 14.07 ->** Hungary
+{{% details title="**10.07 to 14.07 ->** Czech" closed="true" %}}
+{{% /details %}}
 
-**14.07 to 17.07 ->** Slovakia
+{{% details title="**14.07 to 17.07 ->** Slovakia" closed="true" %}}
+{{% /details %}}
 
-**17.07 to 20.07 ->** Czech
+{{% details title="**17.07 to 20.07 ->** Hungary" closed="true" %}}
+{{% /details %}}
 
-**20.07 to 23.07 ->** Austria
-
-**23.07 to 26.07 ->** Switzerland
-
-**26.07 ->** Cabella
+{{% details title="**20.07 to 26.07 ->** Austria / Germany" closed="true" %}}
+{{% /details %}}
 
 {{% /details %}}
 

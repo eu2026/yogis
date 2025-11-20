@@ -11,19 +11,6 @@ languages:
     languageName: English
     weight: 1
     contentDir: content/en
-  de:
-    languageName: Deutsch
-    weight: 2
-    contentDir: content/de
-  es:
-    languageName: Espanish
-    weight: 2
-    contentDir: content/es
-  fr:
-    languageName: Français
-    weight: 4
-    contentDir: content/fr
-
 
 markup:
   # allow raw html
