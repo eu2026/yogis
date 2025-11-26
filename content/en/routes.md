@@ -76,7 +76,7 @@ toc: false
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 
-{{% details title="**01.07 to 05.06 ->** Finland" closed="true" %}}
+{{% details title="**01.07 to 05.07 ->** Finland" closed="true" %}}
 
 - Helsinki
 - Porvoo
@@ -84,7 +84,7 @@ toc: false
 
 {{% /details %}}
 
-{{% details title="**05.07 to 09.06 ->** Estonia" closed="true" %}}
+{{% details title="**05.07 to 09.07 ->** Estonia" closed="true" %}}
 
 - Maardu
 - Tartu
