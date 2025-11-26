@@ -79,6 +79,8 @@ toc: false
 {{% details title="**01.07 to 05.06 ->** Finland" closed="true" %}}
 
 - Helsinki
+- Porvoo
+- Turku
 
 {{% /details %}}
 
@@ -112,6 +114,8 @@ toc: false
 - Cracow
 - Tychy
 - Opole
+- Poznan
+- Zielona Gora
 
 {{% /details %}}
 
