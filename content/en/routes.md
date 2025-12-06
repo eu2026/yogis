@@ -10,7 +10,7 @@ toc: false
 
 {{< callout type="warning" >}}
   Remember that for entry to England, you most likely need an
-  Electronic Travel Authorisation (ETA).
+  Electronic Travel Authorizations (ETA).
   [Click here to learn more](https://www.gov.uk/eta/apply)
 {{< /callout >}}
 
@@ -26,15 +26,15 @@ toc: false
 {{% details title="**11.05 to 23.05 ->** France and Andorra" closed="true" %}}
 
 - **11.05 to 13.05 ->** Nice
-- **13.05 to 15.05 ->** Marseille
-- **15.05 to 17.05 ->** Montpellier
+- **13.05 to 15.05 ->** Marseilles
+- **15.05 to 17.05 ->** Montpelier
 - **17.05 to 19.05 ->** Toulouse
 - **19.05 to 21.05 ->** Andorra
 - **21.05 to 23.05 ->** Perpignan
 
 {{% /details %}}
 
-{{% details title="**23.05 to 25.05 ->** Spain" closed="true" %}}
+{{% details title="**23.05 to 29.05 ->** Spain" closed="true" %}}
 
 - **23.05 to 25.05 ->** Barcelona
 - **25.05 to 27.05 ->** Zaragoza
@@ -42,7 +42,11 @@ toc: false
 
 {{% /details %}}
 
+{{% details title="**29.05 to 31.05 ->** Portugal" closed="true" %}}
+
 - **29.05 to 31.05 ->** Lisbon
+
+{{% /details %}}
 
 {{% /details %}}
 
@@ -50,7 +54,7 @@ toc: false
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 
-{{% details title="**05.07 to 12.06 ->** Portugal" closed="true" %}}
+{{% details title="**05.06 to 12.06 ->** Portugal" closed="true" %}}
 
 - **05.06 to 08.06 ->** Lisbon
 - **08.06 to 10.06 ->** Leiria
@@ -58,21 +62,25 @@ toc: false
 
 {{% /details %}}
 
-{{% details title="**12.07 to 18.06 ->** Spain" closed="true" %}}
+{{% details title="**12.06 to 18.06 ->** Spain" closed="true" %}}
 
 - **12.06 to 15.06 ->** Vigo and Santiago de Compostela
 - **15.06 to 18.06 ->** Donostia / San Sebastián
 
 {{% /details %}}
 
-{{% details title="**18.07 to 25.06 ->** France" closed="true" %}}
+{{% details title="**18.06 to 25.06 ->** France" closed="true" %}}
 {{% /details %}}
 
-**25.06 ->** Blossoms Farm
+{{% details title="**25.06 ->** England" closed="true" %}}
+
+- **25.06 ->** Blossoms Farm, Shri Adi Shakti Puja
 
 {{% /details %}}
 
-### 01.07 to 26.07
+{{% /details %}}
+
+### 01.07 to 27.07
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 
@@ -108,7 +116,7 @@ toc: false
 
 {{% /details %}}
 
-{{% details title="**17.07 to 24.07 ->** Poland" closed="true" %}}
+{{% details title="**17.07 to 25.07 ->** Poland" closed="true" %}}
 
 - Warsaw
 - Cracow
@@ -119,7 +127,7 @@ toc: false
 
 {{% /details %}}
 
-{{% details title="**24.07 to 26.07 ->** Germany" closed="true" %}}
+{{% details title="**25.07 to 27.07 ->** Germany" closed="true" %}}
 
 - Berlin
 
@@ -127,25 +135,30 @@ toc: false
 
 {{% /details %}}
 
-### 03.07 to 26.07
+### 02.07 to 26.07
 
 {{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
 
-{{% details title="**03.07 to 07.07 ->** Belgium" closed="true" %}}
+{{% details title="**02.07 to 07.07 ->** Belgium" closed="true" %}}
 {{% /details %}}
 
 {{% details title="**07.07 to 11.07 ->** Netherlands" closed="true" %}}
 {{% /details %}}
 
-{{% details title="**11.07 to 22.07 ->** Germany" closed="true" %}}
+{{% details title="**11.07 to 23.07 ->** Germany" closed="true" %}}
 
-- **16.07 to 19.07 ->** Düsseldorf / Essen / Cologne
-- **16.07 to 19.07 ->** Frankfurt
-- **19.07 to 22.07 ->** South-west Germany
+- **11.07 to 15.07 ->** Dusseldorf / Essen / Cologne
+- **15.07 to 17.07 ->** Marburg
+- **17.07 to 20.07 ->** Frankfurt
+- **20.07 to 23.07 ->** South-west Germany
 
 {{% /details %}}
 
-**22.07 to 25.07 ->** Zürich / Basel
+{{% details title="**23.07 to 26.07 ->** Switzerland" closed="true" %}}
+
+- **23.07 to 26.07 ->** Zurich / Basel
+
+{{% /details %}}
 
 {{% /details %}}
 

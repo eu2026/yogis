@@ -5,6 +5,8 @@ toc: false
 # Meeting Notes
 
 For both practical reasons and transparency, we will keep all the meeting notes here.
+Note that this only includes the bigger meetings and does not include all the individual
+conversations and messages!
 
 Ordered from newest to oldest.
 
