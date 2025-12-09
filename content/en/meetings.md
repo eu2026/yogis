@@ -8,7 +8,41 @@ For both practical reasons and transparency, we will keep all the meeting notes 
 Note that this only includes the bigger meetings and does not include all the individual
 conversations and messages!
 
-Ordered from newest to oldest.
+Ordered from newest to the oldest.
+
+{{% details title="Sixth general meeting" closed="true" %}}
+[link to recording](https://us06web.zoom.us/rec/share/ap0NTZ8G8zpVBUFgOdlYu446jiaWF3i9LtzLUfKm-ZwCas0urAFCwSIT6sNHnwyX.aJcpln4ymGIC2GT3)
+Passcode: `f$9$d0^T`
+
+In this meeting we focused mostly on the registration form and the routes.
+We had some really good feedback and now the form is almost completed!
+Here's the [link to the registration form](https://forms.gle/54J9anbLhnh2zFWD7).
+
+Besides the registration form we discussed:
+
+- Once we have finalized the registration form, we will send it out using
+  various communication channels to the collectives! We are working on
+  writing a nice invitation at the moment and making a video for the tour!
+- We can most likely do program in England if we arrive a few days before
+  Shri Adi Shakti Puja! This is being discussed at the moment.
+- Bulgarian and Danish yogis are very keen to join the tour! For Bulgarians,
+  They will speak with Romanian Yogis to see what is possible. If things work out,
+  they can join the Czech-Austria route at Hungary around 17th of July! As for
+  Denmark, There most likely can be a route starting in Denmark that goes to
+  Hamburg and then join the rest of the Belgium-Switzerland route. These new
+  additions are currently work-in-progress.
+
+{{% /details %}}
+
+{{% details title="First Finland-Germany route meeting" closed="true" %}}
+In this meeting we focused on the route that starts in Finland and ends
+in Germany. Besides the logistics and details of programs, accommodation, etc.
+we decided that we will add one extra day to Poland and push Berlin one day later.
+This change added an extra day to the route.
+
+We also will look for car rentals in Poland since it can be rather cheap and Yogis
+have previously had good experience with these car rentals.
+{{% /details %}}
 
 {{% details title="Second marketing meeting" closed="true" %}}
 The main goal of this meeting was to better align on how we want to approach
