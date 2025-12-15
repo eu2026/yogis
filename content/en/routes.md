@@ -162,22 +162,57 @@ toc: false
 
 {{% /details %}}
 
-### 11.07 to 26.07
+#### 05.07 to 11.07
 
-{{% details title="🇭🇺 🇸🇰 🇨🇿 🇦🇹 🇨🇭 🇮🇹" closed="true" %}}
+This route meets with the Belgium route at Cologne.
 
-{{% details title="**10.07 to 14.07 ->** Czech" closed="true" %}}
+{{% details title="🇩🇰 🇩🇪" closed="true" %}}
+
+{{% details title="**05.07 to 09.07 ->** Denmark" closed="true" %}}
 {{% /details %}}
 
-{{% details title="**14.07 to 17.07 ->** Slovakia" closed="true" %}}
-{{% /details %}}
-
-{{% details title="**17.07 to 20.07 ->** Hungary" closed="true" %}}
-{{% /details %}}
-
-{{% details title="**20.07 to 26.07 ->** Austria / Germany" closed="true" %}}
+{{% details title="**09.07 to 11.07 ->** Hamburg" closed="true" %}}
 {{% /details %}}
 
 {{% /details %}}
+
+### 09.07 to 26.07
+
+{{% details title="🇦🇹 🇨🇿 🇸🇰 🇭🇺 🇩🇪 🇨🇭" closed="true" %}}
+
+{{% details title="**09.07 to 11.07 ->** Austria" closed="true" %}}
+{{% /details %}}
+
+{{% details title="**11.07 to 13.07 ->** Czech" closed="true" %}}
+{{% /details %}}
+
+{{% details title="**13.07 to 16.07 ->** Slovakia" closed="true" %}}
+{{% /details %}}
+
+{{% details title="**16.07 to 19.07 ->** Hungary" closed="true" %}}
+{{% /details %}}
+
+{{% details title="**19.07 to 24.07 ->** Austria / Germany / Austria" closed="true" %}}
+{{% /details %}}
+
+{{% details title="**25.07 to 26.07 ->** Switzerland" closed="true" %}}
+{{% /details %}}
+
+{{% /details %}}
+
+#### 05.07 to 17.07
+
+This route meets with the Czech route at Hungary.
+
+{{% details title="🇧🇬 🇷🇴" closed="true" %}}
+
+{{% details title="**05.07 to 11.07 ->** Bulgarian" closed="true" %}}
+{{% /details %}}
+
+{{% details title="**11.07 to 17.07 ->** Romania" closed="true" %}}
+{{% /details %}}
+
+{{% /details %}}
+
 
 {{% /steps %}}
