@@ -1,5 +1,5 @@
 ---
-toc: false
+toc: true
 ---
 
 # Jai Shri Mataji ❤️
@@ -27,12 +27,6 @@ This is the documentation website for the upcoming Euro tour project!
 With this project, we hope to go beyond the arbitrary borders of our
 individual nations and work together in bringing Sahaja Yoga and
 spiritual awakening to the masses!
-
-Are you interested in helping out with the organizing efforts,
-hosting or any other way?
-Or Do you want your city or country to be involved?
-Get in touch via [WhatsApp](https://chat.whatsapp.com/K8Up7gSdp3ZIgBJXVg0s7D?mode=ems_copy_t)!
-Alternatively, you can send us a message via [this form](https://forms.gle/L2QVWsG2zxiHB1bH9).
 
 ![Mother](Mother.jpg)
 
@@ -123,10 +117,23 @@ effort on our side and involves the locals more! If the local yogis do not have
 these resources (website, social mediate etc.), we will work together and
 create these resources and hand them over to the local after the tour!
 
-### The Team
+## Contact
 
-Many yogis from many countries are involved in this project! The core team includes
-Adel, Edita, Erwan, Mila, Piotr, Ram and many more!
+Are you interested in helping out with the organizing efforts,
+hosting or any other way? Or Do you want your city or country to be involved?
+You can send us a message via
+[this form](https://forms.gle/L2QVWsG2zxiHB1bH9).
+
+There are also many Yogis that you can approach if you have any questions!
+
+- Adel Moradian +43 660 921 62 61 -> General project overview
+- Annapurna +32 496 20 08 61 -> Belgium, Netherlands, Germany, Switzerland
+- Calin Chiroiu +39 320 040 8288 -> Italy
+- Durga +376 681 977 -> France, Spain, Andorra, Portugal
+- Erwan Lesigne +33 7 85 10 51 53 -> General project overview
+- Kristyna Mackova +420 734 835 767 -> Czech, Austria, Hungary, Slovakia, Germany
+- Madhavi +44 7786 342384 -> England
+- Piotr Płużek +48 511 458 302 -> Finland, Estonia, Latvia, Lithuania, Poland, Germany
 
 ## Presentations
 

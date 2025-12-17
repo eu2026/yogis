@@ -25,10 +25,7 @@ toc: false
 
 {{% details title="**11.05 to 23.05 ->** France and Andorra" closed="true" %}}
 
-- **11.05 to 13.05 ->** Nice
-- **13.05 to 15.05 ->** Marseilles
-- **15.05 to 17.05 ->** Montpelier
-- **17.05 to 19.05 ->** Toulouse
+- **11.05 to 19.05 ->** Nice / Marseilles / Montpelier / Avignon
 - **19.05 to 21.05 ->** Andorra
 - **21.05 to 23.05 ->** Perpignan
 
@@ -50,7 +47,7 @@ toc: false
 
 {{% /details %}}
 
-### 05.06 to 25.06
+### 05.06 to 26.06
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 
@@ -65,16 +62,20 @@ toc: false
 {{% details title="**12.06 to 18.06 ->** Spain" closed="true" %}}
 
 - **12.06 to 15.06 ->** Vigo and Santiago de Compostela
-- **15.06 to 18.06 ->** Donostia / San Sebastián
+- **15.06 to 17.06 ->** Donostia / San Sebastián
 
 {{% /details %}}
 
-{{% details title="**18.06 to 25.06 ->** France" closed="true" %}}
+{{% details title="**17.06 to 24.06 ->** France" closed="true" %}}
+
+- **17.06 to 19.06 ->** Toulouse
+- **19.06 to 24.06 ->** Paris
+
 {{% /details %}}
 
-{{% details title="**25.06 ->** England" closed="true" %}}
+{{% details title="**24.06 to 26.06 ->** England" closed="true" %}}
 
-- **25.06 ->** Blossoms Farm, Shri Adi Shakti Puja
+- **24.06 to 26.06 ->** England
 
 {{% /details %}}
 
@@ -86,50 +87,37 @@ toc: false
 
 {{% details title="**01.07 to 05.07 ->** Finland" closed="true" %}}
 
-- Helsinki
-- Porvoo
-- Turku
+- **01.07 to 05.07 ->** Helsinki / Porvoo / Turku
 
 {{% /details %}}
 
 {{% details title="**05.07 to 09.07 ->** Estonia" closed="true" %}}
 
-- Maardu
-- Tartu
-- Viljandi
+- **05.07 to 09.07 ->** Maardu / Tartu / Viljandi
 
 {{% /details %}}
 
 {{% details title="**09.07 to 13.07 ->** Latvia" closed="true" %}}
 
-- Riga
-- Ventspils
-- Liepāja
+- **09.07 to 13.07 ->** Riga / Ventspils / Liepāja
 
 {{% /details %}}
 
 {{% details title="**13.07 to 17.07 ->** Lithuania" closed="true" %}}
 
-- Liepāja
-- Palanga
-- Kaunas
+- **13.07 to 17.07 ->** Alytus / Palanga / Kaunas
 
 {{% /details %}}
 
 {{% details title="**17.07 to 25.07 ->** Poland" closed="true" %}}
 
-- Warsaw
-- Cracow
-- Tychy
-- Opole
-- Poznan
-- Zielona Gora
+- **17.07 to 25.07 ->** Warsaw / Kracow / Tychy / Opole / Poznan / Zielona Gora
 
 {{% /details %}}
 
 {{% details title="**25.07 to 27.07 ->** Germany" closed="true" %}}
 
-- Berlin
+- **25.07 to 27.07 ->** Berlin
 
 {{% /details %}}
 
@@ -213,6 +201,5 @@ This route meets with the Czech route at Hungary.
 {{% /details %}}
 
 {{% /details %}}
-
 
 {{% /steps %}}
