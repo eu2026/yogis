@@ -68,8 +68,8 @@ toc: false
 
 {{% details title="**17.06 to 24.06 ->** France" closed="true" %}}
 
-- **17.06 to 19.06 ->** Toulouse
-- **19.06 to 24.06 ->** Paris
+- **17.06 to 20.06 ->** Bayonne / Toulouse
+- **20.06 to 24.06 ->** Paris
 
 {{% /details %}}
 

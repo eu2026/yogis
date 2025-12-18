@@ -133,7 +133,7 @@ There are also many Yogis that you can approach if you have any questions!
 - Erwan Lesigne +33 7 85 10 51 53 -> General project overview
 - Kristyna Mackova +420 734 835 767 -> Czech, Austria, Hungary, Slovakia, Germany
 - Madhavi +44 7786 342384 -> England
-- Piotr Płużek +48 511 458 302 -> Finland, Estonia, Latvia, Lithuania, Poland, Germany
+- Piotr Płużek +48 511 458 302 -> Poland
 
 ## Presentations
 
