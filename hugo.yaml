@@ -30,13 +30,14 @@ menu:
     - name: Meeting Notes
       pageRef: /meetings
       weight: 2
-    - name: Presentation
+    - name: Registration Form
       weight: 3
-      url: https://www.canva.com/design/DAG0G2uM6s0/rSiMJH-yccbsfCBEDUSFxw/view?utm_content=DAG0G2uM6s0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c31d7f2fe
-      params:
-        icon: sparkles
-    - name: Cabella Presentation
+      url: https://forms.gle/4dEDEqQBJ1jzMmtS9
+    - name: Supporting The Project
       weight: 4
+      pageRef: /support
+    - name: Cabella Presentation
+      weight: 5
       url: https://www.youtube.com/live/LBA2kEM0LvI?si=hM827WYvUdK_rtfk&t=2027
       params:
         icon: youtube

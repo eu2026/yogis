@@ -7,35 +7,95 @@ toc: true
 > Europe, a myriad of languages, cultures, and ways of seeing the world.
 > A historic challenge to find unity and a current challenge to move forward
 > with one voice.
-> 
+>
 > Our culture transcends and unites all cultures; it is the Sahaj culture,
 > the culture of the Spirit. Our language is universal; it is the language
 > of Divine vibrations felt through the awakening of our Kundalini. Our power
 > is that of enlightened Innocence, which allows us to see others as they
 > truly are, beyond all barriers, borders, and differences. Our art is that
 > which emits the breath of joy.
-> 
+>
 > Divine love is what we live, speak and are. Truth is what we seek.
 > Discipline and righteousness are our swords and armor.
-> 
+>
 > Unity through diversity. Experiencing the Divine at your fingertips
 > through Sahaja Yoga. Join us, become who you are meant to be.
-> 
+>
 > Our eternal gratitude and reverence to Shri Mataji Nirmala Devi.
-
-This is the documentation website for the upcoming Euro tour project!
-With this project, we hope to go beyond the arbitrary borders of our
-individual nations and work together in bringing Sahaja Yoga and
-spiritual awakening to the masses!
 
 ![Mother](Mother.jpg)
 
+Welcome to the Europe Tour Project! With this project, we hope to go beyond the arbitrary
+borders of our individual nations and work together in bringing Sahaja Yoga and
+spiritual awakening to the masses!
+
+From Sahasrara Puja to Guru Puja, we will be traveling across Europe on five
+routes, giving realization and spending joyful time with our brothers and
+sisters!
+
+If you are interested in getting involved in preparation work
+and supporting the project (financial or otherwise), please visit
+the [project support page](./support)
+
 {{< cards >}}
-  {{< card link="routes" title="Routes" image="routes.png" >}}
-  {{< card link="meetings" title="Meeting Notes" image="meetings.jpg" >}}
+  {{< card link="routes" title="Routes" icon="map" >}}
+  {{< card link="meetings" title="Meeting Notes" icon="book-open" >}}
+  {{< card link="https://forms.gle/4dEDEqQBJ1jzMmtS9" title="Registration Form" icon="clipboard-list" >}}
+  {{< card link="support" title="Supporting The Project" icon="heart" >}}
 {{< /cards >}}
 
-## How Did It Start?
+## Participating
+
+Please fill up the
+[registration form](https://forms.gle/4dEDEqQBJ1jzMmtS9)
+if you are interested in joining one or more of the routes!
+It is also possible to partially join a route (one week for example).
+
+**The deadline for registration is 1st of April.**
+
+If you miss the deadline but still want to join the tour, we can be
+flexible so do register! But please keep in mind that late registration
+makes the planning and organizing more complicated so please register early!
+
+After the registration deadline (1st of April), we will contact you over
+WhatsApp with payment details, collect information about your arrival
+and departure and will provide more specific information about your route.
+
+If you change your mind and want to cancel your registration, please
+get in touch! See the bottom of this page for contacts.
+
+### Routes
+
+Below you can find a short summary of each route.
+For more information please visit the [routes page](./routes).
+
+- May 2026 -> Air 🌀 -> Italy, France, Andorra, Spain, Portugal
+- June 2026 -> Fire 🔥 -> Portugal, Spain, France, England
+- July 2026 -> Water 🌊 -> Finland, Estonia, Latvia, Lithuania, Poland, Germany
+- July 2026 -> Earth 🏔️ -> Belgium, Netherlands, Germany, Switzerland
+- July 2026 -> Light 🕯️ -> Austria, Czech, Slovakia, Hungary, Austria, Germany
+
+The first two routes (Air and Fire routes) will have the maximum capacity of
+20 touring Yogis. The other routes will have an estimated capacity of 30
+touring Yogis.
+
+### Costs
+
+The **full price** of each route is **600 Euros**. For student/non-working/early-career
+yogis it is possible to join the tour for the **subsidized price of 450 Euros**.
+We will leave it up to your own judgment to decide which category you belong to.
+The tour price covers food, accommodation, and transport during the tour. **It does**
+**not include the Sahasrara, Shri Adi Shakti and Guru Puja fees.**
+
+It is possible to **join half or a third of each route.** In that case the
+cost will be calculated on a **per-week basis.** The **weekly cost** of joining the
+tour is **200 Euros (150 Euros subsidized).** If you want to join the tour for
+just a few days, the daily cost is at 30 Euros.
+
+If you are bringing your own car to the tour and allow the tour to use it,
+we will automatically calculate the subsidized tour fee for you!
+
+## About The Project
 
 The desire of having a united Sahaj tour in Europe was inspired by
 the Brazil and the Awaken Spirit tours (which went through the hosting
@@ -54,18 +114,12 @@ for such a project and more importantly, it seems to be flowing.
 The timing seems to be right. The initial enthusiasm was followed up by many
 conversations and some effort. And things started to take shape!
 
-## About The Project
-
 The project structure is fairly simple. In our first meeting, we decided on a
 primary route that starts in Cabella after Sahasrara Puja, goes to England
 for Shri Adi Shakti Puja and comes back to Cabella for Guru Puja. With the primary
 route established, we can start working with the local Yogis on the programs, logistics
 and generally trying to understand their desires, needs, concerns,
 capabilities, and capacities.
-
-There are many countries and collectives that fall out of the primary route.
-Those regions will be covered with independent parallel routes that, hopefully, will
-at some point meet with the primary route!
 
 ### Finances
 
@@ -76,21 +130,17 @@ Sahaj tours and projects in the past 2 years. The project organizers have no
 access to this bank account.
 
 The funds that are collected will be used for all the routes and will not be tied
-to a specific region. This is one of the more interesting aspects of the project.
-The relatively poorer
-countries such as Portugal, have fewer Yogis and fewer Sahaj
-resources. This means that tour in these regions will be more expensive
-(for example because there are no options for accommodation with the Yogis) and
-harder for local Yogis to financially cover (fewer Yogis and lower income).
-Comparatively, Austria or Germany are relatively wealthy countries with many
-Yogis and Sahaj resources. This makes the tour in these regions cheaper
-(because for example, we can potentially accommodate with the Yogis),
-and local Yogis are more capable of fitting the bill (more yogis and better income).
-In other words, smaller collectives in poorer countries are always at a financial
-disadvantage. We hope to tackle this issue by sharing monetary resources!
+to a specific region. This means that collectives with more Yogis and Sahaj resources
+will end up supporting the smaller collectives. For example, in Germany we can mostly
+stay with the Yogis and use Sahaj properties. This makes the German part cheaper
+and we can use the money for the more expensive parts where the collectives are smaller
+and need more financial support.
 
-We still have to figure out many details so stay tuned! We will regularly
-update this website with the latest developments.
+We are trying to be rather cost conscious and make the tours as affordable to
+join as possible. This is only possible with generous support from the
+Yogis! Weather it's direct financial support, offering food for touring yogis
+or lending a car for a few days, it all adds up in making it more affordable
+for everyone to join!
 
 ### Programs And Marketing
 
@@ -110,12 +160,14 @@ kindergarten or a busy park doesn't really need to be advertised at all!
 It makes sense to share as much of the advertisement materials as possible,
 but again, we should always see if it makes sense for the given region.
 
-As for our online presence, Instead of creating new website and social media
-outlets for the tour, we will reuse existing local resources. This has the
-immediate benefit of bringing traffic to existing online resources, is less
+As for our online presence, we will reuse existing local resources. This has the
+immediate benefit of bringing traffic to existing websites, is less
 effort on our side and involves the locals more! If the local yogis do not have
 these resources (website, social mediate etc.), we will work together and
-create these resources and hand them over to the local after the tour!
+create these resources and hand them over to the local after the tour! Having
+said that, we will also create a simple website that introduces the project to the
+seekers. This was requested by some of the collectives as it can help them
+in getting venues.
 
 ## Contact
 
@@ -134,7 +186,3 @@ There are also many Yogis that you can approach if you have any questions!
 - Kristyna Mackova +420 734 835 767 -> Czech, Austria, Hungary, Slovakia, Germany
 - Madhavi +44 7786 342384 -> England
 - Piotr Płużek +48 511 458 302 -> Poland
-
-## Presentations
-
-[Navaratri Puja in Cabella](https://www.youtube.com/live/LBA2kEM0LvI?si=hM827WYvUdK_rtfk&t=2027)
