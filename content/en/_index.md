@@ -42,6 +42,7 @@ the [project support page](./support)
   {{< card link="meetings" title="Meeting Notes" icon="book-open" >}}
   {{< card link="https://forms.gle/4dEDEqQBJ1jzMmtS9" title="Registration Form" icon="clipboard-list" >}}
   {{< card link="support" title="Supporting The Project" icon="heart" >}}
+  {{< card link="./#contact" title="Contact" icon="phone" >}}
 {{< /cards >}}
 
 ## Participating
