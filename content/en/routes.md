@@ -4,10 +4,6 @@ toc: false
 
 # Routes
 
-{{< callout type="info" >}}
-  The routes and dates here are still work-in-progress and might change!
-{{< /callout >}}
-
 {{< callout type="warning" >}}
   Remember that for entry to England, you most likely need an
   Electronic Travel Authorizations (ETA).
@@ -16,7 +12,7 @@ toc: false
 
 {{% steps %}}
 
-### 05.05 to 31.05
+### Air 🌀 -> 05.05 to 31.05 
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 
@@ -47,7 +43,7 @@ toc: false
 
 {{% /details %}}
 
-### 05.06 to 26.06
+### Fire 🔥 -> 05.06 to 26.06
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 
@@ -81,7 +77,7 @@ toc: false
 
 {{% /details %}}
 
-### 01.07 to 27.07
+### Water 🌊 -> 01.07 to 27.07
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 
@@ -123,7 +119,7 @@ toc: false
 
 {{% /details %}}
 
-### 02.07 to 26.07
+### Earth 🏔️ -> 02.07 to 26.07
 
 {{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
 
@@ -150,21 +146,7 @@ toc: false
 
 {{% /details %}}
 
-#### 05.07 to 11.07
-
-This route meets with the Belgium route at Cologne.
-
-{{% details title="🇩🇰 🇩🇪" closed="true" %}}
-
-{{% details title="**05.07 to 09.07 ->** Denmark" closed="true" %}}
-{{% /details %}}
-
-{{% details title="**09.07 to 11.07 ->** Hamburg" closed="true" %}}
-{{% /details %}}
-
-{{% /details %}}
-
-### 09.07 to 26.07
+### Light 🕯️-> 09.07 to 26.07
 
 {{% details title="🇦🇹 🇨🇿 🇸🇰 🇭🇺 🇩🇪 🇨🇭" closed="true" %}}
 
@@ -184,20 +166,6 @@ This route meets with the Belgium route at Cologne.
 {{% /details %}}
 
 {{% details title="**25.07 to 26.07 ->** Switzerland" closed="true" %}}
-{{% /details %}}
-
-{{% /details %}}
-
-#### 05.07 to 17.07
-
-This route meets with the Czech route at Hungary.
-
-{{% details title="🇧🇬 🇷🇴" closed="true" %}}
-
-{{% details title="**05.07 to 11.07 ->** Bulgarian" closed="true" %}}
-{{% /details %}}
-
-{{% details title="**11.07 to 17.07 ->** Romania" closed="true" %}}
 {{% /details %}}
 
 {{% /details %}}
