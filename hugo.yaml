@@ -11,6 +11,10 @@ languages:
     languageName: English
     weight: 1
     contentDir: content/en
+  es:
+    languageName: Spanish
+    weight: 2
+    contentDir: content/es
 
 markup:
   # allow raw html
