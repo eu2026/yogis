@@ -4,9 +4,9 @@ toc: false
 
 # Meeting Notes
 
-For both practical reasons and transparency, we will keep all the meeting notes here.
-Note that this only includes the bigger meetings and does not include all the individual
-conversations and messages!
+For both practical reasons and transparency, we will keep the major meeting
+notes here. Note that this only includes the bigger meetings and obviously does
+not include all the individual conversations and messages!
 
 Ordered from newest to the oldest.
 
@@ -71,7 +71,7 @@ This was a big meeting with almost all representatives there! We had
 the single goal of clarifying the routes and dates. I dare
 say we managed!
 
-The result of discussions is relfected in the [routes](../routes) page.
+The result of discussions is reflected in the [routes](../routes) page.
 
 Besides the routes, some general questions came up which I'll try to
 briefly explain here:
@@ -136,11 +136,11 @@ have many types of programs (from normal public programs to music programs,
 to school programs etc.), we decided that it makes the most sense to use
 the existing sahaj resources of each collective instead of creating new outlets.
 What this means is that we will not create social media accounts or websites
-for seekers to promote the tour and programs. Instead we will use the existing
+for seekers to promote the tour and programs. Instead, we will use the existing
 websites and social media platforms that local yogis have and promote the programs
-via those. This has the immediate benefit of bringing traffic to existing sahaj
+via those. This has the immediate benefit of bringing traffic to existing Sahaj
 portals. Also less effort for us and efforts will not be wasted after the tour
-is finished!  We will still have to create various online and print advertising materials
+is finished! We will still have to create various online and print advertising materials
 so nothing changes there... These materials have to be made in a way that
 makes sense for the region and type of program. If we can re-use a lot of designs
 and wordings, great! If not, we have to do something a bit more customized.

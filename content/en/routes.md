@@ -4,6 +4,12 @@ toc: false
 
 # Routes
 
+{{< callout type="info" >}}
+  This section is work in progress. We will
+  put all the information here as they get confirmed.
+{{< /callout >}}
+
+
 {{< callout type="warning" >}}
   Remember that for entry to England, you most likely need an
   Electronic Travel Authorizations (ETA).
@@ -12,7 +18,7 @@ toc: false
 
 {{% steps %}}
 
-### Air 🌀 -> 05.05 to 31.05 
+### Air 🌀 -> 05.05 to 31.05
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 

@@ -63,11 +63,11 @@ WhatsApp with payment details, collect information about your arrival
 and departure and will provide more specific information about your route.
 
 If you change your mind and want to cancel your registration, please
-get in touch! See the bottom of this page for contacts.
+get in touch! See the bottom of this page for contact details.
 
 ### Routes
 
-Below you can find a short summary of each route.
+Below you can find a short summary of the routes.
 For more information please visit the [routes page](./routes).
 
 - May 2026 -> Air 🌀 -> Italy, France, Andorra, Spain, Portugal
@@ -88,10 +88,10 @@ We will leave it up to your own judgment to decide which category you belong to.
 The tour price covers food, accommodation, and transport during the tour. **It does**
 **not include the Sahasrara, Shri Adi Shakti and Guru Puja fees.**
 
-It is possible to **join half or a third of each route.** In that case the
-cost will be calculated on a **per-week basis.** The **weekly cost** of joining the
+It is possible to join half or a third of each route. In that case the
+cost will be calculated on a per-week basis. The **weekly cost** of joining the
 tour is **200 Euros (150 Euros subsidized).** If you want to join the tour for
-just a few days, the daily cost is at 30 Euros.
+just a few days, the daily cost is 30 Euros.
 
 If you are bringing your own car to the tour and allow the tour to use it,
 we will automatically calculate the subsidized tour fee for you!
@@ -127,7 +127,7 @@ capabilities, and capacities.
 We will use the Austrian Yuva bank account for collecting all donations, tour
 fees and processing all the refunds and payments. This is a shared bank account
 managed by 3 diligent Yogis (Lukas, Nandini and Sharmila) and has been used in many
-Sahaj tours and projects in the past 2 years. The project organizers have no
+Sahaj tours and projects in the past 2-3 years. The project organizers have no
 access to this bank account.
 
 The funds that are collected will be used for all the routes and will not be tied
@@ -139,7 +139,7 @@ and need more financial support.
 
 We are trying to be rather cost conscious and make the tours as affordable to
 join as possible. This is only possible with generous support from the
-Yogis! Weather it's direct financial support, offering food for touring yogis
+Yogis! Whether it's direct financial support, offering food for touring yogis
 or lending a car for a few days, it all adds up in making it more affordable
 for everyone to join!
 
@@ -156,24 +156,24 @@ worth it!
 
 Marketing and advertisement highly depends on the type of program. A
 music program with a bit of meditation probably will have a
-different pitch than a standard public program! And a program in a
-kindergarten or a busy park doesn't really need to be advertised at all!
+different pitch than a standard public program. And a program in a
+kindergarten or a busy park doesn't really need to be advertised at all.
 It makes sense to share as much of the advertisement materials as possible,
-but again, we should always see if it makes sense for the given region.
+but, we should always see if it makes sense for the given region.
 
 As for our online presence, we will reuse existing local resources. This has the
 immediate benefit of bringing traffic to existing websites, is less
-effort on our side and involves the locals more! If the local yogis do not have
+effort on our side and involves the locals more. If the local yogis do not have
 these resources (website, social mediate etc.), we will work together and
-create these resources and hand them over to the local after the tour! Having
-said that, we will also create a simple website that introduces the project to the
+create these resources and hand them over to the locals after the tour. Additionally,
+we will also create a simple website that introduces the project to the
 seekers. This was requested by some of the collectives as it can help them
 in getting venues.
 
 ## Contact
 
 Are you interested in helping out with the organizing efforts,
-hosting or any other way? Or Do you want your city or country to be involved?
+hosting, or any other way? Or Do you want your city or country to be involved?
 You can send us a message via
 [this form](https://forms.gle/L2QVWsG2zxiHB1bH9).
 
