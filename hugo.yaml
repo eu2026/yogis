@@ -7,14 +7,27 @@ module:
 
 defaultContentLanguage: en
 languages:
+  de:
+    languageName: Deutsch
+    weight: 1
+    contentDir: content/de
   en:
     languageName: English
-    weight: 1
+    weight: 2
     contentDir: content/en
   es:
-    languageName: Spanish
-    weight: 2
+    languageName: Español
+    weight: 3
     contentDir: content/es
+  fr:
+    languageName: Français
+    weight: 4
+    contentDir: content/fr
+  pt:
+    languageName: Portuguesa
+    weight: 5
+    contentDir: content/pt
+
 
 markup:
   # allow raw html

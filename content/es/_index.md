@@ -43,7 +43,7 @@ por favor visita la [página de apoyo al proyecto](./support).
   {{< card link="meetings" title="Actas de Reuniones" icon="book-open" >}}
   {{< card link="https://forms.gle/4dEDEqQBJ1jzMmtS9" title="Formulario de Registro" icon="clipboard-list" >}}
   {{< card link="support" title="Apoyar el Proyecto" icon="heart" >}}
-  {{< card link="./#contact" title="Contacto" icon="phone" >}}
+  {{< card link="./#contacto" title="Contacto" icon="phone" >}}
 {{< /cards >}}
 
 ## Participar
