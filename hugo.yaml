@@ -53,11 +53,12 @@ menu:
     - name: Supporting The Project
       weight: 4
       pageRef: /support
-    - name: Cabella Presentation
+    - name: Tour Video
       weight: 5
+      url: https://www.youtube.com/watch?app=desktop&v=2Tu3f41aVYA
+    - name: Cabella Presentation
+      weight: 6
       url: https://www.youtube.com/live/LBA2kEM0LvI?si=hM827WYvUdK_rtfk&t=2027
-      params:
-        icon: youtube
 
 
 params:

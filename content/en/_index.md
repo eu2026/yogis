@@ -45,6 +45,8 @@ the [project support page](./support)
   {{< card link="./#contact" title="Contact" icon="phone" >}}
 {{< /cards >}}
 
+{{< youtube 2Tu3f41aVYA >}}
+
 ## Participating
 
 Please fill up the

@@ -39,6 +39,8 @@ Se você tem interesse em se envolver nos trabalhos de preparação e apoiar o p
   {{< card link="./#contato" title="Contato" icon="phone" >}}
 {{< /cards >}}
 
+{{< youtube 2Tu3f41aVYA >}}
+
 ## Participar
 
 Por favor, preencha o [formulário de inscrição](https://forms.gle/4dEDEqQBJ1jzMmtS9) se você tem interesse em participar de uma ou mais rotas! Também é possível participar parcialmente de uma rota (por exemplo, uma semana).

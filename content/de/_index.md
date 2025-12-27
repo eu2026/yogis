@@ -38,6 +38,8 @@ Wenn du Interesse hast, dich an der Vorbereitungsarbeit zu beteiligen und das Pr
   {{< card link="./#kontakt" title="Kontakt" icon="phone" >}}
 {{< /cards >}}
 
+{{< youtube 2Tu3f41aVYA >}}
+
 ## Teilnahme
 
 Bitte fülle das [Anmeldeformular](https://forms.gle/4dEDEqQBJ1jzMmtS9) aus, wenn du Interesse hast, an einer oder mehreren Routen teilzunehmen!

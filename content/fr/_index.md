@@ -39,6 +39,8 @@ Si vous êtes intéressé(e) à vous impliquer dans les travaux de préparation 
   {{< card link="./#contact" title="Contact" icon="phone" >}}
 {{< /cards >}}
 
+{{< youtube 2Tu3f41aVYA >}}
+
 ## Participer
 
 Veuillez remplir le [formulaire d'inscription](https://forms.gle/4dEDEqQBJ1jzMmtS9) si vous souhaitez rejoindre un ou plusieurs des itinéraires ! Il est également possible de rejoindre partiellement un itinéraire (une semaine par exemple).
