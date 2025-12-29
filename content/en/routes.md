@@ -22,19 +22,146 @@ toc: false
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 {{% details title="**05.05 to 11.05 ->** Italy" closed="true" %}}
+
+🏠 Accommodation
+
+- `05.05 to 09.05 - Cabella`
+  - Addresses:
+    - Cabella
+  - Notes:
+    - Stay at Cabella camp - do day trips for programs
+- `09.05 to 11.05 - Sanremo`
+  - Addresses:
+    - [Via Galilei 61 Sanremo](https://maps.app.goo.gl/sBGBgEvujxfCjvSu6)
+    - [Corso trento Trieste 47 Sanremo](https://maps.app.goo.gl/Cp8p1QuFpG9zdmPo6)
+  - Notes:
+    - Yogis house. Around 14 beds and on the floor
+
+⚡ Programs
+
+- `05.05 - hh:mm to hh:mm`
+  - Address: Novi
+  - Notes: xxx
+
+- `06.05 - hh:mm to hh:mm`
+  - Address: Turin
+  - Notes: xxx
+
+- `10.05 - hh:mm to hh:mm`
+  - Address: [PALAZZO ROVERIZIO Via Escoffier 29  Ang via Palazzo Sanremo 18038 ( IM)](https://maps.app.goo.gl/NuZTG5eh3jewhGpF9)
+  - Notes: xxx
+
+📅 Day plan
+
+| Routines  | 05.05 |06.05 |07.05 |08.05 |09.05 |10.05 |11.05 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+| Afternoon | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+| Night     | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+
 {{% /details %}}
 {{% details title="**11.05 to 23.05 ->** France and Andorra" closed="true" %}}
-- **11.05 to 19.05 ->** Nice / Marseilles / Montpelier / Avignon
-- **19.05 to 21.05 ->** Andorra
-- **21.05 to 23.05 ->** Perpignan
+
+🏠 Accommodation
+
+- `11.05 to 19.05 - Nice / Marseilles / Montpelier / Avignon`
+  - Addresses:
+    - TBD
+  - Notes:
+    - TBD
+- `19.05 to 21.05 - Andorra`
+  - Addresses:
+    - TBD
+  - Notes:
+    - TBD
+- `21.05 to 23.05 - Perpignan`
+  - Addresses:
+    - TBD
+  - Notes:
+    - TBD
+
+⚡ Programs
+
+- `dd.05 - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 11.05 |12.05 |13.05 |14.05 |15.05 |16.05 |17.05 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+| Afternoon | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+| Night     | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+
+| Routines  | 18.05 |19.05 |20.05 |21.05 |22.05 |23.05 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |
+| Afternoon | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |
+| Night     | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |
+
 {{% /details %}}
 {{% details title="**23.05 to 29.05 ->** Spain" closed="true" %}}
-- **23.05 to 25.05 ->** Barcelona
-- **25.05 to 27.05 ->** Zaragoza
-- **27.05 to 29.05 ->** Madrid
+
+🏠 Accommodation
+
+- `23.05 to 25.05 - Barcelona`
+  - Addresses:
+    - [Albergue Pere Tarrés Barcelona - Youth Hostel en Barcelona](https://maps.app.goo.gl/YaoJybS39jEmeALi6)
+  - Notes:
+    - TBD
+- `25.05 to 27.05 - Zaragoza`
+  - Addresses:
+    - [Adolfo Aznar 5-17 Zaragoza](https://maps.app.goo.gl/EjY8b1VpQpzPkWE57)
+  - Notes:
+    - Payment has been made for both apartments.
+- `27.05 to 29.05 - Madrid`
+  - Addresses:
+    - [Plaza Castilla, 3, 9ºa, 28046 Madrid, Spain](https://maps.app.goo.gl/wbSvckJbi1QukFy88)
+    - TBD
+  - Notes:
+    - In total paid 684 - Still need to pay 644
+
+
+⚡ Programs
+
+- `dd.05 - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 23.05 |24.05 |25.05 |26.05 |27.05 |28.05 |29.05 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+| Afternoon | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+| Night     | xxx   | xxx  | xxx  |xxx   |xxx   |xxx   |xxx   |
+
 {{% /details %}}
 {{% details title="**29.05 to 31.05 ->** Portugal" closed="true" %}}
-- **29.05 to 31.05 ->** Lisbon
+
+🏠 Accommodation
+
+- `29.05 to 31.05 - Lisbon`
+  - Addresses:
+    - TBD
+  - Notes:
+    - TBD
+
+⚡ Programs
+
+- `dd.05 - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 29.05 |30.05 |31.05 |
+| :-------- | :---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |
+| Afternoon | xxx   | xxx  | xxx  |
+| Night     | xxx   | xxx  | xxx  |
+
 {{% /details %}}
 {{% /details %}}
 
@@ -47,8 +174,56 @@ toc: false
 - **10.06 to 12.06 ->** Porto
 {{% /details %}}
 {{% details title="**12.06 to 18.06 ->** Spain" closed="true" %}}
-- **12.06 to 15.06 ->** Vigo and Santiago de Compostela
-- **15.06 to 17.06 ->** Donostia / San Sebastián
+{{% details title="🏠 Accommodation" closed="true" %}}
+```yaml
+- From-date: 12.04
+  To-date: 16.05
+  Address: Vigo and Santiago de Compostela
+  Info: 
+
+- From-date: 15.06
+  To-date: 16.05
+  Address: Ondarreta Youth Hostel - C/ Paseo de Igueldo, 25 — San Sebastián- Guipúzcoa
+  Info: A deposit of €150 has been paid.
+```
+{{% /details %}}
+{{% details title="⚡ Programs" closed="true" %}}
+```yaml
+```
+{{% /details %}}
+{{% details title="📅 Day plan" closed="true" %}}
+```yaml
+- Date: 12.06
+  Morning: xxx
+  Afternoon: xxx
+  Night: xxx
+
+- Date: 13.06
+  Morning: xxx
+  Afternoon: xxx
+  Night: xxx
+
+- Date: 14.06
+  Morning: xxx
+  Afternoon: xxx
+  Night: xxx
+
+- Date: 15.06
+  Morning: xxx
+  Afternoon: xxx
+  Night: xxx
+
+- Date: 16.06
+  Morning: xxx
+  Afternoon: xxx
+  Night: xxx
+
+- Date: 17.06
+  Morning: xxx
+  Afternoon: xxx
+  Night: xxx
+```
+{{% /details %}}
 {{% /details %}}
 {{% details title="**17.06 to 24.06 ->** France" closed="true" %}}
 - **17.06 to 20.06 ->** Bayonne / Toulouse
@@ -154,7 +329,6 @@ toc: false
   Night: xxx
 ```
 {{% /details %}}
-
 {{% /details %}}
 {{% details title="**07.07 to 11.07 ->** Netherlands" closed="true" %}}
 {{% /details %}}
