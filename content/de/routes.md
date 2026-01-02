@@ -441,109 +441,317 @@ toc: false
 ### Water 🌊 -> 01.07 to 27.07
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
-{{% details title="**01.07 to 05.07 ->** Finland" closed="true" %}}
-- **01.07 to 05.07 ->** Helsinki / Porvoo / Turku
+{{% details title="**🇫🇮  01.07 to 05.07** - Hensinki" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - [Sahaj ashram - Puistomäki 6, 02610 Espoo](https://maps.app.goo.gl/TWWd3qdn4dG4AQwK6)
+- Notes: Only around 8-10 guests can stay in the ashram. More people to stay with Yogis.
+  For staying in the ashram, we should pay for food and an optional donation.
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Eteläesplanadi 1, Helsinki central
+  - Notes: TBD
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Turku
+  - Notes: TBD
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Porvoo
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 01.07 |02.07 |03.07 |04.07 |05.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**05.07 to 09.07 ->** Estonia" closed="true" %}}
-- **05.07 to 09.07 ->** Maardu / Tartu / Viljandi
+{{% details title="**🇪🇪  05.07 to 09.07** - Tallinn" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 05.07 |06.07 |07.07 |08.07 |09.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**09.07 to 13.07 ->** Latvia" closed="true" %}}
-- **09.07 to 13.07 ->** Riga / Ventspils / Liepāja
+{{% details title="**🇱🇻 09.07 to 13.07** - Riga" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 09.07 |10.07 |11.07 |12.07 |13.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**13.07 to 17.07 ->** Lithuania" closed="true" %}}
-- **13.07 to 17.07 ->** Alytus / Palanga / Kaunas
+{{% details title="**🇱🇹 13.07 to 17.07** - Vilnius" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 13.07 |14.07 |15.07 |16.07 |17.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**17.07 to 25.07 ->** Poland" closed="true" %}}
-- **17.07 to 25.07 ->** Warsaw / Kracow / Tychy / Opole / Poznan / Zielona Gora
+{{% details title="**🇵🇱 17.07 to 25.07** - Poland" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 17.07 |18.07 |19.07 |20.07 |21.07 |22.07 |23.07 |24.07 |25.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**25.07 to 27.07 ->** Germany" closed="true" %}}
-- **25.07 to 27.07 ->** Berlin
+{{% details title="**🇩🇪 25.07 to 27.07** - Berlin" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  |25.07 |26.07 |27.07 |
+| :-------- |:---- |:---- |:---- |
+| Morning   | xxx  | xxx  | xxx  |
+| Evening   | xxx  | xxx  | xxx  |
+
 {{% /details %}}
 {{% /details %}}
 
 ### Earth 🏔️ -> 02.07 to 26.07
 
 {{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
-{{% details title="**02.07 to 07.07 ->** Belgium" closed="true" %}}
-{{% details title="🏠 Accommodation" closed="true" %}}
-```yaml
-- From-date: 02.07
-  To-date: 07.07
-  Address: TBD
-  Info: TBD
-```
+{{% details title="**🇧🇪 02.07 to 07.07** - Brussels" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `03.07 - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
+
+- `04.07 - hh:mm to hh:mm`
+  - Address: Mons
+  - Notes: TBD
+
+- `05.07 - hh:mm to hh:mm`
+  - Address: Porvoo
+  - Notes: TBD
+
+- `06.07 - hh:mm to hh:mm`
+  - Address: Brussels
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 02.07 |03.07 |04.07 |05.07 |06.07 |07.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="⚡ Programs" closed="true" %}}
-```yaml
-- Date: 03.07
-  From-time: xxx
-  To-time: xxx
-  Address: Namur
-  Info: TBD
+{{% details title="**🇳🇱 07.07 to 11.07** - Netherlands" closed="true" %}}
 
-- Date: 04.07
-  From-time: xxx
-  To-time: xxx
-  Address: Ghent
-  Info: TBD
+🏠 Accommodation
 
-- Date: 05.07
-  From-time: xxx
-  To-time: xxx
-  Address: Mons
-  Info: TBD
+- Addresses:
+  - TBD
+- Notes: TBD
 
-- Date: 06.07
-  From-time: xxx
-  To-time: xxx
-  Address: Brussels
-  Info: TBD
-```
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 02.07 |03.07 |04.07 |05.07 |06.07 |07.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="📅 Day plan" closed="true" %}}
-```yaml
-- Date: 02.07
-  Morning: xxx
-  Afternoon: xxx
-  Night: xxx
+{{% details title="**🇩🇪 11.07 to 15.07** - Cologne" closed="true" %}}
 
-- Date: 03.07
-  Morning: xxx
-  Afternoon: xxx
-  Night: xxx
+🏠 Accommodation
 
-- Date: 04.07
-  Morning: xxx
-  Afternoon: xxx
-  Night: xxx
+- Addresses:
+  - TBD
+- Notes: TBD
 
-- Date: 05.07
-  Morning: xxx
-  Afternoon: xxx
-  Night: xxx
+⚡ Programs
 
-- Date: 06.07
-  Morning: xxx
-  Afternoon: xxx
-  Night: xxx
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
 
-- Date: 07.07
-  Morning: xxx
-  Afternoon: xxx
-  Night: xxx
-```
+📅 Day plan
+
+| Routines  | 11.07 |12.07 |13.07 |14.07 |15.07 |
+| :-------- | :---- |:---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+
 {{% /details %}}
+{{% details title="**🇩🇪 15.07 to 17.07** - Marburg" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 15.07 |16.07 |17.07 |
+| :-------- | :---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**07.07 to 11.07 ->** Netherlands" closed="true" %}}
+{{% details title="**🇩🇪 17.07 to 20.07** - Frankfurt" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 17.07 |18.07 |19.07 |20.07 |
+| :-------- | :---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**11.07 to 23.07 ->** Germany" closed="true" %}}
-- **11.07 to 15.07 ->** Dusseldorf / Essen / Cologne
-- **15.07 to 17.07 ->** Marburg
-- **17.07 to 20.07 ->** Frankfurt
-- **20.07 to 23.07 ->** South-west Germany
+{{% details title="**🇩🇪 20.07 to 23.07** - Karlsruhe" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 20.07 |21.07 |22.07 |23.07 |
+| :-------- | :---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  |
+
 {{% /details %}}
-{{% details title="**23.07 to 26.07 ->** Switzerland" closed="true" %}}
-- **23.07 to 26.07 ->** Zurich / Basel
+{{% details title="**🇨🇭 23.07 to 26.07** - Basel" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: Namur
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 23.07 |24.07 |25.07 |26.07 |
+| :-------- | :---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  |
+
 {{% /details %}}
 {{% /details %}}
 
