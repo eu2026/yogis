@@ -295,7 +295,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇪🇸 27.05 to 29.05** - Zaragoza" closed="true" %}}
+{{% details title="**🇪🇸 27.05 to 29.05** - Madrid" closed="true" %}}
 
 🏠 Accommodation
 
