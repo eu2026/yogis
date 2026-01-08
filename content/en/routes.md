@@ -41,10 +41,23 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 05.05 |06.05 |07.05 |08.05 |09.05 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |xxx   |xxx   |
-| Evening   | xxx   | xxx  | xxx  |xxx   |xxx   |
+{{< tabs items="05.05,06.05,07.05,08.05,09.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇮🇹 09.05 to 11.05** - Sanremo" closed="true" %}}
@@ -65,10 +78,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 09.05 |10.05 |11.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="09.05,10.05,11.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇫🇷 11.05 to 13.05** - Nice" closed="true" %}}
@@ -76,8 +96,8 @@ toc: false
 🏠 Accommodation
 
 - Addresses:
-  - TBD
-- Notes: TBD
+  - Home in Bézaudun-les-Alpes
+- Notes: Must have 320 Euros in cash to pay for the extra people. Full address will be provided later
 
 ⚡ Programs
 
@@ -87,13 +107,20 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 11.05 |12.05 |13.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="11.05,12.05,13.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇫🇷 13.05 to 19.05** - Marseilles / Montpelier / Avignon" closed="true" %}}
+{{% details title="**🇫🇷 13.05 to 16.05** - Marseilles and Arles" closed="true" %}}
 
 🏠 Accommodation
 
@@ -109,10 +136,46 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 13.05 |14.05 |15.05 |16.05 |17.05 |18.05 |19.05 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  |
+{{< tabs items="13.05,14.05,15.05,16.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+
+{{% /details %}}
+{{% details title="**🇫🇷 17.05 to 18.05** - Montpellier" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="17.05,18.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇦🇩 19.05 to 21.05** - Andorra" closed="true" %}}
@@ -131,13 +194,20 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 19.05 |20.05 |21.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="19.05,20.05,21.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇫🇷 21.05 to 23.05** - Perpignan" closed="true" %}}
+{{% details title="**🇫🇷 21.05 to 23.05** - Mazamet" closed="true" %}}
 
 🏠 Accommodation
 
@@ -153,10 +223,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 21.05 |22.05 |23.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="21.05,22.05,23.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇪🇸 23.05 to 25.05** - Barcelona" closed="true" %}}
@@ -175,10 +252,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 23.05 |24.05 |25.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="23.05,24.05,25.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇪🇸 25.05 to 27.05** - Zaragoza" closed="true" %}}
@@ -198,10 +282,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 25.05 |26.05 |27.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="25.05,26.05,27.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇪🇸 27.05 to 29.05** - Zaragoza" closed="true" %}}
@@ -222,10 +313,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 27.05 |28.05 |29.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="27.05,28.05,29.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇵🇹 29.05 to 31.05** - Lisbon" closed="true" %}}
@@ -233,9 +331,8 @@ toc: false
 🏠 Accommodation
 
 - Addresses:
-  - TBD
-- Notes:
-  - TBD
+  - [7 Rua São Tomé e Príncipe, 2620-057 Lisbon, Portugal](https://maps.app.goo.gl/edeVtsk4nSyMvsFB8)
+- Notes: xxx
 
 ⚡ Programs
 
@@ -245,25 +342,30 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 29.05 |30.05 |31.05 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
-
+{{< tabs items="29.05,30.05,31.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 {{% /details %}}
 {{% /details %}}
 
 ### Fire 🔥 -> 05.06 to 26.06
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
-{{% details title="**🇵🇹 05.06 to 08.06** - Lisbon" closed="true" %}}
+{{% details title="**🇵🇹 06.06 to 08.06** - Lisbon" closed="true" %}}
 
 🏠 Accommodation
 
 - Addresses:
-  - TBD
-- Notes:
-  - TBD
+  - [Edifício Panoramic - Avenida D. João II lote 57, Parque das Nacoes, 1990-050 Lisbon, Portugal](https://maps.app.goo.gl/2rfRJv58Qa2XCc5K6)
+- Notes: xxx
 
 ⚡ Programs
 
@@ -273,10 +375,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 05.06 |06.06 |07.06 |08.06 |
-| :-------- | :---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  |
+{{< tabs items="06.06,07.06,08.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇵🇹 08.06 to 10.06** - Leiria" closed="true" %}}
@@ -285,8 +394,7 @@ toc: false
 
 - Addresses:
   - [Porta 20 Boutique Guesthouse - R. Beatriz Machado 20, 2410-089 Leiria, Portugal](https://maps.app.goo.gl/nTynjrnSrd3HESsc6)
-- Notes:
-  - Need to pay them by 18.01
+- Notes: xxx 
 
 ⚡ Programs
 
@@ -296,10 +404,17 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 08.06 |09.06 |10.06 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="08.06,09.06,10.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇵🇹 10.06 to 12.06** - Porto" closed="true" %}}
@@ -319,13 +434,20 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 10.06 |11.06 |12.06 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="10.06,11.06,12.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇪🇸 12.06 to 15.06** - Vigo and Santiago de Compostela" closed="true" %}}
+{{% details title="**🇪🇸 12.06 to 15.06** - Vigo and UMA" closed="true" %}}
 
 🏠 Accommodation
 
@@ -342,10 +464,20 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 12.06 |13.06 |14.06 |15.06 |
-| :-------- | :---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  |
+{{< tabs items="12.06,13.06,14.06,15.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇪🇸 15.06 to 17.06** - San Sebastián" closed="true" %}}
@@ -364,13 +496,20 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 15.06 |16.06 |17.06 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
+{{< tabs items="15.06,16.06,17.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇫🇷 17.06 to 20.06** - Bayonne / Toulouse" closed="true" %}}
+{{% details title="**🇫🇷 17.06 to 19.06** - Bayonne" closed="true" %}}
 
 🏠 Accommodation
 
@@ -386,13 +525,20 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 17.06 |18.06 |19.06 |20.06 |
-| :-------- | :---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  |
+{{< tabs items="17.06,18.06,19.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇫🇷 20.06 to 24.06** - Paris" closed="true" %}}
+{{% details title="**🇫🇷 19.06 to 24.06** - Paris" closed="true" %}}
 
 🏠 Accommodation
 
@@ -408,10 +554,26 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 20.06 |21.06 |22.06 |23.06 |24.06 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+{{< tabs items="19.06,20.06,21.06,22.06,23.06,24.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇬🇧 24.06 to 26.06** - Blossom Farm" closed="true" %}}
@@ -430,18 +592,24 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 24.06 |25.06 |26.06 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
-
+{{< tabs items="24.06,25.06,26.06" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 {{% /details %}}
 {{% /details %}}
 
 ### Water 🌊 -> 01.07 to 27.07
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
-{{% details title="**🇫🇮  01.07 to 05.07** - Hensinki" closed="true" %}}
+{{% details title="**🇫🇮  01.07 to 06.07** - Helsinki" closed="true" %}}
 
 🏠 Accommodation
 
@@ -453,7 +621,7 @@ toc: false
 ⚡ Programs
 
 - `DD.MM - hh:mm to hh:mm`
-  - Address: Eteläesplanadi 1, Helsinki central
+  - Address: [Eteläesplanadi 1, Helsinki central](https://maps.app.goo.gl/pVFpbon9tARE3y6o6)
   - Notes: TBD
 
 - `DD.MM - hh:mm to hh:mm`
@@ -466,13 +634,29 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 01.07 |02.07 |03.07 |04.07 |05.07 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+{{< tabs items="01.07,02.07,03.07,04.07,05.07,06.07" >}}
+  {{< tab >}}
+Arival and ice breaker
+  {{< /tab >}}
+  {{< tab >}}
+Helsinki public program
+  {{< /tab >}}
+  {{< tab >}}
+Porvoo / Turku public program
+  {{< /tab >}}
+  {{< tab >}}
+Porvoo / Turku public program
+  {{< /tab >}}
+  {{< tab >}}
+Rest and recovery at Helsinki
+  {{< /tab >}}
+  {{< tab >}}
+Move to Estonia
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇪🇪  05.07 to 09.07** - Tallinn" closed="true" %}}
+{{% details title="**🇪🇪  06.07 to 09.07** - Tallinn" closed="true" %}}
 
 🏠 Accommodation
 
@@ -488,10 +672,10 @@ toc: false
 
 📅 Day plan
 
-| Routines  | 05.07 |06.07 |07.07 |08.07 |09.07 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+| Routines  | 06.07 |07.07 |08.07 |09.07 |
+| :-------- | :---- |:---- |:---- |:---- |
+| Morning   |  xxx  | xxx  | xxx  | xxx  |
+| Evening   |  xxx  | xxx  | xxx  | xxx  |
 
 {{% /details %}}
 {{% details title="**🇱🇻 09.07 to 13.07** - Riga" closed="true" %}}
@@ -526,8 +710,11 @@ toc: false
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
+- `15.07 - hh:mm to hh:mm`
+  - Address: Kaunas
+  - Notes: TBD
+- `16.07 - hh:mm to hh:mm`
+  - Address: Alytus
   - Notes: TBD
 
 📅 Day plan
@@ -538,7 +725,7 @@ toc: false
 | Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
 
 {{% /details %}}
-{{% details title="**🇵🇱 17.07 to 25.07** - Poland" closed="true" %}}
+{{% details title="**🇵🇱 17.07 to 19.07** - Warsaw" closed="true" %}}
 
 🏠 Accommodation
 
@@ -548,16 +735,69 @@ toc: false
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
+- `19.07 - hh:mm to hh:mm`
   - Address: TBD
   - Notes: TBD
 
 📅 Day plan
 
-| Routines  | 17.07 |18.07 |19.07 |20.07 |21.07 |22.07 |23.07 |24.07 |25.07 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  | xxx  |
+| Routines  | 17.07 |18.07 |19.07 |
+| :-------- | :---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  |
+
+{{% /details %}}
+{{% details title="**🇵🇱 19.07 to 22.07** - Kracow" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `20.07 - hh:mm to hh:mm`
+  - Address: Kracow
+  - Notes: TBD
+- `21.07 - hh:mm to hh:mm`
+  - Address: Tychy
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 19.07 |20.07 |21.07 |22.07 |
+| :-------- | :---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  |
+
+{{% /details %}}
+{{% details title="**🇵🇱 22.07 to 25.07** - Opole" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `22.07 - hh:mm to hh:mm`
+  - Address: Opole
+  - Notes: TBD
+- `24.07 - hh:mm to hh:mm`
+  - Address: Sulejow
+  - Notes: TBD
+- `25.07 - hh:mm to hh:mm`
+  - Address: Zielona Gora
+  - Notes: TBD
+
+📅 Day plan
+
+| Routines  | 22.07 |23.07 |24.07 |25.07 |
+| :-------- | :---- |:---- |:---- |:---- |
+| Morning   | xxx   | xxx  | xxx  | xxx  |
+| Evening   | xxx   | xxx  | xxx  | xxx  |
 
 {{% /details %}}
 {{% details title="**🇩🇪 25.07 to 27.07** - Berlin" closed="true" %}}
@@ -570,8 +810,8 @@ toc: false
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
+- `26.07 - hh:mm to hh:mm`
+  - Address: Berlin
   - Notes: TBD
 
 📅 Day plan
