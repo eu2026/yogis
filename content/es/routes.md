@@ -694,10 +694,23 @@ Move to Estonia
 
 📅 Day plan
 
-| Routines  | 09.07 |10.07 |11.07 |12.07 |13.07 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+{{< tabs items="09.07,10.07,11.07,12.07,13.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇱🇹 13.07 to 17.07** - Vilnius" closed="true" %}}
@@ -719,10 +732,23 @@ Move to Estonia
 
 📅 Day plan
 
-| Routines  | 13.07 |14.07 |15.07 |16.07 |17.07 |
-| :-------- | :---- |:---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  | xxx  |
+{{< tabs items="13.07,14.07,15.07,16.07,17.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇵🇱 17.07 to 19.07** - Warsaw" closed="true" %}}
@@ -740,6 +766,19 @@ Move to Estonia
   - Notes: TBD
 
 📅 Day plan
+
+{{< tabs items="17.07,18.07,19.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+
 
 | Routines  | 17.07 |18.07 |19.07 |
 | :-------- | :---- |:---- |:---- |
@@ -766,10 +805,20 @@ Move to Estonia
 
 📅 Day plan
 
-| Routines  | 19.07 |20.07 |21.07 |22.07 |
-| :-------- | :---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  |
+{{< tabs items="19.07,20.07,21.07,22.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇵🇱 22.07 to 25.07** - Opole" closed="true" %}}
@@ -794,10 +843,20 @@ Move to Estonia
 
 📅 Day plan
 
-| Routines  | 22.07 |23.07 |24.07 |25.07 |
-| :-------- | :---- |:---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  | xxx  |
+{{< tabs items="22.07,23.07,24.07,25.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% details title="**🇩🇪 25.07 to 27.07** - Berlin" closed="true" %}}
@@ -816,10 +875,17 @@ Move to Estonia
 
 📅 Day plan
 
-| Routines  |25.07 |26.07 |27.07 |
-| :-------- |:---- |:---- |:---- |
-| Morning   | xxx  | xxx  | xxx  |
-| Evening   | xxx  | xxx  | xxx  |
+{{< tabs items="25.07,26.07,27.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
 
 {{% /details %}}
 {{% /details %}}
@@ -997,19 +1063,253 @@ Move to Estonia
 
 ### Light 🕯️-> 09.07 to 26.07
 
-{{% details title="🇦🇹 🇨🇿 🇸🇰 🇭🇺 🇩🇪 🇨🇭" closed="true" %}}
-{{% details title="**09.07 to 11.07 ->** Austria" closed="true" %}}
-{{% /details %}}
-{{% details title="**11.07 to 13.07 ->** Czech" closed="true" %}}
-{{% /details %}}
-{{% details title="**13.07 to 16.07 ->** Slovakia" closed="true" %}}
-{{% /details %}}
-{{% details title="**16.07 to 19.07 ->** Hungary" closed="true" %}}
-{{% /details %}}
-{{% details title="**19.07 to 24.07 ->** Austria / Germany / Austria" closed="true" %}}
-{{% /details %}}
-{{% details title="**25.07 to 26.07 ->** Switzerland" closed="true" %}}
-{{% /details %}}
-{{% /details %}}
+{{% details title="🇦🇹 🇨🇿 🇸🇰 🇭🇺 🇩🇪" closed="true" %}}
+23rd to 25th Bregenz
+{{% details title="**🇦🇹 09.07 to 10.07** - Vienna" closed="true" %}}
 
+🏠 Accommodation
+
+- Addresses:
+  - Nirmal Prasht
+- Notes: xxx
+
+⚡ Programs
+
+- `10.07 - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="09.07,10.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇨🇿 10.07 to 12.07** - Blansko" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="10.07,11.07,12.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇨🇿 12.07 to 13.07** - Frýdek-Místek" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="12.07,13.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇸🇰 13.07 to 16.07** - Banská Bystrica" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="13.07,14.07,15.07,16.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇭🇺 16.07 to 18.07** - Budapest" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="16.07,17.07,18.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇭🇺 18.07 to 19.07** - Balaton" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="18.07,19.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇦🇹 19.07 to 21.07** - Klagenfurt" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="19.07,20.07,21.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇩🇪 21.07 to 23.07** - Munich" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="21.07,22.07,23.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇦🇹 23.07 to 25.07** - Bregenz" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - xxx
+- Notes: xxx
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: xxx
+  - Notes: xxx
+
+📅 Day plan
+
+{{< tabs items="23.07,24.07,25.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% /details %}}
 {{% /steps %}}
