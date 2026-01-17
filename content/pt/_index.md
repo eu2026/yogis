@@ -62,16 +62,33 @@ Abaixo você encontra um breve resumo das rotas. Para mais informações, visite
 - Julho de 2026 -> Água 🌊 -> Finlândia, Estônia, Letônia, Lituânia, Polônia, Alemanha
 - Julho de 2026 -> Terra 🏔️ -> Bélgica, Países Baixos, Alemanha, Suíça
 - Julho de 2026 -> Luz 🕯️ -> Áustria, República Tcheca, Eslováquia, Hungria, Áustria, Alemanha
+- Julho 2026 -> Aether ☄️ -> Sweeden, Denmark, Germany, Netherlands
+- Julho 2026 -> Chaitanya ☀️ -> Bulgaria, Romania
 
 As duas primeiras rotas (Ar e Fogo) terão capacidade máxima de 20 yogis viajantes. As outras rotas terão uma capacidade estimada de 30 yogis viajantes.
 
 ### Custos
 
-O **preço total** de cada rota é de **600 Euros**. Para yogis estudantes/desempregados/no início de carreira, é possível participar da turnê pelo **preço subsidiado de 450 Euros**. Deixaremos a seu próprio critério decidir a qual categoria você pertence. O preço da turnê cobre alimentação, hospedagem e transporte durante a turnê. **Não inclui as taxas do Sahasrara, Shri Adi Shakti e Guru Puja.**
+O **preço total** das rotas **Ar**, **Fogo**, **Água**, **Terra** e **Luz**  
+é de **600 euros**. O **preço total** das rotas **Chaitanya** e **Éter**  
+(que são mais curtas) é de **400 euros**.
 
-É possível participar da metade ou de um terço de cada rota. Nesse caso, o custo será calculado por semana. O **custo semanal** para participar da turnê é de **200 Euros (150 Euros subsidiados).** Se você quiser participar da turnê por apenas alguns dias, o custo diário é de 30 Euros.
+Para iogues estudantes, desempregados ou no início de carreira, é possível participar da viagem  
+pelo preço subsidiado de **450 euros para as rotas mais longas** e **300 euros para as duas rotas mais curtas**.  
+Deixamos a seu próprio critério decidir a qual categoria você pertence.  
+O preço da viagem inclui alimentação, hospedagem e transporte durante o tour. **Não inclui**  
+**as taxas de Sahasrara, Shri Adi Shakti e Guru Puja.**
 
-Se você trouxer seu próprio carro para a turnê e permitir que o tour o utilize, calcularemos automaticamente a taxa subsidiada da turnê para você!
+É possível participar da metade ou de um terço de cada rota. Nesse caso,  
+o custo será calculado por semana. O **custo semanal** para participar da  
+viagem é de **200 euros (150 euros subsidiado).**
+
+Se você realmente tem o desejo de participar da viagem, mas está com recursos limitados,  
+inscreva-se e mencione isso em seu formulário de inscrição! Faremos o possível  
+para sermos flexíveis e trataremos do caso de forma discreta.
+
+Se você levar seu próprio carro para a viagem e permitir que o grupo o use,  
+calcularemos automaticamente a tarifa subsidiada da viagem para você!
 
 ## Sobre o Projeto
 

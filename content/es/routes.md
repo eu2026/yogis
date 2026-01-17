@@ -9,7 +9,6 @@ toc: false
   put all the information here as they get confirmed.
 {{< /callout >}}
 
-
 {{< callout type="warning" >}}
   Remember that for entry to England, you most likely need an
   Electronic Travel Authorizations (ETA).
@@ -779,14 +778,8 @@ xxx
   {{< /tab >}}
 {{< /tabs >}}
 
-
-| Routines  | 17.07 |18.07 |19.07 |
-| :-------- | :---- |:---- |:---- |
-| Morning   | xxx   | xxx  | xxx  |
-| Evening   | xxx   | xxx  | xxx  |
-
 {{% /details %}}
-{{% details title="**🇵🇱 19.07 to 22.07** - Kracow" closed="true" %}}
+{{% details title="**🇵🇱 19.07 to 21.07** - Kracow and Tychy" closed="true" %}}
 
 🏠 Accommodation
 
@@ -805,10 +798,7 @@ xxx
 
 📅 Day plan
 
-{{< tabs items="19.07,20.07,21.07,22.07" >}}
-  {{< tab >}}
-xxx
-  {{< /tab >}}
+{{< tabs items="19.07,20.07,21.07" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -821,7 +811,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇵🇱 22.07 to 25.07** - Opole" closed="true" %}}
+{{% details title="**🇵🇱 21.07 to 22.07** - Opole" closed="true" %}}
 
 🏠 Accommodation
 
@@ -834,6 +824,35 @@ xxx
 - `22.07 - hh:mm to hh:mm`
   - Address: Opole
   - Notes: TBD
+- `24.07 - hh:mm to hh:mm`
+  - Address: Sulejow
+  - Notes: TBD
+- `25.07 - hh:mm to hh:mm`
+  - Address: Zielona Gora
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="21.07,22.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+
+{{% /details %}}
+{{% details title="**🇵🇱 22.07 to 25.07** - Gora" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
 - `24.07 - hh:mm to hh:mm`
   - Address: Sulejow
   - Notes: TBD
@@ -859,6 +878,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
+
 {{% details title="**🇩🇪 25.07 to 27.07** - Berlin" closed="true" %}}
 
 🏠 Accommodation
@@ -1300,6 +1320,308 @@ xxx
 📅 Day plan
 
 {{< tabs items="23.07,24.07,25.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% /details %}}
+
+### Aether ☄️ -> 13.07 to 25.07
+
+{{% details title="🇸🇪 🇩🇰 🇩🇪 🇳🇱" closed="true" %}}
+{{% details title="**🇸🇪 13.07 to 15.07** - Gothenberg" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="13.07,14.07,15.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇸🇪 15.07 to 17.07** - Lund" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="15.07,16.07,17.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇩🇰 17.07 to 19.07** - Copenhagen" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="17.07,18.07,19.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇩🇰 19.07 to 21.07** - Billund" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="19.07,20.07,21.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇩🇪 21.07 to 23.07** - Hamburg" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="21.07,22.07,23.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇳🇱 23.07 to 25.07** - Amsterdan" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="23.07,24.07,25.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% /details %}}
+
+### Chaitanya ☀️ -> 06.07 to 19.07
+
+{{% details title="🇧🇬 🇷🇴" closed="true" %}}
+{{% details title="**🇧🇬 06.07 to 10.07** - Sofia" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="06.07,08.07,09.07,10.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇧🇬 10.07 to 13.07** - Pleven" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="10.07,10.07,12.07,13.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇷🇴 13.07 to 16.07** - Craiova" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="13.07,14.07,15.07,16.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇷🇴 16.07 to 19.07** - Bucharest" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="16.07,17.07,18.07,19.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
   {{< tab >}}
 xxx
   {{< /tab >}}

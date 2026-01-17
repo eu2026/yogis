@@ -84,19 +84,33 @@ Para más información, por favor visita la [página de rutas](./routes).
 - Julio 2026 -> Agua 🌊 -> Finlandia, Estonia, Letonia, Lituania, Polonia, Alemania
 - Julio 2026 -> Tierra 🏔️ -> Bélgica, Países Bajos, Alemania, Suiza
 - Julio 2026 -> Luz 🕯️ -> Austria, República Checa, Eslovaquia, Hungría, Austria, Alemania
+- Julio 2026 -> Aether ☄️ -> Sweeden, Denmark, Germany, Netherlands
+- Julio 2026 -> Chaitanya ☀️ -> Bulgaria, Romania
 
 Las dos primeras rutas (las rutas Aire y Fuego) tendrán una capacidad máxima de 20 Yogis itinerantes. Las otras rutas tendrán una capacidad estimada de 30 Yogis itinerantes.
 
 ### Costos
 
-El **precio completo** de cada ruta es de **600 euros**. Para los Yogis estudiantes, sin empleo o en inicio de carrera, es posible unirse a la gira al **precio subsidiado de 450 euros**. Dejaremos a tu propio criterio decidir a qué categoría perteneces.
+El **precio completo** de los circuitos **Aire**, **Fuego**, **Agua**, **Tierra** y **Luz**  
+es de **600 euros**. El **precio completo** de los circuitos **Chaitanya** y **Éter**  
+(que son más cortos) es de **400 euros**.
 
-El precio de la gira cubre la comida, el alojamiento y el transporte durante el recorrido. **No incluye las cuotas del Puja de Sahasrara, Shri Adi Shakti y del Guru Puja.**
+Para los yoguis estudiantes, desempleados o en inicio de carrera, es posible unirse al viaje  
+al precio subsidiado de **450 euros para los circuitos largos** y **300 euros para los dos circuitos más cortos**.  
+Dejamos a su propio criterio decidir a qué categoría pertenecen.  
+El precio del viaje incluye comida, alojamiento y transporte durante el recorrido. **No incluye**  
+**las tarifas de Sahasrara, Shri Adi Shakti y Guru Puja.**
 
-Es posible unirse a la mitad o un tercio de cada ruta. En ese caso, el costo se calculará por semana. El **costo semanal** para unirse a la gira es de **200 euros (150 euros subsidiados)**. Si deseas unirte solo unos días, el costo diario es de 30 euros.
+Es posible unirse a la mitad o a un tercio de cada circuito. En ese caso,  
+el costo se calculará semanalmente. El **costo semanal** por unirse al  
+viaje es de **200 euros (150 euros subsidiado).**
 
-Si traes tu propio automóvil a la gira y permites que se utilice durante
-el recorrido, ¡calcularemos automáticamente la tarifa subsidiada para ti!
+Si realmente tiene el deseo de unirse al viaje pero tiene limitaciones económicas,  
+¡inscríbase y menciónelo en su formulario de registro! Haremos todo lo posible  
+por adaptarnos y trataremos su caso de manera discreta.
+
+Si lleva su propio coche al viaje y permite que el grupo lo utilice,  
+¡automáticamente le calcularemos la tarifa subsidiada del viaje!
 
 ## Acerca del Proyecto
 

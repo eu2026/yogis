@@ -63,17 +63,33 @@ Weitere Informationen findest du auf der [Routen-Seite](./routes).
 - Juli 2026 -> Wasser 🌊 -> Finnland, Estland, Lettland, Litauen, Polen, Deutschland
 - Juli 2026 -> Erde 🏔️ -> Belgien, Niederlande, Deutschland, Schweiz
 - Juli 2026 -> Licht 🕯️ -> Österreich, Tschechien, Slowakei, Ungarn, Österreich, Deutschland
+- Juli 2026 -> Aether ☄️ -> Sweeden, Denmark, Germany, Netherlands
+- Juli 2026 -> Chaitanya ☀️ -> Bulgaria, Romania
 
 Die ersten beiden Routen (Luft- und Feuer-Route) haben eine maximale Kapazität von 20 reisenden Yogis. Die anderen Routen werden voraussichtlich eine Kapazität von 30 reisenden Yogis haben.
 
 ### Kosten
 
-Der **Vollpreis** für jede Route beträgt **600 Euro**. Für studierende/nicht-berufstätige/berufseinsteigende Yogis ist es möglich, die Tour zum **ermäßigten Preis von 450 Euro** zu besuchen. Wir überlassen es deinem eigenen Ermessen, zu entscheiden, welcher Kategorie du angehörst.
-Der Tourpreis umfasst Verpflegung, Unterkunft und Transport während der Tour. **Er beinhaltet nicht die Gebühren für das Sahasrara-, Shri Adi Shakti- und Guru Puja.**
+Der **volle Preis** für die Routen **Luft**, **Feuer**, **Wasser**, **Erde** und **Licht**  
+beträgt **600 Euro**. Der **volle Preis** für die **Chaitanya**- und **Äther**-Routen  
+(die kürzer sind) beträgt **400 Euro**.
 
-Es ist möglich, die Hälfte oder ein Drittel jeder Route zu begleiten. In diesem Fall werden die Kosten wochenweise berechnet. Die **wöchentlichen Kosten** für die Teilnahme an der Tour betragen **200 Euro (150 Euro ermäßigt).** Wenn du die Tour nur für ein paar Tage begleiten möchtest, betragen die Tageskosten 30 Euro.
+Für Yogis, die studieren, nicht berufstätig sind oder am Anfang ihrer Karriere stehen, ist es möglich, die Reise  
+zum subventionierten Preis von **450 Euro für die längeren Routen** und **300 Euro für die zwei kürzeren Routen** zu buchen.  
+Wir überlassen es Ihrem eigenen Ermessen, zu welcher Kategorie Sie gehören.  
+Der Reisepreis umfasst Verpflegung, Unterkunft und Transport während der Reise. **Er schließt nicht**  
+**die Gebühren für Sahasrara, Shri Adi Shakti und Guru Puja ein.**
 
-Wenn du dein eigenes Auto zur Tour mitbringst und es der Tour zur Verfügung stellst, berechnen wir automatisch den ermäßigten Tourpreis für dich!
+Es ist möglich, die Hälfte oder ein Drittel jeder Route zu buchen. In diesem Fall  
+wird der Preis wöchentlich berechnet. Die **wöchentlichen Kosten** für die Teilnahme an der Reise betragen  
+**200 Euro (150 Euro subventioniert).**
+
+Wenn Sie wirklich den Wunsch haben, an der Reise teilzunehmen, aber finanziell eingeschränkt sind,  
+melden Sie sich bitte an und geben Sie dies in Ihrem Anmeldeformular an! Wir werden unser Bestes tun,  
+um entgegenzukommen, und werden den Fall diskret behandeln.
+
+Wenn Sie Ihr eigenes Auto zur Reise mitbringen und es der Reisegruppe zur Verfügung stellen,  
+berechnen wir automatisch den subventionierten Reisepreis für Sie!
 
 ## Über das Projekt
 

@@ -77,6 +77,8 @@ For more information please visit the [routes page](./routes).
 - July 2026 -> Water 🌊 -> Finland, Estonia, Latvia, Lithuania, Poland, Germany
 - July 2026 -> Earth 🏔️ -> Belgium, Netherlands, Germany, Switzerland
 - July 2026 -> Light 🕯️ -> Austria, Czech, Slovakia, Hungary, Austria, Germany
+- July 2026 -> Aether ☄️ -> Sweeden, Denmark, Germany, Netherlands
+- July 2026 -> Chaitanya ☀️ -> Bulgaria, Romania
 
 The first two routes (Air and Fire routes) will have the maximum capacity of
 20 touring Yogis. The other routes will have an estimated capacity of 30
@@ -84,16 +86,23 @@ touring Yogis.
 
 ### Costs
 
-The **full price** of each route is **600 Euros**. For student/non-working/early-career
-yogis it is possible to join the tour for the **subsidized price of 450 Euros**.
+The **full price** of **Air**, **Fire**, **Water**, **Earth** and **Light**
+routes is **600 Euros**. The **full price** of **Chaitanya** and **Aether** routes
+(which are shorter) is **400 Euros**.
+
+For student/non-working/early-career yogis it is possible to join the tour for the
+subsidized price of **450 Euros for longer routes** and **300 Euros for the two shorter router**.
 We will leave it up to your own judgment to decide which category you belong to.
 The tour price covers food, accommodation, and transport during the tour. **It does**
 **not include the Sahasrara, Shri Adi Shakti and Guru Puja fees.**
 
 It is possible to join half or a third of each route. In that case the
 cost will be calculated on a per-week basis. The **weekly cost** of joining the
-tour is **200 Euros (150 Euros subsidized).** If you want to join the tour for
-just a few days, the daily cost is 30 Euros.
+tour is **200 Euros (150 Euros subsidized).**
+
+If you really have the desire to join the tour but are financially limited,
+please register and mention that in your registration form! We will try our best
+to be accommodating and will deal with the case discretely.
 
 If you are bringing your own car to the tour and allow the tour to use it,
 we will automatically calculate the subsidized tour fee for you!

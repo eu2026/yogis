@@ -63,17 +63,33 @@ Pour plus d'informations, veuillez visiter la [page des itinéraires](./routes).
 - Juillet 2026 -> Eau 🌊 -> Finlande, Estonie, Lettonie, Lituanie, Pologne, Allemagne
 - Juillet 2026 -> Terre 🏔️ -> Belgique, Pays-Bas, Allemagne, Suisse
 - Juillet 2026 -> Lumière 🕯️ -> Autriche, République Tchèque, Slovaquie, Hongrie, Autriche, Allemagne
+- Juillet 2026 -> Aether ☄️ -> Sweeden, Denmark, Germany, Netherlands
+- Juillet 2026 -> Chaitanya ☀️ -> Bulgaria, Romania
 
 Les deux premiers itinéraires (Air et Feu) auront une capacité maximale de 20 yogis itinérants. Les autres itinéraires auront une capacité estimée de 30 yogis itinérants.
 
 ### Coûts
 
-Le **tarif plein** de chaque itinéraire est de **600 Euros**. Pour les yogis étudiants/sans emploi/en début de carrière, il est possible de rejoindre la tournée au **tarif subventionné de 450 Euros**. Nous vous laissons le soin de juger à quelle catégorie vous appartenez.
-Le prix de la tournée comprend la nourriture, l'hébergement et le transport pendant la tournée. **Il ne comprend pas les frais des Pujas du Sahasrara, de Shri Adi Shakti et du Guru.**
+Le **tarif complet** des circuits **Air**, **Feu**, **Eau**, **Terre** et **Lumière**  
+est de **600 euros**. Le **tarif complet** des circuits **Chaitanya** et **Éther**  
+(qui sont plus courts) est de **400 euros**.
 
-Il est possible de rejoindre la moitié ou un tiers de chaque itinéraire. Dans ce cas, le coût sera calculé sur une base hebdomadaire. Le **coût hebdomadaire** pour rejoindre la tournée est de **200 Euros (150 Euros subventionné).** Si vous souhaitez rejoindre la tournée seulement quelques jours, le coût journalier est de 30 Euros.
+Pour les yogis étudiants, sans emploi ou en début de parcours, il est possible de rejoindre le voyage  
+au tarif réduit de **450 euros pour les circuits longs** et **300 euros pour les deux circuits plus courts**.  
+Nous vous laissons le soin de juger à quelle catégorie vous appartenez.  
+Le prix du voyage comprend la nourriture, l'hébergement et les déplacements pendant le séjour. **Il ne comprend pas**  
+**les frais de Sahasrara, de Shri Adi Shakti et de Guru Puja.**
 
-Si vous amenez votre propre voiture pour la tournée et permettez à la tournée de l'utiliser, nous calculerons automatiquement le tarif subventionné pour vous !
+Il est possible de rejoindre la moitié ou un tiers de chaque circuit. Dans ce cas,  
+le coût sera calculé par semaine. Le **coût hebdomadaire** pour participer au voyage est de  
+**200 euros (150 euros en tarif réduit).**
+
+Si vous avez vraiment le désir de vous joindre au voyage mais que vos moyens sont limités,  
+inscrivez-vous et indiquez-le dans votre formulaire d'inscription ! Nous ferons de notre mieux  
+pour nous adapter et traiterons votre cas de manière discrète.
+
+Si vous apportez votre propre véhicule pour le voyage et le mettez à disposition du groupe,  
+nous appliquerons automatiquement le tarif réduit pour vous !
 
 ## À Propos du Projet
 
