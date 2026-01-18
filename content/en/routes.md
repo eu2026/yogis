@@ -19,7 +19,6 @@ toc: false
 
 ### Air 🌀 -> 05.05 to 31.05
 
-<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/europe-tour_1345604?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=96df2807-dfa1-423e-b392-495f56f6c555#5/41.673/1.019"></iframe><p><a href="//umap.openstreetmap.fr/en/map/europe-tour_1345604?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=96df2807-dfa1-423e-b392-495f56f6c555#5/41.673/14.019">See full screen</a></p>
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 {{% details title="**🇮🇹 05.05 to 09.05** - Cabella" closed="true" %}}
 
