@@ -15,13 +15,12 @@ toc: false
   [Click here to learn more](https://www.gov.uk/eta/apply)
 {{< /callout >}}
 
-<iframe style="width: 100%; height: 500px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_1345604?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#4/50.63/7.93"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_1345604?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#4/50.63/17.93">See full screen</a></p>
-
 {{% steps %}}
 
 ### Air 🌀 -> 05.05 to 31.05
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/europe-tour_1345604?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=96df2807-dfa1-423e-b392-495f56f6c555#5/41.673/1.019"></iframe><p><a href="//umap.openstreetmap.fr/en/map/europe-tour_1345604?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=96df2807-dfa1-423e-b392-495f56f6c555#5/41.673/14.019">See full screen</a></p>
 {{% details title="**🇮🇹 05.05 to 09.05** - Cabella" closed="true" %}}
 
 🏠 Accommodation
