@@ -69,26 +69,15 @@ As duas primeiras rotas (Ar e Fogo) terão capacidade máxima de 20 yogis viajan
 
 ### Custos
 
-O **preço total** das rotas **Ar**, **Fogo**, **Água**, **Terra** e **Luz**  
-é de **600 euros**. O **preço total** das rotas **Chaitanya** e **Éter**  
-(que são mais curtas) é de **400 euros**.
+O **preço integral** das rotas **Ar, Fogo, Água, Terra, Luz** e **Chaitanya** é de **600 euros**. O **preço integral** da rota **Éter** (que é mais curta) é de **400 euros**.
 
-Para iogues estudantes, desempregados ou no início de carreira, é possível participar da viagem  
-pelo preço subsidiado de **450 euros para as rotas mais longas** e **300 euros para as duas rotas mais curtas**.  
-Deixamos a seu próprio critério decidir a qual categoria você pertence.  
-O preço da viagem inclui alimentação, hospedagem e transporte durante o tour. **Não inclui**  
-**as taxas de Sahasrara, Shri Adi Shakti e Guru Puja.**
+Para iogues estudantes, desempregados ou em início de carreira, é possível participar da viagem pelo preço subsidiado de **450 euros para as rotas mais longas** e **300 euros para a rota mais curta**. Deixamos ao seu próprio critério decidir a qual categoria pertence. O preço da viagem inclui alimentação, hospedagem e transporte durante o tour. **Não inclui as taxas de Sahasrara, Shri Adi Shakti e Guru Puja.**
 
-É possível participar da metade ou de um terço de cada rota. Nesse caso,  
-o custo será calculado por semana. O **custo semanal** para participar da  
-viagem é de **200 euros (150 euros subsidiado).**
+É possível participar da metade ou de um terço de cada rota. Nesse caso, o custo será calculado semanalmente. O **custo semanal** para participar da viagem é de **200 euros (150 euros subsidiado).**
 
-Se você realmente tem o desejo de participar da viagem, mas está com recursos limitados,  
-inscreva-se e mencione isso em seu formulário de inscrição! Faremos o possível  
-para sermos flexíveis e trataremos do caso de forma discreta.
+Se você realmente tem o desejo de participar da viagem, mas está com limitações financeiras, por favor inscreva-se e mencione isso em seu formulário de inscrição! Faremos o possível para sermos flexíveis e trataremos do caso de forma discreta.
 
-Se você levar seu próprio carro para a viagem e permitir que o grupo o use,  
-calcularemos automaticamente a tarifa subsidiada da viagem para você!
+Se você trouxer seu próprio carro para a viagem e permitir que o grupo o utilize, calcularemos automaticamente a tarifa subsidiada para você!
 
 ## Sobre o Projeto
 

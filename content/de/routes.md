@@ -1506,10 +1506,10 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Chaitanya ☀️ -> 06.07 to 19.07
+### Chaitanya ☀️ -> 06.07 to 24.07
 
 {{% details title="🇧🇬 🇷🇴" closed="true" %}}
-{{% details title="**🇧🇬 06.07 to 10.07** - Sofia" closed="true" %}}
+{{% details title="**🇧🇬 06.07 to 09.07** - Sofia" closed="true" %}}
 
 🏠 Accommodation
 
@@ -1525,10 +1525,7 @@ xxx
 
 📅 Day plan
 
-{{< tabs items="06.07,08.07,09.07,10.07" >}}
-  {{< tab >}}
-xxx
-  {{< /tab >}}
+{{< tabs items="06.07,08.07,09.07" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -1540,7 +1537,7 @@ xxx
   {{< /tab >}}
 {{< /tabs >}}
 {{% /details %}}
-{{% details title="**🇧🇬 10.07 to 13.07** - Pleven" closed="true" %}}
+{{% details title="**🇧🇬 09.07 to 11.07** - Pleven" closed="true" %}}
 
 🏠 Accommodation
 
@@ -1556,10 +1553,7 @@ xxx
 
 📅 Day plan
 
-{{< tabs items="10.07,10.07,12.07,13.07" >}}
-  {{< tab >}}
-xxx
-  {{< /tab >}}
+{{< tabs items="09.07,10.07,11.07" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -1571,7 +1565,7 @@ xxx
   {{< /tab >}}
 {{< /tabs >}}
 {{% /details %}}
-{{% details title="**🇷🇴 13.07 to 16.07** - Craiova" closed="true" %}}
+{{% details title="**🇧🇬 11.07 to 13.07** - Ruse" closed="true" %}}
 
 🏠 Accommodation
 
@@ -1587,10 +1581,7 @@ xxx
 
 📅 Day plan
 
-{{< tabs items="13.07,14.07,15.07,16.07" >}}
-  {{< tab >}}
-xxx
-  {{< /tab >}}
+{{< tabs items="11.07,12.07,13.07" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -1602,7 +1593,7 @@ xxx
   {{< /tab >}}
 {{< /tabs >}}
 {{% /details %}}
-{{% details title="**🇷🇴 16.07 to 19.07** - Bucharest" closed="true" %}}
+{{% details title="**🇷🇴 13.07 to 15.07** - Craiova" closed="true" %}}
 
 🏠 Accommodation
 
@@ -1618,7 +1609,116 @@ xxx
 
 📅 Day plan
 
-{{< tabs items="16.07,17.07,18.07,19.07" >}}
+{{< tabs items="13.07,14.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇷🇴 15.07 to 17.07** - Pitești and Mioveni" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="15.07,16.07,17.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇷🇴 17.07 to 19.07** - Brașov" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="17.07,18.07,19.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇷🇴 19.07 to 21.07** - Brăila" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="19.07,20.07,21.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
+{{% details title="**🇷🇴 21.07 to 24.07** - Bucharest" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="21.07,22.07,23.07,24.07" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}

@@ -77,7 +77,7 @@ For more information please visit the [routes page](./routes).
 - July 2026 -> Water 🌊 -> Finland, Estonia, Latvia, Lithuania, Poland, Germany
 - July 2026 -> Earth 🏔️ -> Belgium, Netherlands, Germany, Switzerland
 - July 2026 -> Light 🕯️ -> Austria, Czech, Slovakia, Hungary, Austria, Germany
-- July 2026 -> Aether ☄️ -> Sweeden, Denmark, Germany, Netherlands
+- July 2026 -> Aether ☄️ -> Sweden, Denmark, Germany, Netherlands
 - July 2026 -> Chaitanya ☀️ -> Bulgaria, Romania
 
 The first two routes (Air and Fire routes) will have the maximum capacity of
@@ -86,12 +86,12 @@ touring Yogis.
 
 ### Costs
 
-The **full price** of **Air**, **Fire**, **Water**, **Earth** and **Light**
-routes is **600 Euros**. The **full price** of **Chaitanya** and **Aether** routes
-(which are shorter) is **400 Euros**.
+The **full price** of **Air**, **Fire**, **Water**, **Earth**, **Light**, and **Chaitanya**
+routes is **600 Euros**. The **full price** of **Aether** route
+(which is shorter) is **400 Euros**.
 
-For student/non-working/early-career yogis it is possible to join the tour for the
-subsidized price of **450 Euros for longer routes** and **300 Euros for the two shorter router**.
+For student/nonworking/early-career yogis it is possible to join the tour for the
+subsidized price of **450 Euros for longer routes** and **300 Euros for the shorter route**.
 We will leave it up to your own judgment to decide which category you belong to.
 The tour price covers food, accommodation, and transport during the tour. **It does**
 **not include the Sahasrara, Shri Adi Shakti and Guru Puja fees.**
@@ -107,7 +107,7 @@ to be accommodating and will deal with the case discretely.
 If you are bringing your own car to the tour and allow the tour to use it,
 we will automatically calculate the subsidized tour fee for you!
 
-## About The Project
+## About the Project
 
 The desire of having a united Sahaj tour in Europe was inspired by
 the Brazil and the Awaken Spirit tours (which went through the hosting
@@ -154,7 +154,7 @@ Yogis! Whether it's direct financial support, offering food for touring yogis
 or lending a car for a few days, it all adds up in making it more affordable
 for everyone to join!
 
-### Programs And Marketing
+### Programs and Marketing
 
 We will work with the local Yogis to understand what works
 best for a given region. Realistically, like many other Sahaj tours, street realization

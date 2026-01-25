@@ -70,26 +70,15 @@ Die ersten beiden Routen (Luft- und Feuer-Route) haben eine maximale Kapazität 
 
 ### Kosten
 
-Der **volle Preis** für die Routen **Luft**, **Feuer**, **Wasser**, **Erde** und **Licht**  
-beträgt **600 Euro**. Der **volle Preis** für die **Chaitanya**- und **Äther**-Routen  
-(die kürzer sind) beträgt **400 Euro**.
+Der **vollständige Preis** für die **Luft-, Feuer-, Wasser-, Erde-, Licht-** und **Chaitanya-Routen** beträgt **600 Euro**. Der **vollständige Preis** für die **Äther-Route** (die kürzer ist) beträgt **400 Euro**.
 
-Für Yogis, die studieren, nicht berufstätig sind oder am Anfang ihrer Karriere stehen, ist es möglich, die Reise  
-zum subventionierten Preis von **450 Euro für die längeren Routen** und **300 Euro für die zwei kürzeren Routen** zu buchen.  
-Wir überlassen es Ihrem eigenen Ermessen, zu welcher Kategorie Sie gehören.  
-Der Reisepreis umfasst Verpflegung, Unterkunft und Transport während der Reise. **Er schließt nicht**  
-**die Gebühren für Sahasrara, Shri Adi Shakti und Guru Puja ein.**
+Für Studenten/Nichtberufstätige/Yogis in der frühen Berufsphase ist es möglich, die Reise zum subventionierten Preis von **450 Euro für längere Routen** und **300 Euro für die kürzere Route** zu besuchen. Wir überlassen es Ihrem eigenen Ermessen, zu welcher Kategorie Sie sich zählen. Der Reisepreis beinhaltet Verpflegung, Unterkunft und Transport während der Reise. **Er beinhaltet nicht die Gebühren für Sahasrara, Shri Adi Shakti und Guru Puja.**
 
-Es ist möglich, die Hälfte oder ein Drittel jeder Route zu buchen. In diesem Fall  
-wird der Preis wöchentlich berechnet. Die **wöchentlichen Kosten** für die Teilnahme an der Reise betragen  
-**200 Euro (150 Euro subventioniert).**
+Es ist möglich, die Hälfte oder ein Drittel jeder Route zu besuchen. In diesem Fall werden die Kosten wochenweise berechnet. Die **wöchentlichen Kosten** für die Teilnahme an der Reise betragen **200 Euro (150 Euro subventioniert).**
 
-Wenn Sie wirklich den Wunsch haben, an der Reise teilzunehmen, aber finanziell eingeschränkt sind,  
-melden Sie sich bitte an und geben Sie dies in Ihrem Anmeldeformular an! Wir werden unser Bestes tun,  
-um entgegenzukommen, und werden den Fall diskret behandeln.
+Wenn Sie wirklich den Wunsch haben, an der Reise teilzunehmen, aber finanziell eingeschränkt sind, melden Sie sich bitte an und erwähnen Sie dies in Ihrem Anmeldeformular! Wir werden unser Bestes tun, um entgegenzukommen, und werden den Fall diskret behandeln.
 
-Wenn Sie Ihr eigenes Auto zur Reise mitbringen und es der Reisegruppe zur Verfügung stellen,  
-berechnen wir automatisch den subventionierten Reisepreis für Sie!
+Wenn Sie Ihr eigenes Auto zur Reise mitbringen und es der Reise zur Verfügung stellen, berechnen wir automatisch den subventionierten Reisepreis für Sie!
 
 ## Über das Projekt
 

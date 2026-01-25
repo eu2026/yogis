@@ -70,26 +70,15 @@ Les deux premiers itinéraires (Air et Feu) auront une capacité maximale de 20 
 
 ### Coûts
 
-Le **tarif complet** des circuits **Air**, **Feu**, **Eau**, **Terre** et **Lumière**  
-est de **600 euros**. Le **tarif complet** des circuits **Chaitanya** et **Éther**  
-(qui sont plus courts) est de **400 euros**.
+Le **tarif complet** des itinéraires **Air, Feu, Eau, Terre, Lumière** et **Chaitanya** est de **600 euros**. Le **tarif complet** de l'itinéraire **Éther** (qui est plus court) est de **400 euros**.
 
-Pour les yogis étudiants, sans emploi ou en début de parcours, il est possible de rejoindre le voyage  
-au tarif réduit de **450 euros pour les circuits longs** et **300 euros pour les deux circuits plus courts**.  
-Nous vous laissons le soin de juger à quelle catégorie vous appartenez.  
-Le prix du voyage comprend la nourriture, l'hébergement et les déplacements pendant le séjour. **Il ne comprend pas**  
-**les frais de Sahasrara, de Shri Adi Shakti et de Guru Puja.**
+Pour les yogis étudiants, sans emploi ou en début de carrière, il est possible de rejoindre le voyage au prix subventionné de **450 euros pour les itinéraires plus longs** et **300 euros pour l'itinéraire plus court**. Nous vous laissons le soin de déterminer à quelle catégorie vous appartenez. Le prix du voyage comprend la nourriture, l'hébergement et le transport pendant le séjour. **Il ne comprend pas les frais pour Sahasrara, Shri Adi Shakti et la Guru Puja.**
 
-Il est possible de rejoindre la moitié ou un tiers de chaque circuit. Dans ce cas,  
-le coût sera calculé par semaine. Le **coût hebdomadaire** pour participer au voyage est de  
-**200 euros (150 euros en tarif réduit).**
+Il est possible de rejoindre la moitié ou un tiers de chaque itinéraire. Dans ce cas, le coût sera calculé sur une base hebdomadaire. Le **coût hebdomadaire** pour participer au voyage est de **200 euros (150 euros subventionné).**
 
-Si vous avez vraiment le désir de vous joindre au voyage mais que vos moyens sont limités,  
-inscrivez-vous et indiquez-le dans votre formulaire d'inscription ! Nous ferons de notre mieux  
-pour nous adapter et traiterons votre cas de manière discrète.
+Si vous avez vraiment le désir de participer au voyage mais que vous êtes financièrement limité, veuillez vous inscrire et le mentionner dans votre formulaire d'inscription ! Nous ferons de notre mieux pour nous adapter et traiterons votre cas de manière discrète.
 
-Si vous apportez votre propre véhicule pour le voyage et le mettez à disposition du groupe,  
-nous appliquerons automatiquement le tarif réduit pour vous !
+Si vous amenez votre propre voiture pour le voyage et que vous autorisez son utilisation par le groupe, nous calculerons automatiquement le tarif subventionné pour vous !
 
 ## À Propos du Projet
 

@@ -91,26 +91,15 @@ Las dos primeras rutas (las rutas Aire y Fuego) tendrán una capacidad máxima d
 
 ### Costos
 
-El **precio completo** de los circuitos **Aire**, **Fuego**, **Agua**, **Tierra** y **Luz**  
-es de **600 euros**. El **precio completo** de los circuitos **Chaitanya** y **Éter**  
-(que son más cortos) es de **400 euros**.
+El **precio completo** de las rutas **Aire, Fuego, Agua, Tierra, Luz** y **Chaitanya** es de **600 euros**. El **precio completo** de la ruta **Éter** (que es más corta) es de **400 euros**.
 
-Para los yoguis estudiantes, desempleados o en inicio de carrera, es posible unirse al viaje  
-al precio subsidiado de **450 euros para los circuitos largos** y **300 euros para los dos circuitos más cortos**.  
-Dejamos a su propio criterio decidir a qué categoría pertenecen.  
-El precio del viaje incluye comida, alojamiento y transporte durante el recorrido. **No incluye**  
-**las tarifas de Sahasrara, Shri Adi Shakti y Guru Puja.**
+Para yoguis estudiantes, desempleados o en etapas tempranas de su carrera, es posible unirse al viaje al precio subvencionado de **450 euros para las rutas más largas** y **300 euros para la ruta más corta**. Dejamos a su propio criterio decidir a qué categoría pertenecen. El precio del viaje incluye comida, alojamiento y transporte durante el mismo. **No incluye las tarifas de Sahasrara, Shri Adi Shakti y la Guru Puja.**
 
-Es posible unirse a la mitad o a un tercio de cada circuito. En ese caso,  
-el costo se calculará semanalmente. El **costo semanal** por unirse al  
-viaje es de **200 euros (150 euros subsidiado).**
+Es posible unirse a la mitad o a un tercio de cada ruta. En ese caso, el coste se calculará por semanas. El **coste semanal** para unirse al viaje es de **200 euros (150 euros subvencionado).**
 
-Si realmente tiene el deseo de unirse al viaje pero tiene limitaciones económicas,  
-¡inscríbase y menciónelo en su formulario de registro! Haremos todo lo posible  
-por adaptarnos y trataremos su caso de manera discreta.
+Si realmente tienen el deseo de unirse al viaje pero tienen limitaciones económicas, ¡por favor regístrense y mencíenlo en su formulario de inscripción! Haremos todo lo posible por adaptarnos y trataremos su caso de forma discreta.
 
-Si lleva su propio coche al viaje y permite que el grupo lo utilice,  
-¡automáticamente le calcularemos la tarifa subsidiada del viaje!
+Si traen su propio automóvil para el viaje y permiten que el grupo lo utilice, ¡calcularemos automáticamente la tarifa subvencionada para ustedes!
 
 ## Acerca del Proyecto
 
