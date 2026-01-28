@@ -1506,9 +1506,37 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Chaitanya ☀️ -> 06.07 to 24.07
+### Chaitanya ☀️ -> 04.07 to 24.07
 
 {{% details title="🇧🇬 🇷🇴" closed="true" %}}
+{{% details title="**🇧🇬 04.07 to 06.07** - Burgas" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="04.07,05.07,06.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+{{% /details %}}
 {{% details title="**🇧🇬 06.07 to 09.07** - Sofia" closed="true" %}}
 
 🏠 Accommodation
