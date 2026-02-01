@@ -119,7 +119,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇫🇷 13.05 to 16.05** - Marseilles and Arles" closed="true" %}}
+{{% details title="**🇫🇷 13.05 to 15.05** - Marseilles" closed="true" %}}
 
 🏠 Accommodation
 
@@ -135,10 +135,7 @@ xxx
 
 📅 Day plan
 
-{{< tabs items="13.05,14.05,15.05,16.05" >}}
-  {{< tab >}}
-xxx
-  {{< /tab >}}
+{{< tabs items="13.05,14.05,15.05" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -151,6 +148,36 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
+{{% details title="**🇫🇷 15.05 to 17.05** - Arles" closed="true" %}}
+
+🏠 Accommodation
+
+- Addresses:
+  - TBD
+- Notes: TBD
+
+⚡ Programs
+
+- `DD.MM - hh:mm to hh:mm`
+  - Address: TBD
+  - Notes: TBD
+
+📅 Day plan
+
+{{< tabs items="15.05,16.05,17.05" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
+{{< /tabs >}}
+
+{{% /details %}}
+
 {{% details title="**🇫🇷 17.05 to 18.05** - Montpellier" closed="true" %}}
 
 🏠 Accommodation
