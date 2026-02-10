@@ -6,7 +6,7 @@ toc: false
 
 Vous pouvez soutenir directement le projet par un don financier. Les dons des Yogis sont très importants car ils nous permettent de maintenir le coût de participation à la tournée aussi bas que possible. Tous les dons seront utilisés pour couvrir les dépenses de la tournée telles que l'hébergement, la nourriture, les programmes publics, etc. Tous les fonds restants (s'il y en a) seront donnés aux écoles Sahaj.
 
-- Nom : Austrian Yuvas
+- Nom : Nandini Kirchbaumer Lukas Fenili
 - IBAN : AT25 2011 1850 9894 7300
 - BIC : GIBAATWWXXX
 

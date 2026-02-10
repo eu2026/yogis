@@ -6,7 +6,7 @@ toc: false
 
 Puedes apoyar directamente el proyecto con una donación económica. Las donaciones de los yoguis son muy importantes porque nos permiten mantener el costo de unirse a la gira lo más bajo posible. Todas las donaciones se utilizarán para cubrir los gastos de la gira, como alojamiento, comida, programas públicos, etc. Todos los fondos sobrantes (si los hay) se donarán a las escuelas Sahaj.
 
-- Nombre: Austrian Yuvas
+- Nombre: Nandini Kirchbaumer Lukas Fenili
 - IBAN: AT25 2011 1850 9894 7300
 - BIC: GIBAATWWXXX
 

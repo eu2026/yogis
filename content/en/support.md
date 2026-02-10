@@ -11,7 +11,7 @@ All donations will be used to cover the tour expenses such as
 accommodation, food, public programs etc. All leftover funds
 (if any) will be donated to Sahaj schools.
 
-- Name: Austrian Yuvas
+- Name: Nandini Kirchbaumer Lukas Fenili
 - IBAN: AT25 2011 1850 9894 7300
 - BIC: GIBAATWWXXX
 
