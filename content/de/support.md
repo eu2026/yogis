@@ -11,7 +11,7 @@ Alle Spenden werden verwendet, um die Tourkosten wie Unterkunft, Verpflegung,
 öffentliche Programme usw. zu decken. Alle verbleibenden Mittel  
 (sofern vorhanden) werden an Sahaj-Schulen gespendet.
 
-- Name: Austrian Yuvas
+- Name: Nandini Kirchbaumer Lukas Fenili
 - IBAN: AT25 2011 1850 9894 7300
 - BIC: GIBAATWWXXX
 

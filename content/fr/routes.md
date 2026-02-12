@@ -382,7 +382,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Fire 🔥 -> 05.06 to 26.06
+### Fire 🔥 -> 06.06 to 26.06
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 {{% details title="**🇵🇹 06.06 to 08.06** - Lisbon" closed="true" %}}
