@@ -39,7 +39,7 @@ Si vous êtes intéressé(e) à vous impliquer dans les travaux de préparation 
   {{< card link="./#contact" title="Contact" icon="phone" >}}
 {{< /cards >}}
 
-{{< youtube 2Tu3f41aVYA >}}
+<!-- {{< youtube 2Tu3f41aVYA >}} -->
 
 ## Participer
 

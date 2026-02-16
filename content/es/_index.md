@@ -46,7 +46,7 @@ por favor visita la [página de apoyo al proyecto](./support).
   {{< card link="./#contacto" title="Contacto" icon="phone" >}}
 {{< /cards >}}
 
-{{< youtube 2Tu3f41aVYA >}}
+<!-- {{< youtube 2Tu3f41aVYA >}} -->
 
 ## Participar
 

@@ -38,7 +38,7 @@ Wenn du Interesse hast, dich an der Vorbereitungsarbeit zu beteiligen und das Pr
   {{< card link="./#kontakt" title="Kontakt" icon="phone" >}}
 {{< /cards >}}
 
-{{< youtube 2Tu3f41aVYA >}}
+<!-- {{< youtube 2Tu3f41aVYA >}} -->
 
 ## Teilnahme
 
