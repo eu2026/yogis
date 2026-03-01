@@ -17,7 +17,7 @@ toc: false
 
 {{% steps %}}
 
-### Air 🌀 -> 05.05 to 31.05
+### Air 🌀 -> 05.05 to 31.05 - Italy, France, Andorra, Spain, and Portugal
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
 {{% details title="**🇮🇹 05.05 to 09.05** - Cabella" closed="true" %}}
@@ -382,7 +382,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Fire 🔥 -> 06.06 to 26.06
+### Fire 🔥 -> 06.06 to 26.06 - Portugal, Spain, France, and UK
 
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 {{% details title="**🇵🇹 06.06 to 08.06** - Lisbon" closed="true" %}}
@@ -632,7 +632,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Water 🌊 -> 01.07 to 27.07
+### Water 🌊 -> 01.07 to 27.07 - Finland, Estonia, Latvia, Lithuania, Poland, and Germany
 
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 {{% details title="**🇫🇮  01.07 to 06.07** - Helsinki" closed="true" %}}
@@ -937,7 +937,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Earth 🏔️ -> 02.07 to 26.07
+### Earth 🏔️ -> 02.07 to 26.07 - Belgium, Netherlands, Germany, and Switzerland
 
 {{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
 {{% details title="**🇧🇪 02.07 to 07.07** - Brussels" closed="true" %}}
@@ -1108,7 +1108,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Light 🕯️-> 09.07 to 26.07
+### Light 🕯️-> 09.07 to 26.07 - Austria, Czech, Slovakia, Hungary, Germany, and Austria
 
 {{% details title="🇦🇹 🇨🇿 🇸🇰 🇭🇺 🇩🇪" closed="true" %}}
 23rd to 25th Bregenz
@@ -1360,7 +1360,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Aether ☄️ -> 13.07 to 25.07
+### Aether ☄️ -> 13.07 to 25.07 - Sweden, Denmark, Germany, and Netherlands
 
 {{% details title="🇸🇪 🇩🇰 🇩🇪 🇳🇱" closed="true" %}}
 {{% details title="**🇸🇪 13.07 to 15.07** - Gothenberg" closed="true" %}}
@@ -1533,7 +1533,7 @@ xxx
 {{% /details %}}
 {{% /details %}}
 
-### Chaitanya ☀️ -> 04.07 to 24.07
+### Chaitanya ☀️ -> 04.07 to 24.07 - Bulgaria and Romania
 
 {{% details title="🇧🇬 🇷🇴" closed="true" %}}
 {{% details title="**🇧🇬 04.07 to 06.07** - Burgas" closed="true" %}}
