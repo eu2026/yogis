@@ -9,6 +9,10 @@ toc: false
   put all the information here as they get confirmed.
 {{< /callout >}}
 
+{{< callout type="info" >}}
+  Make sure to register for Shri Adi Puja at [shriadishaktipuja.org](https://shriadishaktipuja.org/)
+{{< /callout >}}
+
 {{< callout type="warning" >}}
   Remember that for entry to England, you most likely need an
   Electronic Travel Authorizations (ETA).
