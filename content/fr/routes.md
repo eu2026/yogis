@@ -810,7 +810,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇵🇱 19.07 to 21.07** - Kracow and Tychy" closed="true" %}}
+{{% details title="**🇵🇱 19.07 to 20.07** - Kracow" closed="true" %}}
 
 🏠 Accommodation
 
@@ -823,16 +823,10 @@ xxx
 - `20.07 - hh:mm to hh:mm`
   - Address: Kracow
   - Notes: TBD
-- `21.07 - hh:mm to hh:mm`
-  - Address: Tychy
-  - Notes: TBD
 
 📅 Day plan
 
-{{< tabs items="19.07,20.07,21.07" >}}
-  {{< tab >}}
-xxx
-  {{< /tab >}}
+{{< tabs items="19.07,20.07" >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -842,7 +836,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇵🇱 21.07 to 22.07** - Opole" closed="true" %}}
+{{% details title="**🇵🇱 20.07 to 22.07** - Katowice / Tychy" closed="true" %}}
 
 🏠 Accommodation
 
@@ -855,16 +849,13 @@ xxx
 - `22.07 - hh:mm to hh:mm`
   - Address: Opole
   - Notes: TBD
-- `24.07 - hh:mm to hh:mm`
-  - Address: Sulejow
-  - Notes: TBD
-- `25.07 - hh:mm to hh:mm`
-  - Address: Zielona Gora
-  - Notes: TBD
 
 📅 Day plan
 
-{{< tabs items="21.07,22.07" >}}
+{{< tabs items="20.07,21.07,22.07" >}}
+  {{< tab >}}
+xxx
+  {{< /tab >}}
   {{< tab >}}
 xxx
   {{< /tab >}}
@@ -874,7 +865,7 @@ xxx
 {{< /tabs >}}
 
 {{% /details %}}
-{{% details title="**🇵🇱 22.07 to 25.07** - Gora" closed="true" %}}
+{{% details title="**🇵🇱 22.07 to 25.07** - Zielona Gora" closed="true" %}}
 
 🏠 Accommodation
 
