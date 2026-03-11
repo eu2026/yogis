@@ -5,12 +5,12 @@ toc: false
 # Routes
 
 {{< callout type="info" >}}
-  This section is work in progress. We will
-  put all the information here as they get confirmed.
-{{< /callout >}}
+  [Register now for the tour!](https://forms.gle/4dEDEqQBJ1jzMmtS9)
 
-{{< callout type="info" >}}
-  Make sure to register for Shri Adi Puja at [shriadishaktipuja.org](https://shriadishaktipuja.org/)
+  If you are planning to go to Shri Adi Shakti Puja, register for that at
+  [shriadishaktipuja.org](https://shriadishaktipuja.org/).
+  For Shri Adi Shakti Puja registration, please mention that
+  you are coming with the tour and select meals from Thursday (earliest option)
 {{< /callout >}}
 
 {{< callout type="warning" >}}
