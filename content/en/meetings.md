@@ -4,6 +4,13 @@ toc: false
 
 # Meeting Notes
 
+{{< callout type="info" >}}
+  Turns out, in practice we had so many meetings that it became
+  impossible to keep this page up-to-date 🙈.
+
+  Keeping this here for legacy purposes... At least we tried!
+{{< /callout >}}
+
 For both practical reasons and transparency, we will keep the major meeting
 notes here. Note that this only includes the bigger meetings and obviously does
 not include all the individual conversations and messages!

@@ -54,13 +54,7 @@ Please fill up the
 if you are interested in joining one or more of the routes!
 It is also possible to partially join a route (one week for example).
 
-**The deadline for registration is 1st of April.**
-
-If you miss the deadline but still want to join the tour, we can be
-flexible so do register! But please keep in mind that late registration
-makes the planning and organizing more complicated so please register early!
-
-After the registration deadline (1st of April), we will contact you over
+Once you register, we will contact you over
 WhatsApp with payment details, collect information about your arrival
 and departure and will provide more specific information about your route.
 
