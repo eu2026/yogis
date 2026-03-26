@@ -93,7 +93,7 @@ On the 13th, we will have a late morning and depart to the next city.
 🏠 Accommodation is Airbnb in Bézaudun-les-Alpes
 
 ⚡ Programs
-- `12.05 - 18:30 to 19:30`
+- `12.05 - 18:30 to 19:30` at [Boutique Hôtel & Appartements Monsigny Nice - 17 Av. Malaussena, 06000 Nice, France](https://maps.app.goo.gl/sqkSzkjPiu76SzXr9)
 
 {{% /details %}}
 {{% details title="**🇫🇷 13.05 to 15.05** - Marseilles" closed="true" %}}
