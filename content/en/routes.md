@@ -11,6 +11,9 @@ toc: false
   [shriadishaktipuja.org](https://shriadishaktipuja.org/).
   For Shri Adi Shakti Puja registration, please mention that
   you are coming with the tour and select meals from Thursday (earliest option)
+
+  **If you are ONLY interested in joining the Italian part of the Air Route, you don't have**
+  **to register for the tour! You can simply [register for bus transport from Cabella to the programs!](https://forms.gle/Fg9r6B38HNmUbvoa8)**
 {{< /callout >}}
 
 {{< callout type="warning" >}}
@@ -21,12 +24,12 @@ toc: false
 
 {{% steps %}}
 
-### Air 🌀 -> 05.05 to 31.05 - Italy, France, Andorra, Spain, and Portugal
+### Air 🌀 -> 04.05 to 31.05 - Italy, France, Andorra, Spain, and Portugal
 
 {{% details title="🇮🇹 🇫🇷 🇦🇩 🇪🇸 🇵🇹" closed="true" %}}
-{{% details title="**🇮🇹 05.05 to 09.05** - Cabella" closed="true" %}}
+{{% details title="**🇮🇹 04.05 to 09.05** - Cabella" closed="true" %}}
 
-The Air route starts in Italy on the Sahasrara day. A lot of programs
+The Air route starts in Italy before the Sahasrara day! A lot of programs
 are organized by the Italian Yogis and we expect many Yogis who have attended
 the Sahasrara Puja to join these programs. These first few days of this
 route, will almost be a transition period from Puja to the tour.
@@ -39,11 +42,17 @@ route, will almost be a transition period from Puja to the tour.
 🏠 Accommodation will be in Cabella camp
 
 ⚡ Programs
+- `04.05 - 20:00 to 22:00` at [Teatro Accademia “Giovanni Azzaretti” - Via Roma, 8, 27040 Fortunago PV, Italy](https://maps.app.goo.gl/xL4rewKfe4kErcy16)
+  For info contact 333 2567937
 - `05.05 - 20:00 to 22:00` at [Teatro Romualdo Marenco - Via Nicolò Girardengo, 48, 15067 Novi Ligure AL, Italy](https://maps.app.goo.gl/YQUc4qD8gG264ith6)
+  For info contact 333 2567937
 - `07.05 - 20:00 to 22:00` at [State Music Conservatory "Giuseppe Verdi" - Via Giuseppe Mazzini, 11, 10123 Torino TO, Italy](https://maps.app.goo.gl/jxr6mvyWtncR4iud7)
+  For info contact 347 778 8387
 - `08.05 - 20:00 to 22:00` at [il Birrificio di Como - Via Pasquale Paoli, 3, 22100 Como CO, Italy](https://maps.app.goo.gl/1seC49rN1NYTFJrMA)
-- `09.05 - 10:00 to 19:00` at [CAM Falcone e Borsellino (ex CAM Garibaldi) - Chiostro Bramantesco - Corso Garibaldi, 27, 20121 Milano MI, Italy](https://maps.app.goo.gl/VLKZfLU1aD1YvPdQ7)
-- `09.05 - 20:00 - 22:00` at [Auditorium "Enzo Baldoni" - Via Giacomo Quarenghi, 21, 20151 Milano MI, Italy](https://maps.app.goo.gl/aFrgd6HwbhpFXQNDA)
+  For info contact 3355458915 or  3779538028
+- `09.05 - 11:30 to 19:00` at [CAM Falcone e Borsellino (ex CAM Garibaldi) - Chiostro Bramantesco - Corso Garibaldi, 27, 20121 Milano MI, Italy](https://maps.app.goo.gl/VLKZfLU1aD1YvPdQ7)
+  For info contact 3317703945 or 3392746635
+- `09.05 - 20:00 to 22:00` at [Auditorium "Enzo Baldoni" - Via Giacomo Quarenghi, 21, 20151 Milano MI, Italy](https://maps.app.goo.gl/v47BxGoekRyj6rZs6)
 
 {{% /details %}}
 {{% details title="**🇮🇹 09.05 to 11.05** - Sanremo" closed="true" %}}
@@ -67,6 +76,7 @@ continue to Nice in France.
 
 ⚡ Programs
 - `10.05 - 14:00 to 19:00` at [PALAZZO ROVERIZIO Via Escoffier 29  Ang via Palazzo Sanremo 18038 ( IM)](https://maps.app.goo.gl/NuZTG5eh3jewhGpF9)
+  - For info contact +39 351 9411304
 
 {{% /details %}}
 {{% details title="**🇫🇷 11.05 to 13.05** - Nice" closed="true" %}}
