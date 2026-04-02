@@ -42,6 +42,7 @@ route, will almost be a transition period from Puja to the tour.
 🏠 Accommodation will be in Cabella camp
 
 ⚡ Programs
+
 - `04.05 - 20:00 to 22:00` at [Teatro Accademia “Giovanni Azzaretti” - Via Roma, 8, 27040 Fortunago PV, Italy](https://maps.app.goo.gl/xL4rewKfe4kErcy16)
   For info contact 333 2567937
 - `05.05 - 20:00 to 22:00` at [Teatro Romualdo Marenco - Via Nicolò Girardengo, 48, 15067 Novi Ligure AL, Italy](https://maps.app.goo.gl/YQUc4qD8gG264ith6)
@@ -53,6 +54,18 @@ route, will almost be a transition period from Puja to the tour.
 - `09.05 - 11:30 to 19:00` at [CAM Falcone e Borsellino (ex CAM Garibaldi) - Chiostro Bramantesco - Corso Garibaldi, 27, 20121 Milano MI, Italy](https://maps.app.goo.gl/VLKZfLU1aD1YvPdQ7)
   For info contact 3317703945 or 3392746635
 - `09.05 - 20:00 to 22:00` at [Auditorium "Enzo Baldoni" - Via Giacomo Quarenghi, 21, 20151 Milano MI, Italy](https://maps.app.goo.gl/v47BxGoekRyj6rZs6)
+
+![4th](4th.jpeg)
+
+![5th](5th.jpeg)
+
+![7th](7th.jpeg)
+
+![8th](8th.jpeg)
+
+![9th-1](9th-1.jpeg)
+
+![9th-2](9th-2.jpeg)
 
 {{% /details %}}
 {{% details title="**🇮🇹 09.05 to 11.05** - Sanremo" closed="true" %}}
@@ -77,6 +90,8 @@ continue to Nice in France.
 ⚡ Programs
 - `10.05 - 14:00 to 19:00` at [PALAZZO ROVERIZIO Via Escoffier 29  Ang via Palazzo Sanremo 18038 ( IM)](https://maps.app.goo.gl/NuZTG5eh3jewhGpF9)
   - For info contact +39 351 9411304
+
+![10th](10th.jpeg)
 
 {{% /details %}}
 {{% details title="**🇫🇷 11.05 to 13.05** - Nice" closed="true" %}}
