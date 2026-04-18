@@ -96,18 +96,36 @@ continue to Nice in France.
 {{% /details %}}
 {{% details title="**🇫🇷 11.05 to 13.05** - Nice" closed="true" %}}
 
-On the 11th, we will arrive in Nice during the day and proceed directly to the accommodation.
-In the evening, the local Yogis will organise a havan at the house and some us will stay overnight.
-Local Yogis can also arrange a barbecue in the evening!
+May 11th:
+- we will arrive in Nice during the day and proceed directly to the accommodation.
+  In the evening, the local Yogis will organise a havan at the house and some us will stay overnight.
+  Local Yogis can also arrange a barbecue in the evening!
 
-On the 12th morning we will go to a nearby hill for shoebeat and burrying coconuts. Later we will go to the
-city for distributing leaflets, visting the city and maybe a foodsoak near the sea. Dinner will be after the public program
-at a Yogi's house.
+May 12th:
+- morning we will go to a nearby hill for shoebeat and burrying coconuts. Later we will go to the
+  city for distributing leaflets, visting the city and maybe a foodsoak near the sea. Dinner will be after the public program
+  at a Yogi's house.
 
-On the 13th, we will have a late morning and depart to the next city.
+May 13th:
+- we will have a late morning and depart to the next city.
 
 {{< callout type="warning" >}}
   We will need up to 320 Euros in cash for accommodation.
+{{< /callout >}}
+
+{{< callout type="warning" >}}
+Mobile service is unreliable on the route to the accommodation. Print or save these directions offline.
+
+From Nice (A8, exit 48 - Vence/Cagnes-sur-Mer) or Cannes (exit 47):
+  - Drive to Vence, then follow signs for "Col de Vence - Coursegoules - Bézaudun".
+    After the turn for Coursegoules (small bridge), continue toward Bézaudun.
+    The house is on the D8 road, 4.5 km past Coursegoules and 2 km before Bézaudun.
+    It’s on the left side, 50m after the “Le Gourbel” hamlet exit, just before a yellow wooden school bus shelter.
+    Look for #1175 painted in white on a green mailbox. Take the right-hand entrance road.
+
+From Nice via Carros/Le Broc/Bouyon:
+  - House is 2 km after Bézaudun village, on the right side, just before a big turn and
+    at the entrance to “Le Gourbel,” just after the yellow bus shelter. Same mailbox and entrance instructions.
 {{< /callout >}}
 
 {{< callout type="info" >}}
@@ -115,19 +133,43 @@ On the 13th, we will have a late morning and depart to the next city.
   On that day we will have late breakfast and light lunch.
 {{< /callout >}}
 
-🏠 Accommodation is Airbnb in Bézaudun-les-Alpes
+🏠 Accommodation
+- [1175 Route de Coursegoules, Bézaudun-les-Alpes, Provence-Alpes-Côte d'Azur 06510, France](https://maps.app.goo.gl/JTJNFZYbjrbsckaS7).
+    WiFi code: montana06 - House phone: 04 9359 1461 - Edgar: 0660 620 572 / Catherine: 0679 259 951
 
 ⚡ Programs
 - `12.05 - 18:30 to 19:30` at [Boutique Hôtel & Appartements Monsigny Nice - 17 Av. Malaussena, 06000 Nice, France](https://maps.app.goo.gl/sqkSzkjPiu76SzXr9)
 
 {{% /details %}}
-{{% details title="**🇫🇷 13.05 to 15.05** - Marseilles" closed="true" %}}
+{{% details title="**🇫🇷 13.05 to 15.05** - Marseilles and Toulon" closed="true" %}}
+
+May 13th:
+- Arrival in Toulon: In a public seaside park.
+- Distribution: Handing out flyers and business cards in Toulon.
+- Evening: Yogis are invited to the Indian restaurant [Annananta](https://maps.app.goo.gl/1V5X9tCVPBVFi2xf6)
+
+May 14th:
+- Breakfast: Provided by the Var Yogis.
+- Departure for Marseille.
+- Arrival in Marseille: At Parc Borély.
+- Distribution: Handing out flyers and business cards in Marseille.
+- Evening: Public musical program in a hall in Marseille.
+- Dinner: Hosted by the Marseille Yogis.
+
+May 15th:
+- Morning: Meet at Plage du Jaï, not far from the hotel.
+- Breakfast: Provided by the Marseille Yogis.
+- Departure for Avignon.
+
+{{< callout type="info" >}}
+  Lunch in the next city!
+{{< /callout >}}
+
 
 🏠 Accommodation
+-  13th night - [PREMIER CLASSE TOULON – La Seyne Sur Mer hotel, 225 avenue de Rome, 83500 La Seyne-sur-Mer.](https://maps.app.goo.gl/L4j8eWkCXnSVjEMX9)
+-  14th night - [PREMIER CLASSE MARSEILLE – Vitrolles Anjoly hotel, Zi des estroublans, 3 rue de Madrid, 13127 Vitrolles.](https://maps.app.goo.gl/tmFY745o7brWQp6eA)
 
-- Addresses:
-  - TBD
-- Notes: TBD
 
 ⚡ Programs
 
@@ -138,21 +180,24 @@ On the 13th, we will have a late morning and depart to the next city.
 {{% /details %}}
 {{% details title="**🇫🇷 15.05 to 17.05** - Arles" closed="true" %}}
 
-Arriving in St Rémy de Provence (our home 🌸🏡 ) for a Havan or shoe beat, followed by lunch
-Then,going to Arles in the summer garden, in the middle of the city center to give realisation and flyers
-The auberge is available at 17pm. Local yogis will bring your dinner to have at the auberge
-(there is a garden and also a hall in case u want to play some bajhans and give realisation in the
-auberge in the evening 😉) you may also go around the city center to have a look at this very
-ancient and beautiful Roman city.
+May 15th:
+- Arriving in St Rémy de Provence for a Havan or shoe beat, followed by lunch. 
+  Then,going to Arles in the summer garden, in the middle of the city center to give realisation and flyers.
+  The auberge is available at 17pm. Local yogis will bring your dinner to have at the auberge
+  (there is a garden and also a hall in case you want to play some bajhans and give realisation in the
+  auberge in the evening 😉) you may also go around the city center to have a look at this very
+  ancient and beautiful Roman city.
 
-16th of May Breakfast is taken at the auberge then, there is a big market in the city centre of Arles,
-very very close to the auberge, where we can give flyers again and a group can be in the
-park again to give realisation or in the streets Lunch will be provided by local yogis. 
-Then free time for those who want to rest before the program at 6 or 6.30pm
-After the program , we’ll provide you with dinner, at the auberge 
+May 16th:
+- Breakfast is taken at the auberge. After that, there is a big market in the city centre of Arles,
+  very very close to the auberge, where we can give flyers again and a group can be in the
+  park again to give realisation or in the streets Lunch will be provided by local yogis. 
+  Then free time for those who want to rest before the program at 6 or 6.30pm
+  After the program , we’ll provide you with dinner, at the auberge 
 
-17th of May Breakfast at the auberge and departure to the sea side of Camargue for a foot soak, a very beautiful
-horses 🐴 bulls🐂 and many birds like flamingo 🦩 I will go with u😍, then you will leave for the next city of Montpellier 🙏🏼🌹
+May 17th:
+- Breakfast at the auberge and departure to the sea side of Camargue for a foot soak, a very beautiful
+  horses 🐴 bulls🐂 and many birds like flamingo 🦩. Then departure to the next city.
 
 🏠 Accommodation
 
