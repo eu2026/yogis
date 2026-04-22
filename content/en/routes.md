@@ -223,16 +223,11 @@ May 17th:
 {{% details title="**🇦🇩 19.05 to 21.05** - Andorra" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- [Santuary of Meritxell](https://maps.app.goo.gl/5SLUs2Jy2b9zsy14A)
 
 ⚡ Programs
-
 - `20.05 - 20:30 to 22:30`
-  - Address: TBD
-  - Notes: TBD
+  - [Centre Cultural Llacuna Carrer Mossèn Cinto Verdaguer, 4, AD500 Andorra la Vella](https://maps.app.goo.gl/rMvJj8H2uLSzHdeq8)
 
 {{% /details %}}
 {{% details title="**🇪🇸 21.05 to 25.05** - Barcelona" closed="true" %}}
@@ -388,17 +383,34 @@ Rehersal starts at 17:00 and program starts at 19:00.
 {{% /details %}}
 {{% details title="**🇪🇸 15.06 to 17.06** - San Sebastián" closed="true" %}}
 
-🏠 Accommodation
+June 15:
+- Arrival of the tour in the afternoon/evening
+- Accommodation: Uba Hostel
+- Hostel dinner is from 20:30 to 21:30
 
-- Addresses:
-  - [Ondarreta Youth Hostel - C/ Paseo de Igueldo, 25 — San Sebastián- Guipúzcoa](https://maps.app.goo.gl/Z3ymQsWnDuddd4FF7)
-- Notes: A deposit of €150 has been paid.
+June 16:
+- Breakfast at the hostel (08:00–09:00). We will try to extend it until 10:00
+- Departure to San Sebastián (Donostia) city center, walking or by bus
+  Objectives: walk to the beaches for a foot soak,
+  and along the way possibility to offer realizations and distribute flyers
+- Possible music rehearsal (to be confirmed with musicians)
+- 14:30 Lunch at Hogar de Jubilados, Calle Idiaquez 6 (offered by the San Sebastián collective)
+- Possible music rehearsal (to be confirmed)
+- 19:00 Artistic, musical and meditation program at Viveros de Ulía (Avenida Alcalde J. Elosegi 81)
+- Dinner after the program (time and place to be confirmed)
+- Possible foot soak at one of the beaches
+- Return to accommodation
+
+Wednesday, June 17:
+Hostel check-out at 11:00
+
+🏠 Accommodation
+- [Uba Ostatua - Uba Bidea, 43, 20014 Donostia / San Sebastián, Gipuzkoa, Spain](https://maps.app.goo.gl/m5uqSXCxQSZZEZBN8)
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `16.06 - 19:00 to 21:00`
+  - [Parque Viveros de Ulia | Uliako Mintegiak parkea - Alcalde J. Elosegi Hiribidea, 81, 20013 Donostia / San Sebastián, Gipuzkoa, Spain](https://maps.app.goo.gl/MjyPheu1p9o2GA9Q6)
 
 {{% /details %}}
 {{% details title="**🇫🇷 17.06 to 19.06** - Bayonne" closed="true" %}}
