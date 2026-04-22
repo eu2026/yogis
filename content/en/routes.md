@@ -242,6 +242,8 @@ May 17th:
   
   Parking: €17.50 per car per night
   
+  Check-in: at 21:00
+  
   Check-out: by 10:00
   
   Breakfast included
@@ -276,9 +278,7 @@ May 27
 - Key handover. Travel to Madrid.
 
 🏠 Accommodation
-
-- Addresses:
-  - [Adolfo Aznar 5-17 Zaragoza](https://maps.app.goo.gl/EjY8b1VpQpzPkWE57)
+- [Adolfo Aznar 5-17 Zaragoza](https://maps.app.goo.gl/EjY8b1VpQpzPkWE57)
 
 ⚡ Programs
 - `25.05 - 17:30 to 20:00`
@@ -297,9 +297,7 @@ On the 28th, we depart at 16:30 for rehersal with the Madrid music group.
 Rehersal starts at 17:00 and program starts at 19:00.
 
 🏠 Accommodation
-
-- Addresses:
-  - [Plaza Castilla, 3, 9ºa, 28046 Madrid, Spain](https://maps.app.goo.gl/wbSvckJbi1QukFy88)
+- [Plaza Castilla, 3, 9ºa, 28046 Madrid, Spain](https://maps.app.goo.gl/wbSvckJbi1QukFy88)
 
 ⚡ Programs
 - `28.05 - 21:00 to 23:00`
