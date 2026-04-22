@@ -165,17 +165,14 @@ May 15th:
   Lunch in the next city!
 {{< /callout >}}
 
-
 🏠 Accommodation
 -  13th night - [PREMIER CLASSE TOULON – La Seyne Sur Mer hotel, 225 avenue de Rome, 83500 La Seyne-sur-Mer.](https://maps.app.goo.gl/L4j8eWkCXnSVjEMX9)
 -  14th night - [PREMIER CLASSE MARSEILLE – Vitrolles Anjoly hotel, Zi des estroublans, 3 rue de Madrid, 13127 Vitrolles.](https://maps.app.goo.gl/tmFY745o7brWQp6eA)
 
-
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `14.05  - 18:00 to 20:00`
+  - [13 boulevard Mirabeau, 13002 Marseille](https://maps.app.goo.gl/nqK4S1sxB5hMN288A)
 
 {{% /details %}}
 {{% details title="**🇫🇷 15.05 to 17.05** - Arles" closed="true" %}}
@@ -200,16 +197,11 @@ May 17th:
   horses 🐴 bulls🐂 and many birds like flamingo 🦩. Then departure to the next city.
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- [Mercure Arles Centre Arènes - 1 Rue Emile Fassin, 13200 Arles, France](https://maps.app.goo.gl/gd58GxFhs5jGqbS77)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `16.05 - 18:00 to 20:00`
+  - [Mercure Arles Centre Arènes - 1 Rue Emile Fassin, 13200 Arles, France](https://maps.app.goo.gl/gd58GxFhs5jGqbS77)
 
 {{% /details %}}
 
@@ -238,57 +230,80 @@ May 17th:
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
+- `20.05 - 20:30 to 22:30`
   - Address: TBD
   - Notes: TBD
 
 {{% /details %}}
 {{% details title="**🇪🇸 21.05 to 25.05** - Barcelona" closed="true" %}}
 
-🏠 Accommodation
+{{< callout type="info" >}}
+  Van height must be under 2.25 m
+  
+  Parking: €17.50 per car per night
+  
+  Check-out: by 10:00
+  
+  Breakfast included
+{{< /callout >}}
 
-- Addresses:
-  - [Albergue Pere Tarrés Barcelona - Youth Hostel en Barcelona](https://maps.app.goo.gl/YaoJybS39jEmeALi6)
-- Notes: TBD
+🏠 Accommodation
+- [Albergue Pere Tarrés Barcelona - Youth Hostel en Barcelona](https://maps.app.goo.gl/YaoJybS39jEmeALi6)
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `24.05 - 10:00 to 13:00`
+  - [Centre de Cultura Popular La Violeta de Gràcia](https://maps.app.goo.gl/r1Tb5bm5BctmANhv8)
 
 {{% /details %}}
 {{% details title="**🇪🇸 25.05 to 27.05** - Zaragoza" closed="true" %}}
+
+May 25
+- Welcome reception for the tour at the Sahaja Yoga venue in Zaragoza.
+  Shared lunch with the yogis at the venue.
+  Address: [Calle Zumalacárregui 26, Office C.](https://maps.app.goo.gl/6DcuRmBvGAhJutKx6)
+- At 5:30 PM, arrival at Centro Cívico Delicias.
+  Musical Program 🎵💕🌀🎶 from 6:00 PM to 7:30 PM.
+- At 8:00 PM, check-in to the apartments and shared dinner at a nearby shopping center.
+
+May 26
+- In the morning, sightseeing visit around Zaragoza with Sahaja Yogis from the local collective. Shared lunch.
+- At 5:30 PM, arrival at Centro Cívico Teodoro Sánchez Punter.
+  Musical Program 🎵🌀💕🎶 from 6:00 PM to 7:30 PM.
+- At 8:00 PM, shared dinner and farewell.
+
+May 27
+- Key handover. Travel to Madrid.
 
 🏠 Accommodation
 
 - Addresses:
   - [Adolfo Aznar 5-17 Zaragoza](https://maps.app.goo.gl/EjY8b1VpQpzPkWE57)
-- Notes: TBD
-  - Payment has been made for both apartments.
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `25.05 - 17:30 to 20:00`
+  - [Avenida de Navarra 54.](https://maps.app.goo.gl/QXNgs4gVQZzgDTQV6)
+- `26.05 - 17:30 to 20:00`
+  - [Centro Cívico Teodoro Sánchez Punter (San José) - Plaza Mayor, 50008 Zaragoza, Spanien](https://maps.app.goo.gl/MVk9JbWWHfyKfZ2J9)
 
 {{% /details %}}
 {{% details title="**🇪🇸 27.05 to 29.05** - Madrid" closed="true" %}}
+
+{{< callout type="info" >}}
+  Check-in: by 11:00
+{{< /callout >}}
+
+On the 28th, we depart at 16:30 for rehersal with the Madrid music group.
+Rehersal starts at 17:00 and program starts at 19:00.
 
 🏠 Accommodation
 
 - Addresses:
   - [Plaza Castilla, 3, 9ºa, 28046 Madrid, Spain](https://maps.app.goo.gl/wbSvckJbi1QukFy88)
-  - We will get the second address later
-- Notes:
-  - In total paid 684 - Still need to pay 644
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
+- `28.05 - 21:00 to 23:00`
   - Address: TBD
-  - Notes: TBD
 
 {{% /details %}}
 {{% details title="**🇵🇹 29.05 to 31.05** - Lisbon" closed="true" %}}
