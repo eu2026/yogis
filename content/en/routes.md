@@ -351,18 +351,14 @@ Rehersal starts at 17:00 and program starts at 19:00.
 {{% /details %}}
 {{% details title="**🇵🇹 10.06 to 12.06** - Porto" closed="true" %}}
 
-🏠 Accommodation
+June 11:
+- We can use the hall all day for the program. From 9am to 23pm
 
-- Addresses:
-  - TBD
-- Notes:
-  - TBD
+🏠 Accommodation
+- [Praia de Salgueiros - Av. da Beira-Mar C2, 4400-572 Vila Nova de Gaia, Portugal - Tel. (+351) 227 814 730](https://maps.app.goo.gl/mgBGVDZko2wZ8qWy6)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `11.06 - 19:00 to 20:30` at [Clube Fenianos Portuenses - R. Clube dos Fenianos 29, 4000-172 Porto, Portugal](https://maps.app.goo.gl/tWW2CxbiXWhSYT3A9)
 
 {{% /details %}}
 {{% details title="**🇪🇸 12.06 to 15.06** - Vigo and UMA" closed="true" %}}
@@ -397,7 +393,7 @@ June 16:
 - 14:30 Lunch at Hogar de Jubilados, Calle Idiaquez 6 (offered by the San Sebastián collective)
 - Possible music rehearsal (to be confirmed)
 - 19:00 Artistic, musical and meditation program at Viveros de Ulía (Avenida Alcalde J. Elosegi 81)
-- Dinner after the program (time and place to be confirmed)
+- Dinner after the program likely overlooking Zurriola beach.
 - Possible foot soak at one of the beaches
 - Return to accommodation
 
@@ -620,29 +616,36 @@ Hostel check-out at 11:00
 {{% details title="🇧🇪 🇳🇱 🇩🇪 🇨🇭" closed="true" %}}
 {{% details title="**🇧🇪 02.07 to 07.07** - Brussels" closed="true" %}}
 
-🏠 Accommodation
+July 2nd:
+- arrival at the accommodation and sahaj center.
 
-- Addresses:
-  - TBD
-- Notes: TBD
+July 3rd:
+- day drip to Namur for program
+- 10am leafletting and street realization
+- arriving at the venue at around 13:00 for setup
+- departure to accommodation at around 21:00
+
+July 4th:
+- day drip to Gent for program
+- departure to accommodation at around 21:00
+
+July 5rd:
+- day drip to Mons for program
+- 11am leafletting and street realization
+- arriving at Maison Folie around 13:00 for setup of the first program
+- arriving at Auditorium Abel Dubois around 16:00 for setup of the second program
+- departure to accommodation at around 21:00
+
+🏠 Accommodation
+- [Sahaja Yoga Ashram - Pevenage 6, 9660 Brakel](https://maps.app.goo.gl/aP1vWCDc2kTwoZZN7)
 
 ⚡ Programs
-
-- `03.07 - hh:mm to hh:mm`
-  - Address: Namur
-  - Notes: TBD
-
-- `04.07 - hh:mm to hh:mm`
-  - Address: Mons
-  - Notes: TBD
-
-- `05.07 - hh:mm to hh:mm`
-  - Address: Porvoo
-  - Notes: TBD
-
-- `06.07 - hh:mm to hh:mm`
-  - Address: Brussels
-  - Notes: TBD
+- `03.07 - 13:00 to 20:00` at [House of Culture - Av. Fernand Golenvaux 18, 5000 Namur, Belgium](https://maps.app.goo.gl/VssY7gk4JjQYDJh78)
+- `04.07 - 13:00 to 20:00` at [Buurthuis 't Hoeveke - Patijntjestraat 62, 9000 Gent, Belgium](https://maps.app.goo.gl/dZRGSj2QEP3RD1ST6)
+- `05.07 - 13:00 to 16:00` at [Maison Folie - Rue de Nimy 46, 7000 Mons, Belgium](https://maps.app.goo.gl/me6puhhEqhScHGtXA)
+- `05.07 - 18:00 to 20:00` at [Auditorium Abel Dubois - Espl. Anne-Charlotte de Lorraine 0, 7000 Mons, Belgium](https://maps.app.goo.gl/cimpHawBBznLZsAQ7)
+- `DD.07 - mm:hh to mm:hh` at [Huis van het Nederlands Brussel - Rue Philippe de Champagne 23, 1000 Bruxelles, Belgium](https://maps.app.goo.gl/R5TQKgtJpEv74hPE9)
+- `DD.07 - mm:hh to mm:hh` at [Marbré - Rue des Palais 32, 1030 Schaerbeek, Belgium](https://maps.app.goo.gl/cmxsivRWBMK3fXpD6)
 
 {{% /details %}}
 {{% details title="**🇳🇱 07.07 to 11.07** - Netherlands" closed="true" %}}
