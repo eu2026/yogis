@@ -207,6 +207,16 @@ May 17th:
 
 {{% details title="**🇫🇷 17.05 to 19.05** - Montpellier" closed="true" %}}
 
+17th:
+- welcome in Frontignan with a group foot bath and a meal.
+
+18th:
+- breakfast and going through the day plan with the locals
+- At 4:00 PM, we'll meet at Le Dôme in Montpellier for the musical evening
+
+19th:
+- breakfast and departure around 10am
+
 🏠 Accommodation
 - [Camping La Lagune - 10 Av. des Vacances, 34110 Frontignan, France](https://maps.app.goo.gl/q45cCtpeKR7Bn8dS9)
 
@@ -227,6 +237,8 @@ May 17th:
 {{% details title="**🇪🇸 21.05 to 25.05** - Barcelona" closed="true" %}}
 
 {{< callout type="info" >}}
+  The hotel has 24hr reception.
+
   Van height must be under 2.25 m
   
   Parking: €17.50 per car per night
@@ -238,13 +250,17 @@ May 17th:
   Breakfast included
 {{< /callout >}}
 
+24th: Departure to the collective’s space at around 10:30 
+for lunch at 65 Mora d’Ebre St., Entresuelo Office, Building B, Metro L3, L5, for a meal hosted by the collective
+
 🏠 Accommodation
 - [Albergue Pere Tarrés Barcelona - Youth Hostel en Barcelona](https://maps.app.goo.gl/YaoJybS39jEmeALi6)
 
 ⚡ Programs
-
-- `24.05 - 10:00 to 13:00`
-  - [Centre de Cultura Popular La Violeta de Gràcia](https://maps.app.goo.gl/r1Tb5bm5BctmANhv8)
+- `22.05 - 18:00 to 21:00` at [Vil·la Urània - Carrer de Saragossa, 29, Sarrià-Sant Gervasi, 08006 Barcelona, Spain](https://maps.app.goo.gl/uWrXR7aQm974NhLj6)
+- `23.05 - 17:30 to 20:30` at [Centre Cívic Font de la Guatlla - Carrer del Rabí Rubèn, 22, Sants-Montjuïc, 08004 Barcelona, Spain](https://maps.app.goo.gl/14oAbz374HfeAt5D8)
+- `24.05 - 10:00 to 13:00` at [Centre de Cultura Popular La Violeta de Gràcia](https://maps.app.goo.gl/r1Tb5bm5BctmANhv8)
+- `24.05 - 17:30 to 20:00` at [Fundació Casa del Tibet - Carrer del Rosselló, 181, Eixample, 08036 Barcelona, Spain](https://maps.app.goo.gl/ehTQwQQyy7DA9iua9)
 
 {{% /details %}}
 {{% details title="**🇪🇸 25.05 to 27.05** - Zaragoza" closed="true" %}}
@@ -253,7 +269,7 @@ May 25
 - Welcome reception for the tour at the Sahaja Yoga venue in Zaragoza.
   Shared lunch with the yogis at the venue.
   Address: [Calle Zumalacárregui 26, Office C.](https://maps.app.goo.gl/6DcuRmBvGAhJutKx6)
-- At 5:30 PM, arrival at Centro Cívico Delicias.
+- At 5:00 PM, arrival at Centro Cívico Delicias.
   Musical Program 🎵💕🌀🎶 from 6:00 PM to 7:30 PM.
 - At 8:00 PM, check-in to the apartments and shared dinner at a nearby shopping center.
 
@@ -270,16 +286,18 @@ May 27
 - [Adolfo Aznar 5-17 Zaragoza](https://maps.app.goo.gl/EjY8b1VpQpzPkWE57)
 
 ⚡ Programs
-- `25.05 - 17:30 to 20:00`
-  - [Avenida de Navarra 54.](https://maps.app.goo.gl/QXNgs4gVQZzgDTQV6)
-- `26.05 - 17:30 to 20:00`
+- `25.05 - 17:00 to 20:00`
+  - [Delicias Civic Center - Avenida de Navarra 54.](https://maps.app.goo.gl/QXNgs4gVQZzgDTQV6)
+- `26.05 - 17:00 to 20:00`
   - [Centro Cívico Teodoro Sánchez Punter (San José) - Plaza Mayor, 50008 Zaragoza, Spanien](https://maps.app.goo.gl/MVk9JbWWHfyKfZ2J9)
 
 {{% /details %}}
 {{% details title="**🇪🇸 27.05 to 29.05** - Madrid" closed="true" %}}
 
 {{< callout type="info" >}}
-  Check-in: by 11:00
+  Check-in: by 16:00
+
+  Check-out: by 11:00
 {{< /callout >}}
 
 On the 28th, we depart at 16:30 for rehersal with the Madrid music group.
@@ -295,17 +313,28 @@ Rehersal starts at 17:00 and program starts at 19:00.
 {{% /details %}}
 {{% details title="**🇵🇹 29.05 to 31.05** - Lisbon" closed="true" %}}
 
+{{< callout type="info" >}}
+  The following super markets are close to accommodation:
+
+  - Lidl Odivelas, R. Heróis de Chaimite s/n S/n, 2675-374 Odivelas, Portugal
+  - Pingo Doce Póvoa de Santo Adrião, R. Júlio Borba, 2620-096 Póvoa de Santo Adrião, Portugal
+{{< /callout >}}
+
+29th:
+- Checkin at 16:00
+- The rest of the day is free. We can cook dinner in the accommodation
+
+30th:
+- Flexible schedule
+- Leafleting and street realization
+- Footsoak in the Ocean
+- Dinner at Nepalese Restaurant (SY brother’s restaurant)
+
+31st:
+- Checkout and departure home
+
 🏠 Accommodation
-
-- Addresses:
-  - [7 Rua São Tomé e Príncipe, 2620-057 Lisbon, Portugal](https://maps.app.goo.gl/edeVtsk4nSyMvsFB8)
-- Notes: xxx
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- [7 Rua São Tomé e Príncipe, 2620-057 Lisbon, Portugal](https://maps.app.goo.gl/edeVtsk4nSyMvsFB8)
 
 {{% /details %}}
 {{% /details %}}
@@ -315,32 +344,34 @@ Rehersal starts at 17:00 and program starts at 19:00.
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 {{% details title="**🇵🇹 06.06 to 08.06** - Lisbon" closed="true" %}}
 
-🏠 Accommodation
+{{< callout type="info" >}}
+  The following super markets are close to accommodation:
 
-- Addresses:
-  - [Edifício Panoramic - Avenida D. João II lote 57, Parque das Nacoes, 1990-050 Lisbon, Portugal](https://maps.app.goo.gl/2rfRJv58Qa2XCc5K6)
-- Notes: xxx
+  - Lidl Loures Moscavide, Av. de Moscavide 2 01, 1885-075 Moscavide, Portugal.
+{{< /callout >}}
+
+6th:
+- Check-in at 15:00
+- Public program
+
+7th:
+- Public program
+
+8th:
+- Checkout and travel to Leireia
+
+🏠 Accommodation
+- [Edifício Panoramic - Avenida D. João II lote 57, Parque das Nacoes, 1990-050 Lisbon, Portugal](https://maps.app.goo.gl/2rfRJv58Qa2XCc5K6)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `06.06 - 15:00 to 17:30` at [Biblioteca Camões - Largo Calhariz 17 1º andar, 1200-086 Lisboa, Portugal](https://maps.app.goo.gl/uLLsGFv2rGnnHCaV9)
+- `07.06 - 15:00 to 17:30` at [Biblioteca Camões - Largo Calhariz 17 1º andar, 1200-086 Lisboa, Portugal](https://maps.app.goo.gl/uLLsGFv2rGnnHCaV9)
 
 {{% /details %}}
 {{% details title="**🇵🇹 08.06 to 10.06** - Leiria" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - [Porta 20 Boutique Guesthouse - R. Beatriz Machado 20, 2410-089 Leiria, Portugal](https://maps.app.goo.gl/nTynjrnSrd3HESsc6)
-- Notes: xxx 
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- [Porta 20 Boutique Guesthouse - R. Beatriz Machado 20, 2410-089 Leiria, Portugal](https://maps.app.goo.gl/nTynjrnSrd3HESsc6)
 
 {{% /details %}}
 {{% details title="**🇵🇹 10.06 to 12.06** - Porto" closed="true" %}}
