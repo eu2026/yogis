@@ -205,19 +205,13 @@ May 17th:
 
 {{% /details %}}
 
-{{% details title="**🇫🇷 17.05 to 18.05** - Montpellier" closed="true" %}}
+{{% details title="**🇫🇷 17.05 to 19.05** - Montpellier" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- [Camping La Lagune - 10 Av. des Vacances, 34110 Frontignan, France](https://maps.app.goo.gl/q45cCtpeKR7Bn8dS9)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `18.05 - 17:00` at [Le Dome - 2 Av. Georges Clemenceau, 34000 Montpellier, France](https://maps.app.goo.gl/it81ZDeqKM7sNFMQ9)
 
 {{% /details %}}
 {{% details title="**🇦🇩 19.05 to 21.05** - Andorra" closed="true" %}}
