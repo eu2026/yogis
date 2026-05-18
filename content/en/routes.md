@@ -929,8 +929,8 @@ July 5rd:
 {{< callout type="info" >}}
   On the 15th, we split:
   - One car goes directly to Billund 🇩🇰 to get an early sleep and prepare for the program in Billund on the 16th
-  - Another car goes to Lund for the program and will sleep over there or in Kopenhagen. This car which goes to
-    Lund, will on the 16th try to do street realization in Koenhagen and Holbaek and then will make it's way to Billund
+  - Another car goes to Lund 🇸🇪 for the program and will sleep over there or in Copenhagen. This car which goes to
+    Lund, will on the 16th try to do street realization in Copenhagen and Holbaek and then will make its way to Billund
     later in the day.
 {{< /callout >}}
 
