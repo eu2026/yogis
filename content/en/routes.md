@@ -906,10 +906,10 @@ July 5rd:
 {{% /details %}}
 {{% /details %}}
 
-### Aether ☄️ -> 13.07 to 25.07 - Sweden, Denmark, Germany, and Netherlands
+### Aether ☄️ -> 12.07 to 25.07 - Sweden, Denmark, Germany, and Netherlands
 
 {{% details title="🇸🇪 🇩🇰 🇩🇪 🇳🇱" closed="true" %}}
-{{% details title="**🇸🇪 13.07 to 15.07** - Gothenberg" closed="true" %}}
+{{% details title="**🇸🇪 12.07 to 15.07** - Gothenberg" closed="true" %}}
 
 🏠 Accommodation
 
@@ -924,7 +924,15 @@ July 5rd:
   - Notes: TBD
 
 {{% /details %}}
-{{% details title="**🇸🇪 15.07 to 17.07** - Lund" closed="true" %}}
+{{% details title="**🇸🇪 🇩🇰 15.07 to 20.07** - Billund / Lund" closed="true" %}}
+
+{{< callout type="info" >}}
+  On the 15th, we split:
+  - One car goes directly to Billund 🇩🇰 to get an early sleep and prepare for the program in Billund on the 16th
+  - Another car goes to Lund for the program and will sleep over there or in Kopenhagen. This car which goes to
+    Lund, will on the 16th try to do street realization in Koenhagen and Holbaek and then will make it's way to Billund
+    later in the day.
+{{< /callout >}}
 
 🏠 Accommodation
 
@@ -939,37 +947,7 @@ July 5rd:
   - Notes: TBD
 
 {{% /details %}}
-{{% details title="**🇩🇰 17.07 to 19.07** - Copenhagen" closed="true" %}}
-
-🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
-
-{{% /details %}}
-{{% details title="**🇩🇰 19.07 to 21.07** - Billund" closed="true" %}}
-
-🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
-
-{{% /details %}}
-{{% details title="**🇩🇪 21.07 to 23.07** - Hamburg" closed="true" %}}
+{{% details title="**🇩🇪 20.07 to 23.07** - Hamburg" closed="true" %}}
 
 🏠 Accommodation
 
@@ -985,6 +963,11 @@ July 5rd:
 
 {{% /details %}}
 {{% details title="**🇳🇱 23.07 to 25.07** - Amsterdan" closed="true" %}}
+
+{{< callout type="info" >}}
+  Departure to Amsterdam after lunch. We have program on the 24th there!
+{{< /callout >}}
+
 
 🏠 Accommodation
 
