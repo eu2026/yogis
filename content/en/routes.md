@@ -365,7 +365,7 @@ Rehersal starts at 17:00 and program starts at 19:00.
 
 ⚡ Programs
 - `06.06 - 15:00 to 17:30` at [Biblioteca Camões - Largo Calhariz 17 1º andar, 1200-086 Lisboa, Portugal](https://maps.app.goo.gl/uLLsGFv2rGnnHCaV9)
-- `07.06 - 15:00 to 17:30` at [Biblioteca Camões - Largo Calhariz 17 1º andar, 1200-086 Lisboa, Portugal](https://maps.app.goo.gl/uLLsGFv2rGnnHCaV9)
+- `07.06 - 15:00 to 17:30` at [Galveias Palace Library - Campo Pequeno, 1049-064 Lisboa, Portugal](https://maps.app.goo.gl/oNw7Y97rbkobX8L29)
 
 {{% /details %}}
 {{% details title="**🇵🇹 08.06 to 10.06** - Leiria" closed="true" %}}
@@ -486,26 +486,28 @@ Hostel check-out at 11:00
 {{% details title="🇫🇮 🇪🇪 🇱🇻 🇱🇹 🇵🇱 🇩🇪" closed="true" %}}
 {{% details title="**🇫🇮  01.07 to 06.07** - Helsinki" closed="true" %}}
 
-🏠 Accommodation
+On the 1st of July yogis will arrive.
+On that day we will do a welcoming puja to Shri Mataji and invitation to be with us on the tour.
+Followed by collective dinner in the Kilo ashram, Espoo.
 
-- Addresses:
-  - [Sahaj ashram - Puistomäki 6, 02610 Espoo](https://maps.app.goo.gl/TWWd3qdn4dG4AQwK6)
-- Notes: Only around 8-10 guests can stay in the ashram. More people to stay with Yogis.
-  For staying in the ashram, we should pay for food and an optional donation.
+From 2nd to the 5th of July we will have realization programs in various cities.
+And on the 6th, boat trip to Estonia! 
+
+On the 3rd of July, we will travel to Porvoo by bus.
+
+On the 4th of July, we will travel to Tampere by bus.
+
+🏠 Accommodation
+- [Sahaj ashram - Puistomäki 6, 02610 Espoo](https://maps.app.goo.gl/TWWd3qdn4dG4AQwK6)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: [Eteläesplanadi 1, Helsinki central](https://maps.app.goo.gl/pVFpbon9tARE3y6o6)
-  - Notes: TBD
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: Turku
-  - Notes: TBD
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: Porvoo
-  - Notes: TBD
+- `02.07 - 13:00 to 16:00` - Street realization at [Espa Stage - Eteläesplanadi 1, 00130 Helsinki, Finland](https://maps.app.goo.gl/5Nehu1zTGCe78fM26)
+- `02.07 - 16:00 to 17:00` - Program [Espa Stage - Eteläesplanadi 1, 00130 Helsinki, Finland](https://maps.app.goo.gl/5Nehu1zTGCe78fM26)
+- `03.07 - 14:00 to 17:00` - Street realization around [Porvoo Art Factory - Läntinen Aleksanterinkatu 1, 06100 Porvoo, Finland](https://maps.app.goo.gl/NYrSHw6v1i4rPYpE9)
+- `03.07 - 18:00 to 20:00` - Program at [Porvoo Art Factory - Läntinen Aleksanterinkatu 1, 06100 Porvoo, Finland](https://maps.app.goo.gl/NYrSHw6v1i4rPYpE9)
+- `04.07 - 11:00 to 13:00` - Street realization around [Main Library Metso | Tampere City Library - Pirkankatu 2, 33210 Tampere, Finland](https://maps.app.goo.gl/3LYTCd2bYyBYym9DA)
+- `04.07 - 13:00 onwards` - Program [Main Library Metso | Tampere City Library - Pirkankatu 2, 33210 Tampere, Finland](https://maps.app.goo.gl/3LYTCd2bYyBYym9DA)
+- `05.07 - 15:00 onwards` - Program at [Sahaj ashram - Puistomäki 6, 02610 Espoo](https://maps.app.goo.gl/TWWd3qdn4dG4AQwK6)
 
 {{% /details %}}
 {{% details title="**🇪🇪  06.07 to 09.07** - Tallinn" closed="true" %}}
@@ -517,7 +519,6 @@ Hostel check-out at 11:00
 - Notes: TBD
 
 ⚡ Programs
-
 - `DD.MM - hh:mm to hh:mm`
   - Address: TBD
   - Notes: TBD
