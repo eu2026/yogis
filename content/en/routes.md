@@ -380,7 +380,10 @@ Rehersal starts at 17:00 and program starts at 19:00.
   Check-in at 4pm. The place is in front of the beach.
   The booking is under the Sahaja Yoga name.
  
-  On the 11th, lunch in Porto is reserved. After program, we need to cleanup the place.
+  On the 11th, lunch in Porto is reserved for 14:00 at
+  [confeitaria império/ rua Fernandes Tomás 775 / 4200-025 Porto](https://maps.app.goo.gl/wdeBq82LrUCLhdeY7).
+
+  After program, we need to cleanup the place.
   The program is a meditation program. Would be good to have some music on the side.
 {{< /callout >}}
 
