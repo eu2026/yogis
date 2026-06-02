@@ -341,8 +341,19 @@ Rehersal starts at 17:00 and program starts at 19:00.
 
 ### Fire 🔥 -> 06.06 to 26.06 - Portugal, Spain, France, and UK
 
+[Touring Yogis](https://docs.google.com/spreadsheets/d/1bG4WfPfGcQ_Kg8rsU_bfpI7S8g3Bem4CqFKxy2WTM38/edit?usp=sharing)
+
 {{% details title="🇵🇹 🇪🇸 🇫🇷 🇬🇧" closed="true" %}}
 {{% details title="**🇵🇹 06.06 to 08.06** - Lisbon" closed="true" %}}
+
+{{< callout type="info" >}}
+  Those who are arriving earlier, from the 3rd they can stay at
+  [HI Parque das Nações - Pousada de Juventude - Rua de Moscavide 4 71, 1998-011 Lisboa, Portugal](https://maps.app.goo.gl/u1iRSP6W7LNGM2wn7)
+
+  The reservation is under Mohammad Adel Moradian with number ATCUD:J66YKRHR-2005
+{{< /callout >}}
+
+
 
 {{< callout type="info" >}}
   The following super markets are close to accommodation:
@@ -350,15 +361,28 @@ Rehersal starts at 17:00 and program starts at 19:00.
   - Lidl Loures Moscavide, Av. de Moscavide 2 01, 1885-075 Moscavide, Portugal.
 {{< /callout >}}
 
+{{< callout type="info" >}}
+  On the 6th, the program is at 15:00 so you most likely have to check-in AFTER the program.
+  You can however leave your bags from 10:30 onwards. If you want to drop your bags, contact them by calling
+  +351 967 363 921 when you are approximately 15 minutes away.
+
+  This booking is under the name Mohammad Adel Moradian.
+{{< /callout >}}
+
 6th:
-- Check-in at 15:00
 - Public program
+- Dinner out with Yogis
+- Check-in and dinner
 
 7th:
 - Public program
 
 8th:
-- Checkout and travel to Leireia
+- Checkout and travel to Leireia.
+
+{{< callout type="info" >}}
+  Pack some lunch for the road!!!
+{{< /callout >}}
 
 🏠 Accommodation
 - [Edifício Panoramic - Avenida D. João II lote 57, Parque das Nacoes, 1990-050 Lisbon, Portugal](https://maps.app.goo.gl/2rfRJv58Qa2XCc5K6)
@@ -369,6 +393,14 @@ Rehersal starts at 17:00 and program starts at 19:00.
 
 {{% /details %}}
 {{% details title="**🇵🇹 08.06 to 10.06** - Leiria" closed="true" %}}
+
+{{< callout type="info" >}}
+  Check-in around 4pm
+{{< /callout >}}
+
+{{< callout type="info" >}}
+  Pack some lunch for the road to Porto!!!
+{{< /callout >}}
 
 🏠 Accommodation
 - [Porta 20 Boutique Guesthouse - R. Beatriz Machado 20, 2410-089 Leiria, Portugal](https://maps.app.goo.gl/nTynjrnSrd3HESsc6)
@@ -390,6 +422,10 @@ Rehersal starts at 17:00 and program starts at 19:00.
 June 11:
 - We can use the hall all day for the program. From 9am to 23pm
 
+{{< callout type="info" >}}
+  Leave early to Vigo! We need to be there before 12:00 and it's a 2hr drive.
+{{< /callout >}}
+
 🏠 Accommodation
 - [Praia de Salgueiros - Av. da Beira-Mar C2, 4400-572 Vila Nova de Gaia, Portugal - Tel. (+351) 227 814 730](https://maps.app.goo.gl/mgBGVDZko2wZ8qWy6)
 
@@ -399,18 +435,29 @@ June 11:
 {{% /details %}}
 {{% details title="**🇪🇸 12.06 to 15.06** - Vigo and UMA" closed="true" %}}
 
+June 12:
+- Lunch in Vigo at 13:00
+- After lunch a bit of resting, then preparing for the program
+- Dinner in Uma at 21:30 provided by local Yogis
+
+June 13:
+- Breakfast and lunch in Uma. Breakfast provided by local Yogis. Lunch and dinner provided by the tour.
+- Preparing for the program
+
+June 14:
+- Breakfast and lunch in Uma. Breakfast provided by local Yogis. Lunch and dinner provided by the tour.
+- Preparing for the program
+
+June 15:
+- Breakfast in Uma by local Yogis.
+- Prepare journey to San Sebastian
+
 🏠 Accommodation
 
-- Addresses:
-  - TBD
-- Notes:
-  - TBD
-
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `12.06 - 18:00 to 21:00` at [Mercado de Teis - Rúa Toural de Abaixo, s/n, Teis, 36207 Vigo, Pontevedra, Spain](https://maps.app.goo.gl/cikWgxU5DQ2qGgA3A)
+- `13.06 - 18:00 to 21:00` at TBD
+- `14.06 - 18:00 to 21:00` at [Auditorio Reveriano Soutullo - R. Doctor Fernández Vega, s/n, 36860 Ponteareas, Pontevedra, Spain](https://maps.app.goo.gl/LQeuu7k6kiQzXTaw8)
 
 {{% /details %}}
 {{% details title="**🇪🇸 15.06 to 17.06** - San Sebastián" closed="true" %}}
