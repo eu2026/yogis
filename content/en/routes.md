@@ -453,6 +453,7 @@ June 15:
 - Prepare journey to San Sebastian
 
 🏠 Accommodation
+- [Lugar Cruceiras, 7, 36863 Ponteareas, Pontevedra, Spain](https://maps.app.goo.gl/4pSVqEd4q7nrBcxW9)
 
 ⚡ Programs
 - `12.06 - 18:00 to 21:00` at [Mercado de Teis - Rúa Toural de Abaixo, s/n, Teis, 36207 Vigo, Pontevedra, Spain](https://maps.app.goo.gl/cikWgxU5DQ2qGgA3A)
@@ -509,14 +510,12 @@ Hostel check-out at 11:00
 {{% /details %}}
 {{% details title="**🇫🇷 19.06 to 24.06** - Paris" closed="true" %}}
 
-🏠 Accommodation
+In Paris we will have all street realization events and nicely taken care of by the local Yogis!
 
-- Addresses:
-  - TBD
-- Notes: TBD
+🏠 Accommodation
+- [47 avenue du Muguet, 93370 Montfermeil](https://maps.app.goo.gl/c4dYT7hn6grZjP9o6)
 
 ⚡ Programs
-
 - `DD.MM - hh:mm to hh:mm`
   - Address: TBD
   - Notes: TBD
@@ -524,17 +523,10 @@ Hostel check-out at 11:00
 {{% /details %}}
 {{% details title="**🇬🇧 24.06 to 26.06** - Blossom Farm" closed="true" %}}
 
+Slowly transitioning to the Puaj weekend!
+
 🏠 Accommodation
-
-- Addresses:
-  - Blossom Farm
-- Notes: **THE PUJA FEE AND REGISTRATION IS COMPLETELY SEPARATE FROM THE TOUR!!!**
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- [Bloxham Barn Farm Chadshunt CV35 0EL](https://maps.app.goo.gl/DjSxiwY1XhqMyPG26)
 
 {{% /details %}}
 {{% /details %}}
