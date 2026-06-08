@@ -562,49 +562,115 @@ On the 4th of July, we will travel to Tampere by bus.
 {{% /details %}}
 {{% details title="**🇪🇪  06.07 to 09.07** - Tallinn" closed="true" %}}
 
-🏠 Accommodation
+{{< callout type="info" >}}
+  All meals and transport will be organized by the local yogis.
+{{< /callout >}}
 
-- Addresses:
-  - TBD
-- Notes: TBD
+6th:
+- Arrival and check-in
+- Late lunch / early dinner between 16:00-17:00
+- program from 19:00 onwards
+
+7th:
+- Departure from Tallinn to Kohtla-Järve by buses and cars. On the way,
+  visit to the sacred place at "Samma Taarausuliste Hiis" and meditation there.
+- Lunch at 14:00 at Kohtla-Järve
+- Meditation and footsoak by the from 15:00 to 17:00
+- From around 17:00 to 18:00 Arrival at Kohtla-Järve Centre of Culture and preparation for the program
+- Program at 18:30
+- Dinner at 20:00
+- Departure to Tallinn around 21:00
+
+8th:
+- Visiting the Russalka Memorial and meditation at 11:00
+- Lunch around 15:00
+- Preparing the hall for program from 17:00
+- Program at 18:00
+- Dinner at 20:30 followed by departure
+
+9th:
+- Breakfast, packing and checkout all before 12:00
+- One group will travel directly to Riga and one group will go to Pärnu for another program. Details TBD
+
+🏠 Accommodation
+- TBD
 
 ⚡ Programs
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `06.07 - 19:00 to 20:30` - [Hi, life studio - Vesivärava tn 50, 10152 Tallinn, Estonia](https://maps.app.goo.gl/XMef7rVLWeLhdiHH7)
+- `07.07 - 18:30 to 20:00` - [Kohtla-Järve Kultuurikeskus - Keskallee 36, Kohtla-Järve, 30321 Ida-Viru maakond, Estonia](https://maps.app.goo.gl/ccExpxbzB1wMxP1F6)
+- `08.07 - 18:00 to 20:30` - [Tallinn Teachers' House - Raekoja plats 14, 10146 Tallinn, Estonia](https://maps.app.goo.gl/kpea4qLFoa7kQtKV8)
 
 {{% /details %}}
 {{% details title="**🇱🇻 09.07 to 13.07** - Riga" closed="true" %}}
 
-🏠 Accommodation
+{{< callout type="info" >}}
+  All meals prepared by touring Yogis.
+  For the daytrips needs to prepare and pack some food.
+{{< /callout >}}
 
-- Addresses:
-  - TBD
-- Notes: TBD
+9th:
+- Arriving late evening to Latvia, relaxing time in nature at the staying place, evening meditation.
+- Cooking food by the tour.
+
+10th:
+- Morning havan, relaxing day at staying location with water activities in nearby river and sauna, extra vibrational work.
+- Breakfast, lunch, dinner - will be made by the tour.
+
+11th:
+- Leaving for Riga in the morning. Sightseeing in the capital
+- Prepare for the program at 15:00
+
+12th:
+- Relaxed morning
+- Program at 15:00
+- Dinner eating out and
+
+13th:
+- 7:00 morning meditation
+- 9:00 leaving to Liepaja (3h. journey)
+- 13:00 lunch near the sea and, sea time.16:00 heading to Liepaja
+- After program heading to Lithuania.
+- Dinner will be provided by the local Yogis
+
+🏠 Accommodation
+- 09.07–12.07: [Sidrabozoli - viesu nams - Sidrabozoli, Līči, LV-2118, Latvia](https://maps.app.goo.gl/BVH2sCTEuq4GA2cD8)
+- 12.07–13.07: Near Klaipėda - TBD
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `11.07 - 15:00` - [Ropažu iela 2, Vidzemes priekšpilsēta, Rīga, LV-1039, Latvia](https://maps.app.goo.gl/Kyzuveh7GyR4CukF7)
+- `12.07 - 15:00` - [Akadēmijas iela 10, Jelgava, LV-3001, Latvia](https://maps.app.goo.gl/FuzAhszBmUpamiU47)
+- `13.07 - 18:00` - [Liepaja Music - Kuršu iela 20, Liepāja, LV-3401, Latvia](https://maps.app.goo.gl/FvyWyEqQcazfsBuG6)
 
 {{% /details %}}
 {{% details title="**🇱🇹 13.07 to 17.07** - Vilnius" closed="true" %}}
 
-🏠 Accommodation
+13th:
+- Program in Lativa and arriving in Lithuania
 
-- Addresses:
-  - TBD
-- Notes: TBD
+14th:
+- free day
+
+15th:
+- Meditation and breakfast (preapred by the tour)
+- Leaving to Kaunas around 10am
+- Lunch eating out
+- Program at 18:00
+- Dinner at the accommodation
+
+16th:
+- Program TBD
+- Food to be prepared by the touring Yogis
+
+17th:
+- departure to Warsaw from the Vilnius Central Train Station at 12:24
+
+
+🏠 Accommodation
+- 13.07–14.07: Near Klaipėda - TBD
+- 15.07–17.07: At yogis' homes in Vilnius - TBD
 
 ⚡ Programs
-
-- `15.07 - hh:mm to hh:mm`
-  - Address: Kaunas
-  - Notes: TBD
-- `16.07 - hh:mm to hh:mm`
-  - Address: Alytus
-  - Notes: TBD
+- `15.07 - 18:00` - [Kauno menininkų namai - V. Putvinskio g. 56, Kaunas, 44211 Kauno m. sav., Lithuania](https://maps.app.goo.gl/mBsZisCKWCQ51n6D6)
 
 {{% /details %}}
 {{% details title="**🇵🇱 17.07 to 19.07** - Warsaw" closed="true" %}}
@@ -673,16 +739,16 @@ On the 4th of July, we will travel to Tampere by bus.
 {{% details title="**🇩🇪 25.07 to 27.07** - Berlin" closed="true" %}}
 
 🏠 Accommodation
-
 - Addresses:
-  - TBD
-- Notes: TBD
+  - Men: Sahaja Yoga Center, Berlin Charlottenburg (exact address TBD) – sleeping with isomat and sleeping bags.
+  - Women: Kerstin's house, Berlin Pankow (address TBD).
+  - Musicians (Mari Joël & Kenny Clarys): Jutta's house, Berlin Pankow (address TBD).
+- Notes: Musicians arrive earlier for practice with local musicians. Applications for concert venues are in process.
 
 ⚡ Programs
-
-- `26.07 - hh:mm to hh:mm`
-  - Address: Berlin
-  - Notes: TBD
+- `25.07 - evening` - Welcome at the Sahaja Yoga Center Berlin Charlottenburg: dinner, meditation, bhajans.
+- `26.07 - afternoon` - Open air concert with meditation at either Bürgerpark Pankow (Rose garden, music pavilion) or Tempelhofer Feld (exact location TBD). Followed by collective picnic, Realisation, and bhajan jamming. (Awaiting confirmation)
+- `27.07 - evening` - Concert with introduction to Sahaja Yoga and realisation at an applied venue (reply expected mid-June).
 
 {{% /details %}}
 {{% /details %}}
@@ -724,51 +790,104 @@ July 5rd:
 - `DD.07 - mm:hh to mm:hh` at [Marbré - Rue des Palais 32, 1030 Schaerbeek, Belgium](https://maps.app.goo.gl/cmxsivRWBMK3fXpD6)
 
 {{% /details %}}
-{{% details title="**🇳🇱 07.07 to 11.07** - Netherlands" closed="true" %}}
+
+{{% details title="**🇳🇱 07.07 to 11.07** - Eindhoven area" closed="true" %}}
+
+July 7th:
+- arrival and accommodation check‑in
+- morning/evening activities TBD
+- food arrangements TBD
+
+July 8th:
+- programs: Self‑realisation Tilburg 12:00–18:00
+- lunch: taken from home or TBD
+- dinner: Aarlenlaan 28, Eindhoven
+
+July 9th:
+- programs: Self‑realisation Breda 12:00–18:00
+- lunch: taken from home or TBD
+- dinner: Klarenberg 18, Breda
+
+July 10th:
+- programs: Self‑realisation Nijmegen 12:00–18:00
+- lunch: taken from home or TBD
+- dinner: Ebru & Florin, Planetenlaan 135, 5505 NM Veldhoven
+
+July 11th:
+- programs: Self‑realisation Eindhoven 12:00–18:00
+- lunch: TBD
+- late afternoon/evening departure to Cologne (likely Flixbus)
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- Up to 8 people:
+  [De Linnenbleker 64, 5283 XT Boxtel](https://maps.app.goo.gl/…)
+- Rest of the group:
+  [Planetenlaan 135, 5505 NM Veldhoven](https://maps.app.goo.gl/…)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: Namur
-  - Notes: TBD
+- `08.07 - 12:00 to 18:00` Self‑realisation program – Tilburg (venue TBD)
+- `09.07 - 12:00 to 18:00` Self‑realisation program – Breda (venue TBD)
+- `10.07 - 12:00 to 18:00` Self‑realisation program – Nijmegen (venue TBD)
+- `11.07 - 12:00 to 18:00` Self‑realisation program – Eindhoven (venue TBD)
 
 {{% /details %}}
+
 {{% details title="**🇩🇪 11.07 to 15.07** - Cologne" closed="true" %}}
 
-🏠 Accommodation
+July 11th:
+- arrival in the afternoon/evening (timing depends on Eindhoven schedule)
+- preferable meeting at the Sahaj Center for dinner and organisational talk
+- if arrival is early: possible park gathering; otherwise directly at Center
 
-- Addresses:
-  - TBD
-- Notes: TBD
+July 12th:
+- daytime: park activities (bhajans, leafletting, vibrations) near the concert venue
+- evening: classical concert in two parts
+  - 1st part: classical vocal music (Maria & Lisa) + Shiva dance by a yogini
+  - 2nd part: Self‑Realisation & Sahaja Yoga introduction, followed by Maria’s piece, then Bhajans/Ragas by Vladimir Pavlov (≈40 min), possible additional yogi presentations
+
+July 13th (Bonn):
+- street programs: parks, Rhein river area, main square
+- spreading vibrations, leafletting for Sahaj programs
+
+July 14th (Cologne):
+- daytime: street activities, leafleting for Sahaj programs
+- evening: official newcomer meditation at the Center
+- before the meditation: “Maike bye‑bye” dinner – all tour members welcome
+
+🏠 Accommodation
+- 7 spaces in the Sahaj Center (address TBD)
+- 2 additional spaces with local yogis (total 9)
+- exact distribution to be confirmed
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: Namur
-  - Notes: TBD
+- `12.07 - evening` Concert & Self‑Realisation (park near venue, exact location TBD)
+- `13.07 - daytime` Street realization – Bonn (parks, Rhein, main square)
+- `14.07 - evening` Newcomer meditation – Sahaj Center Cologne (address TBD)
 
 {{% /details %}}
+
 {{% details title="**🇩🇪 15.07 to 17.07** - Marburg" closed="true" %}}
 
-🏠 Accommodation
+July 15th:
+- accommodation: Rama School, Ebersgrube 11, Bad Endbach
+- cost: 11 €/night/person
+- no outside program – day of rest
+- activities: treatments, enjoying nature, collective time (exact schedule depends on arrival time)
+- food: Rama School team will cook; possible need for collective help
 
-- Addresses:
-  - TBD
-- Notes: TBD
+July 16th:
+- accommodation: same (Rama School)
+- food: TBD – either early dinner at Rama School or in town
+- evening program: 7 pm, Yoga Balance Studio, Schwanallee 31, 35037 Marburg
+
+🏠 Accommodation
+- [Rama School - Ebersgrube 11, 35080 Bad Endbach](https://maps.app.goo.gl/…)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: Namur
-  - Notes: TBD
+- `16.07 - 19:00` Self‑realisation/Meditation – [Yoga Balance Studio, Schwanallee 31, 35037 Marburg](https://maps.app.goo.gl/…)
 
 {{% /details %}}
+
 {{% details title="**🇩🇪 17.07 to 20.07** - Frankfurt" closed="true" %}}
 
 🏠 Accommodation
@@ -780,10 +899,11 @@ July 5rd:
 ⚡ Programs
 
 - `DD.MM - hh:mm to hh:mm`
-  - Address: Namur
+  - Address: TBD
   - Notes: TBD
 
 {{% /details %}}
+
 {{% details title="**🇩🇪 20.07 to 23.07** - Karlsruhe" closed="true" %}}
 
 🏠 Accommodation
@@ -795,10 +915,11 @@ July 5rd:
 ⚡ Programs
 
 - `DD.MM - hh:mm to hh:mm`
-  - Address: Namur
+  - Address: TBD
   - Notes: TBD
 
 {{% /details %}}
+
 {{% details title="**🇨🇭 23.07 to 26.07** - Basel" closed="true" %}}
 
 🏠 Accommodation
@@ -810,7 +931,7 @@ July 5rd:
 ⚡ Programs
 
 - `DD.MM - hh:mm to hh:mm`
-  - Address: Namur
+  - Address: TBD
   - Notes: TBD
 
 {{% /details %}}
