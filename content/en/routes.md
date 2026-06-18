@@ -658,7 +658,7 @@ On the 4th of July, we will travel to Tampere by bus.
 - Dinner at the accommodation
 
 16th:
-- Program TBD
+- Program
 - Food to be prepared by the touring Yogis
 
 17th:
@@ -671,6 +671,7 @@ On the 4th of July, we will travel to Tampere by bus.
 
 ⚡ Programs
 - `15.07 - 18:00` - [Kauno menininkų namai - V. Putvinskio g. 56, Kaunas, 44211 Kauno m. sav., Lithuania](https://maps.app.goo.gl/mBsZisCKWCQ51n6D6)
+- `16.07 - 16:00` - [Bernardinų parkas - Unnamed Road, 01143 Vilnius, Lithuania](https://maps.app.goo.gl/meKmftX3A9Y7UnvE7)
 
 {{% /details %}}
 {{% details title="**🇵🇱 17.07 to 19.07** - Warsaw" closed="true" %}}
