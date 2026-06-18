@@ -1162,61 +1162,44 @@ July 16th:
 {{% details title="**🇧🇬 04.07 to 06.07** - Burgas" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- TBD
 
 ⚡ Programs
+- `04.07 - 16:00 to 18:00` Ethnographic Museum – Center, Burgas  - For Information contact: Vesi 0876 108 222
+- `05.07 - 10:00 to 12:00` Ethnographic Museum – Center, Burgas - For Information contact: Vesi 0876 108 222
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
 
 {{% /details %}}
 {{% details title="**🇧🇬 06.07 to 09.07** - Sofia" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- Sahaja Yoga Ashram Sofia, “Tzar Simeon” 71-73 str, Sofia 1000
 
 ⚡ Programs
+- `06.07 - 17:00-21:00` The Round Meadow – South Park, Sofia - Outdoor meditation Self-realization in the park Live music For Information: Stoyan 0876 407 507
+- `07.07 - 18:30-20:30` Summer Stage – Borisova Garden, Sofia For Information: Stoyan 0876 407 507
+- `08.07 - 18:30-20:30` Archaeological Park “Western Gate of Serdica” – Center, Sofia For Information: Stoyan 0876 407 507
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
 
 {{% /details %}}
 {{% details title="**🇧🇬 09.07 to 11.07** - Pleven" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- TBD
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `09.07 - 17:00 to 20:00` Kaylaka Park – Pleven - Notes: Self-Realization in the park Outdoor meditation Live music For Information: Rumi 0887 678 568
+- `10.07 - 18:00 to 20:00` “Katya Popova” Hall – Dimitar Konstantinov Street, Pleven For Information: Rumi 0887 678 568
 
 {{% /details %}}
 {{% details title="**🇧🇬 11.07 to 13.07** - Ruse" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
+- TBD
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `11.07 - 17:00 to 21:00` Youth Park – Ruse - Notes: Self-Realization in the park Outdoor meditation Live music For Information: Valya 0894 843 650
+- `12.07 - 18:30 to 20:30` Address: Fabrika Kultura – Center, Ruse For Information: Valya 0894 843 650
 
 {{% /details %}}
 {{% details title="**🇷🇴 13.07 to 15.07** - Craiova" closed="true" %}}
