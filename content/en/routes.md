@@ -560,7 +560,7 @@ On the 4th of July, we will travel to Tampere by bus.
 - `05.07 - 15:00 onwards` - Program at [Sahaj ashram - Puistomäki 6, 02610 Espoo](https://maps.app.goo.gl/TWWd3qdn4dG4AQwK6)
 
 {{% /details %}}
-{{% details title="**🇪🇪  06.07 to 09.07** - Tallinn" closed="true" %}}
+{{% details title="**🇪🇪  06.07 to 09.07** - Estonia" closed="true" %}}
 
 {{< callout type="info" >}}
   All meals and transport will be organized by the local yogis.
@@ -642,7 +642,7 @@ On the 4th of July, we will travel to Tampere by bus.
 - `13.07 - 18:00` - [Liepaja Music - Kuršu iela 20, Liepāja, LV-3401, Latvia](https://maps.app.goo.gl/FvyWyEqQcazfsBuG6)
 
 {{% /details %}}
-{{% details title="**🇱🇹 13.07 to 17.07** - Vilnius" closed="true" %}}
+{{% details title="**🇱🇹 13.07 to 17.07** - Lithuania" closed="true" %}}
 
 13th:
 - Program in Lativa and arriving in Lithuania
