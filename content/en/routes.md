@@ -584,6 +584,7 @@ On the 4th of July, we will travel to Tampere by bus.
 8th:
 - Visiting the Russalka Memorial and meditation at 11:00
 - Lunch around 15:00
+- Program at the your center at around 16:00
 - Preparing the hall for program from 17:00
 - Program at 18:00
 - Dinner at 20:30 followed by departure
@@ -598,6 +599,7 @@ On the 4th of July, we will travel to Tampere by bus.
 ⚡ Programs
 - `06.07 - 19:00 to 20:30` - [Hi, life studio - Vesivärava tn 50, 10152 Tallinn, Estonia](https://maps.app.goo.gl/XMef7rVLWeLhdiHH7)
 - `07.07 - 18:30 to 20:00` - [Kohtla-Järve Kultuurikeskus - Keskallee 36, Kohtla-Järve, 30321 Ida-Viru maakond, Estonia](https://maps.app.goo.gl/ccExpxbzB1wMxP1F6)
+- `08.07 - 16:00 to 18:00` - [Kesklinna noortekeskus - Raua tn 23, 10124 Tallinn, Estonia](https://maps.app.goo.gl/ZGV2W2kAAe5BsoUA9)
 - `08.07 - 18:00 to 20:30` - [Tallinn Teachers' House - Raekoja plats 14, 10146 Tallinn, Estonia](https://maps.app.goo.gl/kpea4qLFoa7kQtKV8)
 
 {{% /details %}}
