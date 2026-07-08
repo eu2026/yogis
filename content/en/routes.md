@@ -603,140 +603,193 @@ On the 4th of July, we will travel to Tampere by bus.
 - `08.07 - 18:00 to 20:30` - [Tallinn Teachers' House - Raekoja plats 14, 10146 Tallinn, Estonia](https://maps.app.goo.gl/kpea4qLFoa7kQtKV8)
 
 {{% /details %}}
-{{% details title="**🇱🇻 09.07 to 13.07** - Riga" closed="true" %}}
+{{% details title="**🇱🇻 09.07 to 13.07** - Latvia" closed="true" %}}
 
 {{< callout type="info" >}}
   All meals prepared by touring Yogis.
   For the daytrips needs to prepare and pack some food.
 {{< /callout >}}
 
-9th:
-- Arriving late evening to Latvia, relaxing time in nature at the staying place, evening meditation.
-- Cooking food by the tour.
+{{< callout type="info" >}}
+  For Latvia part responsible persons: Rokas +44 7478 922630 and Edita +370 656 64437
+{{< /callout >}}
 
-10th:
-- Morning havan, relaxing day at staying location with water activities in nearby river and sauna, extra vibrational work.
-- Breakfast, lunch, dinner - will be made by the tour.
+JULY 09, Thursday:
+  - Accommodation: Sidrabozoli, Līči, LV-2118, Latvia
+  - Arriving to the staying place Sidrabozoli, Līči, LV-2118, Latvia Rokas +44 7478 922630
+  - Evening group meditation
 
-11th:
-- Leaving for Riga in the morning. Sightseeing in the capital
-- Prepare for the program at 15:00
+JULY 10, Friday
+  - Accommodation: Sidrabozoli, Līči, LV-2118, Latvia
+  - 07:00 Morning group meditation
+  - 08:00 Breakfast
+  - 10:00 Havan
+  - 11:30 Meeting to discuss program and duties
+  - 12:30 Lunch
+  - Option 1: Go to Riga/Jelgava to give leaflets (maybe realizations) and a bit sightseeing. 
+  - Option 2: Stay in the place and rest
+  - Dinner
+  - Maybe footsoak by the sea
+  - Evening group meditation
 
-12th:
-- Relaxed morning
-- Program at 15:00
-- Dinner eating out and
+JULY 11, Saturday
+  - Accommodation: Sidrabozoli, Līči, LV-2118, Latvia
+  - 07:00 Morning group meditation
+  - 08:00 Breakfast
+  - 09:30 Leaving to town
+  - 10:00 Tour with guide in Riga
+  - 12:00 Lunch (or restaurant or pik-nik in the park)
+  - 13:30 Leaving to the program place
+  - 14:00 Soundcheck for musicians "Ropažu iela 2, Vidzemes priekšpilsēta, Rīga, LV-1039"
+  - 15:00 Program "Ropažu iela 2, Vidzemes priekšpilsēta, Rīga, LV-1039". Responsible: Rokas +44 7478 922630
+  - Footsoak in the river or sea after program. After or staying in Riga more or going back home.
+  - Dinner
+  - Evening group meditation
 
-13th:
-- 7:00 morning meditation
-- 9:00 leaving to Liepaja (3h. journey)
-- 13:00 lunch near the sea and, sea time.16:00 heading to Liepaja
-- After program heading to Lithuania.
-- Dinner will be provided by the local Yogis
+JULY 12, Sunday
+  - Accommodation: Sidrabozoli, Līči, LV-2118, Latvia
+  - 07:00 Morning group meditation
+  - 08:00 Breakfast (preparing lunch to take with)
+  - 10:00 leaving to Jelgava
+  - 11:00 Sightseeing
+  - 12:00 Lunch (pik-nik in the park)
+  - 13:00 Free time, cofe, more sightseeing.
+  - 14:00 Getting ready for program. Akadēmijas iela 10, Jelgava, LV-3001
+  - 15:00 Program Akadēmijas iela 10, Jelgava, LV-3001. Responsible: Rokas +44 7478 922630
+  - Dinner
+  - Sauna: brothers and sisters separetly
+  - Evening group meditation
 
-🏠 Accommodation
-- 09.07–12.07: [Sidrabozoli - viesu nams - Sidrabozoli, Līči, LV-2118, Latvia](https://maps.app.goo.gl/BVH2sCTEuq4GA2cD8)
-- 12.07–13.07: Near Klaipėda - TBD
-
-⚡ Programs
-- `11.07 - 15:00` - [Ropažu iela 2, Vidzemes priekšpilsēta, Rīga, LV-1039, Latvia](https://maps.app.goo.gl/Kyzuveh7GyR4CukF7)
-- `12.07 - 15:00` - [Akadēmijas iela 10, Jelgava, LV-3001, Latvia](https://maps.app.goo.gl/FuzAhszBmUpamiU47)
-- `13.07 - 18:00` - [Liepaja Music - Kuršu iela 20, Liepāja, LV-3401, Latvia](https://maps.app.goo.gl/FvyWyEqQcazfsBuG6)
+JULY 13, Monday
+  - 07:00 Morning group meditation
+  - 08:00 Breakfast
+  - 10:00 Packing and leaving to Liepaja (not coming back)
+  - 15:00 Lunch in Liepaja (where?)
+  - Street realization / leafleting / time by the sea
+  - 17:00 Preaparation for program Kuršu iela 20, Liepāja, LV-3401
+  - 18:00 Program in Liepaja Kuršu iela 20, Liepāja, LV-3401. Responsible: Rokas +44 7478 922630
+  - Footsoak in the sea after program (if it will be not too late)
+  - Arrival in Priekulė, at Daiva. Raštų gatvė 4, Pangesai, 96344 Klaipėdos r. sav.
+  - Dinner
+  - Evening group meditation
+  - For Lithuania part responsible person: Edita +370 656 64437
 
 {{% /details %}}
 {{% details title="**🇱🇹 13.07 to 17.07** - Lithuania" closed="true" %}}
 
-13th:
-- Program in Lativa and arriving in Lithuania
+{{< callout type="info" >}}
+  For Lithuania part responsible person: Edita +370 656 64437
+  
+  For Vilnius part responsible person: Emilis +370 677 73286
+{{< /callout >}}
 
-14th:
-- free day
+JULY 13, Monday
+  - 07:00 Morning group meditation
+  - 08:00 Breakfast
+  - 10:00 Packing and leaving to Liepaja (not coming back)
+  - 15:00 Lunch in Liepaja (where?)
+  - Street realization / leafleting / time by the sea
+  - 17:00 Preaparation for program Kuršu iela 20, Liepāja, LV-3401
+  - 18:00 Program in Liepaja Kuršu iela 20, Liepāja, LV-3401. Responsible: Rokas +44 7478 922630
+  - Footsoak in the sea after program (if it will be not too late)
+  - Arrival in Priekulė, at Daiva. Raštų gatvė 4, Pangesai, 96344 Klaipėdos r. sav.
+  - Dinner
+  - Evening group meditation
+  - For Lithuania part responsible person: Edita +370 656 64437
 
-15th:
-- Meditation and breakfast (preapred by the tour)
-- Leaving to Kaunas around 10am
-- Lunch eating out
-- Program at 18:00
-- Dinner at the accommodation
+JULY 14, Tuesday
+  - Morning group meditation
+  - Breakfast
+  - Havan
+  - Lunch
+  - Trip to Juodkrantė, sightseeing. 
+  - Dinner
+  - Evening group meditation
 
-16th:
-- Program
-- Food to be prepared by the touring Yogis
+JULY 15, Wednesday
+  - Morning group meditation
+  - Breakfast
+  - Trip to Kaunas
+  - 14:00 Lunch — ČIOP ČIOP Gedimino g. 44, Kaunas.  Responsible: Ieva, +370 695 32497
+  - 16:00 Preparing for the concert in the hall V. Putvinskio g. 56, Kaunas
+  - 18:00 Concert at Kaunas Artists' House V. Putvinskio g. 56, Kaunas.  Responsible: Ieva, +370 695 32497
+  - Dinner
+  - Trip to Vilnius
+  - Overnight stay in Vilnius
+  - Evening group meditation
 
-17th:
-- departure to Warsaw from the Vilnius Central Train Station at 12:24
+JULY 16, Thursday
+  - Morning group meditation
+  - Breakfast
+  - Sightseeing
+  - Lunch
+  - 16:00 Concert at Bernardinai Garden B. Radvilaitės g. 8A, Vilnius.  Responsible: Tomas Drunga +370 647 75043
+  - Dinner
 
-
-🏠 Accommodation
-- 13.07–14.07: Near Klaipėda - TBD
-- 15.07–17.07: At yogis' homes in Vilnius - TBD
-
-⚡ Programs
-- `15.07 - 18:00` - [Kauno menininkų namai - V. Putvinskio g. 56, Kaunas, 44211 Kauno m. sav., Lithuania](https://maps.app.goo.gl/mBsZisCKWCQ51n6D6)
-- `16.07 - 16:00` - [Bernardinų parkas - Unnamed Road, 01143 Vilnius, Lithuania](https://maps.app.goo.gl/meKmftX3A9Y7UnvE7)
-
-{{% /details %}}
-{{% details title="**🇵🇱 17.07 to 19.07** - Warsaw" closed="true" %}}
-
-🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
-
-⚡ Programs
-
-- `19.07 - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
-
-{{% /details %}}
-{{% details title="**🇵🇱 19.07 to 20.07** - Kracow" closed="true" %}}
-
-🏠 Accommodation
-
-- Addresses:
-  - TBD
-- Notes: TBD
-
-⚡ Programs
-
-- `20.07 - hh:mm to hh:mm`
-  - Address: Kracow
-  - Notes: TBD
+JULY 17, Friday
+  - Morning group meditation
+  - Breakfast
+  - Seeing guests off to the train to Warsaw.
 
 {{% /details %}}
-{{% details title="**🇵🇱 20.07 to 22.07** - Katowice / Tychy" closed="true" %}}
+{{% details title="**🇵🇱 17.07 to 25.07** - Poland" closed="true" %}}
 
-🏠 Accommodation
+{{< callout type="info" >}}
+  Contact person is Piotr +48 511 458 302
+{{< /callout >}}
 
-- Addresses:
-  - TBD
-- Notes: TBD
+17.07. WARSAW
+  - 7pm - collective meditation &dinner - Grojecka 70a
 
-⚡ Programs
+18.07. WARSAW
+  - 11am-18pm - park realisation - Park Kultury Powsin 
+  - 18pm-20pm - concert in park - 
+  - Park Kultury Powsin
+  - 21pm - collective meditation &dinner - Grojecka 70a
 
-- `22.07 - hh:mm to hh:mm`
-  - Address: Opole
-  - Notes: TBD
+19.07 WARSAW 
+  - 9am - collective meditation &breakfast - Grojecka 70a
+  - KATOWICE
+  - 2pm - lunch
+  - 5-7pm Park Zadole
+  - TYCHY
+  - 8pm - collective meditation &dinner Zgrzebnioka 56/1
 
-{{% /details %}}
-{{% details title="**🇵🇱 22.07 to 25.07** - Zielona Gora" closed="true" %}}
+20.07 TYCHY
+  - 8am - collective meditation &dinner Zgrzebnioka 56/1
+  - 11:30am - collective brunch
+  - 2pm - sightseeing in Cracow
+  - 7pm - dinner in Old Town
 
-🏠 Accommodation
+21.07 CRACOW
+  - 8am - collective meditation&breakfast
+  - 10:30am - 6pm street realisation with a break for a lunch 
+  - 7pm - dinner
 
-- Addresses:
-  - TBD
-- Notes: TBD
+22.07 CRACOW
+  - 8:00 collective meditation&breakfast
+  - 9am-2pm - travel to Ksiaz Slaski
+  - 2pm- lunch in Ksiaz Slaski in yogi’s house
+  - 7pm - bonfire & dinner
+  - 9pm - collective meditation in sahaj farm in Klepsk
 
-⚡ Programs
+23.07. KLEPSK
+  - 8:00am - collective meditation & breakfast 
+  - 1pm - lunch
+  - 6pm-8pm - concert in Klepsk
+  - 8pm - collective dinner
 
-- `24.07 - hh:mm to hh:mm`
-  - Address: Sulejow
-  - Notes: TBD
-- `25.07 - hh:mm to hh:mm`
-  - Address: Zielona Gora
-  - Notes: TBD
+24.07 KLEPSK
+  - 8am - collective mediation&breakfast
+  - 10am - street realisation in Zielona Gora
+  - 1pm - lunch in sahaj centre 
+  - 2pm - street realisation in Zielona Gora
+  - 6:30-8:30 - concert in main square in Zielona Gora
+  - 9:00 - dinner
+
+25.07 KLEPSK
+  - 8am - collective mediation&breakfast
+  - 10am - leave for a trainstation
 
 {{% /details %}}
 {{% details title="**🇩🇪 25.07 to 27.07** - Berlin" closed="true" %}}
@@ -873,7 +926,7 @@ July 14th (Cologne):
 
 July 15th:
 - accommodation: Rama School, Ebersgrube 11, Bad Endbach
-- cost: 11 €/night/person
+- cost: 12 €/night/person
 - no outside program – day of rest
 - activities: treatments, enjoying nature, collective time (exact schedule depends on arrival time)
 - food: Rama School team will cook; possible need for collective help
