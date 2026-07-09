@@ -1009,9 +1009,9 @@ July 16th:
 - 12th to 13th: [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
 
 ⚡ Programs
-
-- `12.07 - hh:mm to hh:mm` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
-- `13.07 - hh:mm to hh:mm` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
+- `11.07 - 14:00 to 17:00` [The castle of Blansko - nám. Svobody 7, 678 01 Blansko 1, Czechia](https://maps.app.goo.gl/MpZtL1yZy6f8UZbL7)
+- `12.07 - 15:00 to 16:30 and 18:00 to 19:30` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
+- `13.07 - 15:00 to 16:30 and 18:00 to 19:30` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
 
 {{% /details %}}
 {{% details title="**🇨🇿 12.07 to 13.07** - Frýdek-Místek" closed="true" %}}
