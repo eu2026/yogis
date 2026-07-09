@@ -999,32 +999,19 @@ July 16th:
 23rd to 25th Bregenz
 {{% details title="**🇦🇹 09.07 to 10.07** - Vienna" closed="true" %}}
 
-🏠 Accommodation
-
-- Addresses:
-  - Nirmal Prasht
-- Notes: xxx
-
-⚡ Programs
-
-- `10.07 - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
+{{< youtube id=dQw4w9WgXcQ loading=lazy >}}
 
 {{% /details %}}
-{{% details title="**🇨🇿 10.07 to 12.07** - Blansko" closed="true" %}}
+{{% details title="**🇨🇿 10.07 to 13.07** - Czech" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - xxx
-- Notes: xxx
+- 10th to 12th: [Koupaliště a kemp Křtiny - Křtiny 37, 679 05 Křtiny, Czechia](https://maps.app.goo.gl/21Zf5GpjgAfFeQGi8)
+- 12th to 13th: [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
 
 ⚡ Programs
 
-- `DD.MM - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
+- `12.07 - hh:mm to hh:mm` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
+- `13.07 - hh:mm to hh:mm` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
 
 {{% /details %}}
 {{% details title="**🇨🇿 12.07 to 13.07** - Frýdek-Místek" closed="true" %}}
@@ -1042,7 +1029,7 @@ July 16th:
   - Notes: xxx
 
 {{% /details %}}
-{{% details title="**🇸🇰 13.07 to 16.07** - Banská Bystrica" closed="true" %}}
+{{% details title="**🇸🇰 13.07 to 16.07** - Slovakia" closed="true" %}}
 
 🏠 Accommodation
 
