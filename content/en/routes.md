@@ -1004,6 +1004,13 @@ July 16th:
 {{% /details %}}
 {{% details title="**🇨🇿 10.07 to 13.07** - Czech" closed="true" %}}
 
+- on the 13th, depart to Slovakia.
+
+{{< callout type="info" >}}
+  Possibly one group should go earlier because check-in in Slovakia is until 20:00
+{{< /callout >}}
+
+
 🏠 Accommodation
 - 10th to 12th: [Koupaliště a kemp Křtiny - Křtiny 37, 679 05 Křtiny, Czechia](https://maps.app.goo.gl/21Zf5GpjgAfFeQGi8)
 - 12th to 13th: [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
@@ -1014,64 +1021,40 @@ July 16th:
 - `13.07 - 15:00 to 16:30 and 18:00 to 19:30` [Autokemp Olešná - Nad přehradou, 738 01 Frýdek-Místek 1, Czechia](https://maps.app.goo.gl/VYA6kCB5FwJFxYrH6)
 
 {{% /details %}}
-{{% details title="**🇨🇿 12.07 to 13.07** - Frýdek-Místek" closed="true" %}}
+{{% details title="**🇸🇰 13.07 to 15.07** - Slovakia" closed="true" %}}
+
+{{< callout type="info" >}}
+  check-in is until 20:00.
+
+  We must make sure to send one group early enough for check-in!
+{{< /callout >}}
 
 🏠 Accommodation
-
-- Addresses:
-  - xxx
-- Notes: xxx
+- 13th to 16th: [Sklené 474, 038 47 Sklené, Slovakia](https://maps.app.goo.gl/64Cgg91qkijThsxH6)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
+- `14.07 - 18:00 to 20:00` [365.labb - Lazovná 5, 974 01 Banská Bystrica, Slovakia](https://maps.app.goo.gl/XCcyL2jeYB5X4zcU7)
+- `15.07 - 18:00 to 20:00` [Námestie SNP - 960 01 Zvolen, Slovakia](https://maps.app.goo.gl/sYvpFqyypvDdMJHy8)
 
 {{% /details %}}
-{{% details title="**🇸🇰 13.07 to 16.07** - Slovakia" closed="true" %}}
+{{% details title="**🇭🇺 15.07 to 19.07** - Hungary" closed="true" %}}
+
+Estimated time of arrival 22:00 to 23:00
+
+July 15 - Arrival at Bp sahaj center - Budapest, Reitter Ferenc u. 132, 1131
+
+July 16 - sightseeing: use the farries, giving realisation at the city park, have bhajans and henna
+In the evening bhajan night
+
+July 17 - leave for Siófok Balaton. Have a big stage concert outdoors at Siófok, Krúdy stny. 2, 8600 from 18-20:00. Have time to look around before. 
+
+July 18 - have concert at the accommodation place: Siófok, Szent László u. 185, 8600
+
+July 19 - leave for next country
 
 🏠 Accommodation
-
-- Addresses:
-  - xxx
-- Notes: xxx
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
-
-{{% /details %}}
-{{% details title="**🇭🇺 16.07 to 18.07** - Budapest" closed="true" %}}
-
-🏠 Accommodation
-
-- Addresses:
-  - xxx
-- Notes: xxx
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
-
-{{% /details %}}
-{{% details title="**🇭🇺 18.07 to 19.07** - Balaton" closed="true" %}}
-
-🏠 Accommodation
-
-- Addresses:
-  - xxx
-- Notes: xxx
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
+- 15th to 17th: [Sahaja Jóga Központ - Budapest, Reitter Ferenc u. 132-C" épület, 1131 Hungary](https://maps.app.goo.gl/pgWWAbPZA2K85Xn67)
+- 17th to 19th: [Siófok, Szent László u. 185, 8600](https://maps.app.goo.gl/rkR21pFiqAncvsDF7)
 
 {{% /details %}}
 {{% details title="**🇦🇹 19.07 to 21.07** - Klagenfurt" closed="true" %}}
@@ -1092,25 +1075,14 @@ July 16th:
 {{% details title="**🇩🇪 21.07 to 23.07** - Munich" closed="true" %}}
 
 🏠 Accommodation
+- 21th to 23rd - [Kapuzinerstraße 19 -, Munich, Bavaria 80337, Germany](https://maps.app.goo.gl/YvP1QkPgJAXzi7559)
 
-- Addresses:
-  - xxx
-- Notes: xxx
-
-⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: xxx
-  - Notes: xxx
 
 {{% /details %}}
-{{% details title="**🇦🇹 23.07 to 25.07** - Bregenz" closed="true" %}}
+{{% details title="**🇦🇹 23.07 to 25.07** - Switzerland" closed="true" %}}
 
 🏠 Accommodation
-
-- Addresses:
-  - xxx
-- Notes: xxx
+- 23rd to 25th: [Hotel Aeschi Park - Dorfstrasse 8, 3703 Aeschi bei Spiez, Switzerland](https://maps.app.goo.gl/qxJsDDWfRdxf6jub8)
 
 ⚡ Programs
 
