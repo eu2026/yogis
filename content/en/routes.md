@@ -1136,17 +1136,22 @@ July 19 - leave for next country
 {{% /details %}}
 {{% details title="**🇩🇪 20.07 to 23.07** - Hamburg" closed="true" %}}
 
-🏠 Accommodation
+{{< callout type="info" >}}
+  Better to arrive after 15h.
+{{< /callout >}}
 
-- Addresses:
-  - TBD
-- Notes: TBD
+{{< callout type="info" >}}
+  Local contact Diana +49 176 49619233
+{{< /callout >}}
+
+🏠 Accommodation
+- [Nienhagener Str. 93, 22147 Wandsbek, Germany](https://maps.app.goo.gl/7Fa1pa2UbYnFmnRa9)
+- [Nienhagener Str. 95, 22147 Wandsbek, Germany](https://maps.app.goo.gl/Z2ejHxXXLB4TySAf8)
 
 ⚡ Programs
-
-- `DD.MM - hh:mm to hh:mm`
-  - Address: TBD
-  - Notes: TBD
+- `21.07 - 16:00 to 20:00` [Bandstand Freilichtbuhne Planten Un Blomen - Planten un Blomen, Jungiusstraße, 20355 Hamburg, Germany](https://maps.app.goo.gl/rs29ZHjch2jgu4K28)
+- `22.07 - 16:00 to 20:00` [Bandstand Freilichtbuhne Planten Un Blomen - Planten un Blomen, Jungiusstraße, 20355 Hamburg, Germany](https://maps.app.goo.gl/rs29ZHjch2jgu4K28)
+- `23.07 - 16:00 to 20:00` [Bandstand Freilichtbuhne Planten Un Blomen - Planten un Blomen, Jungiusstraße, 20355 Hamburg, Germany](https://maps.app.goo.gl/rs29ZHjch2jgu4K28)
 
 {{% /details %}}
 {{% details title="**🇳🇱 23.07 to 25.07** - Amsterdan" closed="true" %}}
